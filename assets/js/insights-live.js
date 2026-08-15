@@ -1,143 +1,17 @@
 (()=>{
-  'use strict';
-
-  if(!/(^|\/)insights(?:\/|\.html)?$/.test(location.pathname.toLowerCase())) return;
-
-  const lang=(document.documentElement.lang||'vi').toLowerCase();
-  const copy=lang.startsWith('zh')?{
-    updated:'更新',loading:'正在加载最新资讯…',error:'暂时无法加载最新资讯，正在显示备用内容。',open:'打开原文 ↗'
-  }:lang.startsWith('en')?{
-    updated:'Updated',loading:'Loading the latest news…',error:'Latest feed is temporarily unavailable. Showing fallback content.',open:'Open source ↗'
-  }:{
-    updated:'Cập nhật',loading:'Đang tải tin mới nhất…',error:'Tạm thời chưa tải được bản tin mới — đang hiển thị nội dung dự phòng.',open:'Bài gốc ↗'
-  };
-
-  const fallback='/assets/images/social/og-insights-2026.png';
-  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const safeUrl=v=>{
-    try{
-      const u=new URL(String(v||''),location.origin);
-      return /^https?:$/.test(u.protocol)?u.href:'#';
-    }catch(_){return '#'}
-  };
-
-  function storyCard(it){
-    const image=safeUrl(it?.image||fallback);
-    const meta=[it?.source||'',it?.time||''].filter(Boolean).join(' · ');
-    return `<article class="story reveal in" data-title="${esc(it?.title||'')}" data-summary="${esc(it?.summary||'')}" data-url="${esc(safeUrl(it?.url))}">
-      <img alt="" loading="lazy" decoding="async" src="${esc(image)}" onerror="this.onerror=null;this.src='${fallback}'">
-      <div class="story-copy">
-        <div class="story-meta">${esc(meta)}</div>
-        <h3>${esc(it?.title||'')}</h3>
-        <p>${esc(it?.summary||'')}</p>
-      </div>
-    </article>`;
-  }
-
-  function mediaCard(it){
-    return `<article class="media-card">
-      <div class="src">${esc(it?.source||'')}</div>
-      <h3>${esc(it?.title||'')}</h3>
-      <a href="${esc(safeUrl(it?.url))}" rel="noopener noreferrer" target="_blank">${esc(copy.open)}</a>
-    </article>`;
-  }
-
-  function setGrid(el,items,renderer=storyCard){
-    if(!el||!Array.isArray(items)||!items.length) return false;
-    el.innerHTML=items.map(renderer).join('');
-    return true;
-  }
-
-  const domestic=document.getElementById('domesticGrid');
-  const statusHost=domestic?.closest('.container')||document.querySelector('main .container');
-  let status=document.getElementById('dngNewsFreshness');
-  if(statusHost&&!status){
-    status=document.createElement('div');
-    status.id='dngNewsFreshness';
-    status.setAttribute('aria-live','polite');
-    const row=statusHost.querySelector('.section-title-row');
-    if(row) row.insertAdjacentElement('afterend',status); else statusHost.prepend(status);
-  }
-
-  const style=document.createElement('style');
-  style.textContent='#dngNewsFreshness{margin:-6px 0 18px;color:#91a59e;font-size:11px;letter-spacing:.05em}#dngNewsFreshness.is-live{color:#8ff5d2}#dngNewsFreshness.is-error{color:#f3c577}';
-  document.head.appendChild(style);
-  if(status) status.textContent=copy.loading;
-
-  function openReader(story){
-    const reader=document.getElementById('reader');
-    const title=document.getElementById('rTitle');
-    const summary=document.getElementById('rSummary');
-    const origin=document.getElementById('rOrigin');
-    if(!reader||!title||!summary||!origin) return;
-    title.textContent=story.dataset.title||'';
-    summary.textContent=story.dataset.summary||'';
-    origin.href=safeUrl(story.dataset.url||'#');
-    reader.classList.add('open');
-  }
-
-  document.addEventListener('click',e=>{
-    const story=e.target.closest?.('.story');
-    if(story) openReader(story);
-  });
-
-  function render(data){
-    const storySections=[...document.querySelectorAll('section.section-sm')].filter(s=>s.querySelector('.stories'));
-    const domesticSection=domestic?.closest('section.section-sm');
-    const remaining=storySections.filter(s=>s!==domesticSection);
-    const worldGrid=remaining[0]?.querySelector('.stories');
-    const marketsGrid=remaining[1]?.querySelector('.stories');
-    const aiGrid=remaining[2]?.querySelector('.stories');
-    const mediaGrid=document.querySelector('.media-grid');
-
-    let mode='latest';
-    const drawDomestic=()=>setGrid(domestic,mode==='popular'?data.popular_vn:data.latest_vn);
-    drawDomestic();
-
-    document.querySelectorAll('[data-domestic]').forEach(btn=>{
-      btn.onclick=()=>{
-        document.querySelectorAll('[data-domestic]').forEach(x=>x.classList.remove('on'));
-        btn.classList.add('on');
-        mode=btn.dataset.domestic==='popular'?'popular':'latest';
-        drawDomestic();
-      };
-    });
-
-    setGrid(worldGrid,data.world);
-    setGrid(marketsGrid,data.markets);
-    setGrid(aiGrid,data.ai_news);
-    setGrid(mediaGrid,data.media,mediaCard);
-
-    if(status){
-      const d=new Date(data.updated_at||Date.now());
-      const locale=lang.startsWith('zh')?'zh-CN':lang.startsWith('en')?'en-GB':'vi-VN';
-      const stamp=Number.isNaN(d.getTime())?String(data.updated_at||''):d.toLocaleString(locale,{
-        dateStyle:'short',timeStyle:'short',timeZone:'Asia/Ho_Chi_Minh'
-      });
-      status.textContent=`${copy.updated}: ${stamp}`;
-      status.classList.remove('is-error');
-      status.classList.add('is-live');
-    }
-  }
-
-  fetch('/data/news.json?ts='+Date.now(),{
-    cache:'no-store',
-    headers:{Accept:'application/json'}
-  })
-  .then(r=>{
-    if(!r.ok) throw new Error(`News HTTP ${r.status}`);
-    return r.json();
-  })
-  .then(data=>{
-    if(!data||!Array.isArray(data.latest_vn)) throw new Error('Invalid news payload');
-    render(data);
-  })
-  .catch(err=>{
-    console.error('DNG Insights live feed failed:',err);
-    if(status){
-      status.textContent=copy.error;
-      status.classList.add('is-error');
-      status.classList.remove('is-live');
-    }
-  });
+'use strict';if(!/(^|\/)insights(?:\/|\.html)?$/.test(location.pathname.toLowerCase()))return;
+const lang=(document.documentElement.lang||'vi').toLowerCase();
+const copy=lang.startsWith('zh')?{updated:'更新',loading:'正在加载…',error:'暂时无法加载最新内容',source:'查看来源',analyze:'用 DNG AI 分析',video:'视频'}:lang.startsWith('en')?{updated:'Updated',loading:'Loading…',error:'Latest feed unavailable',source:'Open source',analyze:'Analyze with DNG AI',video:'Video'}:{updated:'Cập nhật',loading:'Đang tải nội dung mới…',error:'Tạm thời chưa tải được bản tin mới',source:'Bài gốc',analyze:'Phân tích bằng DNG AI',video:'Video'};
+const fallback='/assets/images/social/og-insights-2026.png';const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const safe=v=>{try{const u=new URL(String(v||''),location.origin);return /^https?:$/.test(u.protocol)?u.href:'#'}catch(_){return'#'}};
+function story(it){return `<article class="story reveal in" data-title="${esc(it.title)}" data-summary="${esc(it.summary)}" data-url="${esc(safe(it.url))}"><img alt="" loading="lazy" decoding="async" src="${esc(safe(it.image||fallback))}" onerror="this.onerror=null;this.src='${fallback}'"><div class="story-copy"><div class="story-meta">${esc([it.source,it.time].filter(Boolean).join(' · '))}</div><h3>${esc(it.title)}</h3><p>${esc(it.summary)}</p></div></article>`}
+function youtubeEmbed(u){try{const x=new URL(u);if(x.hostname.includes('youtube.com')){const m=x.pathname.match(/\/embed\/([^/?]+)/)||[null,x.searchParams.get('v')];if(m[1])return'https://www.youtube-nocookie.com/embed/'+m[1]}if(x.hostname==='youtu.be')return'https://www.youtube-nocookie.com/embed/'+x.pathname.slice(1)}catch(_){}return''}
+function media(it){const m=safe(it.media_url||it.url),article=safe(it.article_url||it.url),yt=youtubeEmbed(m),mp4=/\.mp4(?:$|\?)/i.test(m);let player='';if(yt)player=`<iframe loading="lazy" src="${esc(yt)}" title="${esc(it.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`;else if(mp4)player=`<video controls playsinline preload="metadata" src="${esc(m)}"></video>`;else if(it.image)player=`<img loading="lazy" alt="" src="${esc(safe(it.image))}">`;return `<article class="media-card dng-media-v21">${player}<div class="src">${esc(it.source||copy.video)}</div><h3>${esc(it.title)}</h3><a href="${esc(article)}" rel="noopener noreferrer" target="_blank">${copy.source} ↗</a></article>`}
+function grid(el,items,fn=story){if(!el||!Array.isArray(items)||!items.length)return;el.innerHTML=items.map(fn).join('')}
+function makeSection(title,items,after){if(!Array.isArray(items)||!items.length)return after;const s=document.createElement('section');s.className='section-sm dng-dynamic-section';s.innerHTML=`<div class="container"><div class="section-title-row"><h2>${esc(title)}</h2></div><div class="stories"></div></div>`;after.after(s);grid(s.querySelector('.stories'),items);return s}
+const domestic=document.getElementById('domesticGrid');const storySections=[...document.querySelectorAll('section.section-sm')].filter(s=>s.querySelector('.stories'));const domesticSection=domestic?.closest('section.section-sm');const rem=storySections.filter(s=>s!==domesticSection);const world=rem[0]?.querySelector('.stories'),markets=rem[1]?.querySelector('.stories'),ai=rem[2]?.querySelector('.stories'),mediaGrid=document.querySelector('.media-grid');
+let status=document.getElementById('dngNewsFreshness');if(!status&&domesticSection){status=document.createElement('div');status.id='dngNewsFreshness';domesticSection.querySelector('.container')?.prepend(status)}
+const st=document.createElement('style');st.textContent='#dngNewsFreshness{margin:0 0 18px;color:#91a59e;font-size:11px}.dng-media-v21 iframe,.dng-media-v21 video,.dng-media-v21 img{width:100%;aspect-ratio:16/9;border:0;border-radius:14px;background:#000;object-fit:cover}.dng-reader-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}.dng-reader-actions button{border:1px solid rgba(71,240,186,.32);background:rgba(71,240,186,.08);color:#8ff5d2;border-radius:999px;padding:9px 12px;cursor:pointer}';document.head.appendChild(st);if(status)status.textContent=copy.loading;
+function openReader(s){const r=document.getElementById('reader'),t=document.getElementById('rTitle'),sum=document.getElementById('rSummary'),o=document.getElementById('rOrigin');if(!r||!t||!sum||!o)return;t.textContent=s.dataset.title||'';sum.textContent=s.dataset.summary||'';o.href=safe(s.dataset.url);let actions=r.querySelector('.dng-reader-actions');if(!actions){actions=document.createElement('div');actions.className='dng-reader-actions';const b=document.createElement('button');b.type='button';b.textContent=copy.analyze;b.onclick=()=>{document.getElementById('dng-ai-global-trigger')?.click();setTimeout(()=>{const ta=document.querySelector('#dng-ai-global-panel textarea');if(ta){ta.value=`Phân tích tin này: ${t.textContent}\nTóm tắt: ${sum.textContent}\nNguồn: ${o.href}\nCho tôi: điều quan trọng, tác động, điều cần theo dõi.`;ta.focus()}},150)};actions.appendChild(b);o.before(actions)}r.classList.add('open')}
+document.addEventListener('click',e=>{const s=e.target.closest?.('.story');if(s)openReader(s)});
+fetch('/data/news.json?ts='+Date.now(),{cache:'no-store',headers:{Accept:'application/json'}}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(d=>{let mode='latest';const draw=()=>grid(domestic,mode==='popular'?d.popular_vn:d.latest_vn);draw();document.querySelectorAll('[data-domestic]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-domestic]').forEach(x=>x.classList.remove('on'));b.classList.add('on');mode=b.dataset.domestic==='popular'?'popular':'latest';draw()});grid(world,d.world);grid(markets,d.markets);grid(ai,d.ai_news);grid(mediaGrid,d.media,media);let anchor=rem[2]||domesticSection;if(d.tech_news?.length)anchor=makeSection(lang.startsWith('en')?'Technology':lang.startsWith('zh')?'科技':'Công nghệ',d.tech_news,anchor);if(d.science_news?.length)anchor=makeSection(lang.startsWith('en')?'Science & Future':lang.startsWith('zh')?'科学与未来':'Khoa học & Tương lai',d.science_news,anchor);if(status){const dt=new Date(d.updated_at||Date.now());status.textContent=`${copy.updated}: ${dt.toLocaleString(lang.startsWith('en')?'en-GB':lang.startsWith('zh')?'zh-CN':'vi-VN',{timeZone:'Asia/Ho_Chi_Minh'})}`}}).catch(e=>{console.error(e);if(status)status.textContent=copy.error});
 })();

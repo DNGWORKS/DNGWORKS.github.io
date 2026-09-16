@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-09-16T22:11:52+07:00",
+  "updated_at": "2026-09-17T02:47:38+07:00",
   "latest_vn": [
-    {
-      "source": "VnExpress",
-      "time": "16/09 · 15:04",
-      "title": "Tướng Ba Lan tiết lộ vụ F-16 suýt bắn rơi MiG-29 Ukraine",
-      "summary": "Tiêm kích F-16 Ba Lan từng suýt hạ chiếc MiG-29 bay gần biên giới khi ứng phó cuộc tập kích của Nga nhằm vào Ukraine hôm 30/7.",
-      "url": "https://vnexpress.net/tuong-ba-lan-tiet-lo-vu-f-16-suyt-ban-roi-mig-29-ukraine-5120926.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/16/5563187178137269505a-178953492-3444-3859-1789535145.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PAQgm-N2e-BsDmrH_L9gDA",
-      "media": "",
-      "media_url": ""
-    },
     {
       "source": "VnExpress",
       "time": "16/09 · 15:00",
@@ -120,86 +110,96 @@
       "image": "https://vcdn1-giadinh.vnecdn.net/2026/09/15/screenshot-at-1789488730-5225-1789488926.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3Mn6TShURodCO4zDJRIa-Q",
       "media": "",
       "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "16/09 · 14:18",
+      "title": "MPV cỡ B tháng 8 - doanh số giảm, Xpander vẫn dẫn đầu",
+      "summary": "Sức mua chững lại ở tháng 8 nhưng lũy kế từ đầu 2026 vẫn tăng nhẹ so với cùng kỳ 2025, Xpander tiếp tục ăn khách nhất.",
+      "url": "https://vnexpress.net/mpv-co-b-thang-8-doanh-so-giam-xpander-van-dan-dau-5120736.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/16/MPV-1789515937.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MqoCUWmFQYryPJUTzuLOGg",
+      "media": "",
+      "media_url": ""
     }
   ],
   "popular_vn": [
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Cháy nhà ở Hà Nội, 5 người chết",
-      "summary": "Lửa bùng lên tại ngôi nhà 4 tầng trong ngõ Văn Cao, phường Tây Hồ lúc rạng sáng 16/9, khiến 5 người tử vong, 5 người chạy thoát.",
-      "url": "https://vnexpress.net/chay-nha-o-ha-noi-5-nguoi-chet-5120735.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/16/unknown-1789516401-5602-1789516504.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=5o9c84HOt6Cndga-6YXu-w",
+      "title": "Ôtô tông loạt xe máy dừng đèn đỏ ở TP HCM",
+      "summary": "Ôtô Mercedes tông 3 xe máy dừng đèn đỏ trước Khu công nghiệp Tân Bình, phường Tây Thạnh, hai người bị thương, trưa 16/9.",
+      "url": "https://vnexpress.net/oto-tong-loat-xe-may-dung-den-do-o-tp-hcm-5120940.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/16/0a3fb267-fe70b07-a5f5-e403efd3-9002-4037-1789542135.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=wLCGkgqGIWYc204A9d3LBg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Trường Giang rút khỏi show '2 ngày 1 đêm'",
+      "summary": "Diễn viên Trường Giang cho biết sẽ vắng mặt trong đợt ghi hình tiếp theo của show truyền hình thực tế \"2 ngày 1 đêm\" giữa ồn ào bủa vây.",
+      "url": "https://vnexpress.net/truong-giang-rut-khoi-show-2-ngay-1-dem-5120986.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/09/16/481080546-n-1789545913-8323-1789546137.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=sU0CTruxe_DT1mdUL0ciSg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "CEO của Box Việt Nam bị truy nã vì xâm phạm bản quyền",
+      "summary": "Bắc Ninh- Ông Bùi Bá Hiến, CEO Công ty Cổ phần Box Việt Nam, vừa bị phát lệnh truy nã với cáo buộc xâm phạm quyền tác giả.",
+      "url": "https://vnexpress.net/ceo-cua-box-viet-nam-bi-truy-na-vi-xam-pham-ban-quyen-5120802.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/16/1-1789525142-3457-1789525158.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=AGhbG32VH6BfxvNnyOpEUQ",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Phong cách hiện đại pha truyền thống của Hoàng hậu Thái Lan",
+      "summary": "Hoàng hậu Thái Lan Suthida thu hút nhờ nhan sắc, phong cách mặc hiện đại kết hợp nét văn hóa truyền thống của đất nước bà.",
+      "url": "https://vnexpress.net/phong-cach-hien-dai-pha-truyen-thong-cua-hoang-hau-thai-lan-5120262.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/09/15/suthida-hoang-hau-thai-lan-1789448511.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=yHrsxqkwj0NbPr9CxQOh9A",
       "media": "video",
-      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/09/16/nha-4-tang-trong-ngo-boc-chay-rang-sang-khien-5-nguoi-tu-von-1789551649/vne/master.m3u8"
+      "media_url": "https://d1.vnecdn.net/giaitri/video/video/web/mp4/,240p,360p,480p,,/2026/09/16/vua-va-hoang-hau-thai-lan-tro-tai-ban-cung-o-bhutan-1789533456/vne/master.m3u8"
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Chặn đầu xe trên cao tốc Pháp Vân - Cầu Giẽ gây tai nạn liên hoàn",
-      "summary": "Hà Nội- Tài xế ôtô Lexus chặn đầu một xe khác trên cao tốc Pháp Vân - Cầu Giẽ, dẫn tới va chạm liên hoàn khiến 2 người bị thương, chiều 15/9.",
-      "url": "https://vnexpress.net/chan-dau-xe-tren-cao-toc-phap-van-cau-gie-gay-tai-nan-lien-hoan-5120712.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/16/d7d7c922c1c09-b930d77258-17894-9639-6323-1789491763.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=JUlQYXD419HVu9Sb3XikgA",
+      "title": "Bị bạn gái quen qua mạng dụ vào nhà nghỉ, ép chuyển khoản",
+      "summary": "An Giang- Người đàn ông được Nguyễn Thị Thanh Thảo, quen qua mạng, rủ vào nhà nghỉ \"tâm sự\" rồi bị cô này cùng hai đồng phạm đe dọa, ép chuyển hết tiền trong tài khoản.",
+      "url": "https://vnexpress.net/bi-ban-gai-quen-qua-mang-du-vao-nha-nghi-ep-chuyen-khoan-5120763.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/16/c4-1789520164-3250-1789520431.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=nj0dcHTW7KK66mOQbyU1LQ",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "FIFA cấm CLB Công an Hà Nội đăng ký cầu thủ mới đến năm 2028",
+      "summary": "FIFA cấm ĐKVĐ V-League đăng ký cầu thủ mới trong ba kỳ chuyển nhượng tiếp theo, tức đến hết mùa giải 2027-2028.",
+      "url": "https://vnexpress.net/fifa-cam-clb-cong-an-ha-noi-dang-ky-cau-thu-moi-den-nam-2028-5121041.html",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/09/16/screenshot-at-1789566509-2562-1789566524.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=y-a9wjE7JlZq2Rjy-Bsz5g",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Tranh luận quanh bài hát ca từ 'vô nghĩa'",
+      "summary": "Ca khúc \"Gián đáng iu hông?\", \"Ăm chã húi\" làm dấy tranh luận về ranh giới giữa tính giải trí và giá trị âm nhạc.",
+      "url": "https://vnexpress.net/tranh-luan-quanh-bai-hat-ca-tu-vo-nghia-5120369.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/09/15/778985354122220960134332329560-4376-9788-1789440371.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=LUrY-nyH_MVQSYkUf3fIAQ",
       "media": "video",
-      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,360p,480p,,/2026/09/16/chan-dau-xe-khac-tren-cao-toc-phap-van-dan-den-tai-nan-lien--1789529338/vne/master.m3u8"
+      "media_url": "https://d1.vnecdn.net/giaitri/video/video/web/mp4/,240p,360p,480p,,/2026/09/14/mv-gian-dang-iu-hong-1789372965/vne/master.m3u8"
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Chen chúc từ rạng sáng chờ khám tại Bệnh viện Chợ Rẫy",
-      "summary": "TP HCM- Bệnh viện Chợ Rẫy trung bình mỗi ngày khám 8.000-9.000 lượt bệnh nhân, có hôm vượt 10.000 - mức kỷ lục, nhiều khu vực người chờ khám đông từ rạng sáng.",
-      "url": "https://vnexpress.net/chen-chuc-tu-rang-sang-cho-kham-tai-benh-vien-cho-ray-5120431.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/15/233a4666-1789449955.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=g2uGd7zndCZA8VT39KQ_xA",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "HLV U23 Việt Nam tiếc nuối vì không thắng Kuwait ở ASIAD 2026",
-      "summary": "Nhật Bản- HLV Đinh Hồng Vinh cho rằng Việt Nam thiếu may mắn khi hòa Kuwait 1-1 ở lượt ra quân bảng C bóng đá nam ASIAD 2026 tối nay.",
-      "url": "https://vnexpress.net/hlv-u23-viet-nam-tiec-nuoi-vi-khong-thang-kuwait-o-asiad-2026-5120654.html",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/09/15/1789475466782-g765842866275597-5175-3810-1789478158.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=tnFOjjpFxfOWr9pFcOU-Yw",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "100 công ty 'ma' mua bán trái phép hóa đơn hơn 6.000 tỷ đồng",
-      "summary": "TP HCM- Đào Minh Thọ và Trịnh Trác Nhiên bị cáo buộc lập hơn 100 công ty \"ma\", xuất bán trái phép hóa đơn trị giá hơn 6.000 tỷ đồng, thu lợi bất chính hàng chục tỷ đồng.",
-      "url": "https://vnexpress.net/100-cong-ty-ma-mua-ban-trai-phep-hoa-don-hon-6-000-ty-dong-5120525.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/15/img6852719744301667378081-1789-5267-6999-1789458004.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=vxdXdoH_jlyZKyUz7HaffQ",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Hà Nội và nhiều tỉnh tiếp tục mưa lớn",
-      "summary": "Hà Nội cùng nhiều tỉnh Bắc Bộ, Thanh Hóa và Nghệ An tiếp tục mưa lớn đến ngày 17/9, có nơi trên 250 mm, nguy cơ ngập úng, lũ quét và sạt lở đất.",
-      "url": "https://vnexpress.net/ha-noi-va-nhieu-tinh-tiep-tuc-mua-lon-5120734.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/16/screenshot-1789516174-6138-1789516182.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=pNKOY23C-EZpThkLtpNK6g",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Cửa ngõ Tân Sơn Nhất kẹt xe hơn 3 km",
-      "summary": "TP HCM- Nhiều tuyến nối cửa ngõ tây bắc với trung tâm thành phố ùn tắc kéo dài khi một phần lòng đường bị rào chắn thi công metro Bến Thành - Tham Lương, sáng 16/9.",
-      "url": "https://vnexpress.net/cua-ngo-tan-son-nhat-ket-xe-hon-3-km-5120767.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/16/2aoboqywdumjbr3s6j4zipnxw4a6px0whtsfgk1w10-1789524941.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=KgH080NauYmlYsT_9alDgA",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Jensen Huang ứng xử thế nào khi nhân viên rời đi",
-      "summary": "Jensen Huang, CEO Nvidia, nhiều lần đưa ra lời khuyên chân thành với những nhân viên muốn nghỉ việc để thành lập startup riêng.",
-      "url": "https://vnexpress.net/jensen-huang-ung-xu-the-nao-khi-nhan-vien-roi-di-5120147.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/14/huy6849-1789377108-3814-1789377480.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=AhygynDhfli5yhJ_kumfKQ",
+      "title": "An Giang chi thừa tiền cho 35 người nghỉ việc theo chính sách 178",
+      "summary": "Rà soát 3.263 hồ sơ, An Giang phát hiện 35 người nghỉ việc theo chính sách 178 được chi thừa hơn một tỷ đồng và đã thu hồi toàn bộ.",
+      "url": "https://vnexpress.net/an-giang-chi-thua-tien-cho-35-nguoi-nghi-viec-theo-chinh-sach-178-5120928.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/16/1789534152091c709abc917894d095-4956-4191-1789541614.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=Sh5FT9TRuX-ZrpG9HTkQCg",
       "media": "",
       "media_url": ""
     }
@@ -217,9 +217,19 @@
     },
     {
       "source": "BBC",
-      "time": "16/09 · 20:28",
+      "time": "17/09 · 01:36",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "17/09 · 00:16",
       "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
       "media": "",
@@ -267,21 +277,11 @@
     },
     {
       "source": "BBC",
-      "time": "16/09 · 16:49",
-      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
-      "summary": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdba/live/dc0ec400-b1dd-11f1-bc1f-3f186ca4140c.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC",
-      "time": "16/09 · 03:34",
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
+      "time": "16/09 · 22:33",
+      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+      "summary": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9261/live/abd1c520-b1e3-11f1-ac01-a9af2f94b2cc.jpg",
       "media": "",
       "media_url": ""
     }
@@ -300,7 +300,7 @@
     {
       "source": "BBC Business",
       "time": "16/09 · 21:52",
-      "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands",
+      "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
       "summary": "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister.",
       "url": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a48e/live/4c8ed8e0-b1d0-11f1-8493-1910d79d53eb.png",
@@ -329,21 +329,21 @@
     },
     {
       "source": "BBC Business",
-      "time": "16/09 · 06:50",
-      "title": "UK in talks about joining global defence bank led by Canada",
-      "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8d/live/97804d80-b189-11f1-8867-6b6a7f037413.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Business",
       "time": "16/09 · 06:19",
       "title": "The extreme engineering of aircraft windows",
       "summary": "Few companies have the technology to make aircraft windows which are getting harder to make.",
       "url": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a08/live/b975d4a0-ac34-11f1-b1d1-571ed4d7ff2c.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "16/09 · 06:50",
+      "title": "UK in talks about joining global defence bank led by Canada",
+      "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8d/live/97804d80-b189-11f1-8867-6b6a7f037413.jpg",
       "media": "",
       "media_url": ""
     },
@@ -376,6 +376,16 @@
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "url": "https://openai.com/index/reimagining-advertising-with-ai/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/55OzfM3w5QnfYsHGeqQPwD/da59df4251ec09b27e1855f4710f0c39/reimagining-advertising-with-ai-seo.png?w=1600&h=900&fit=fill",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "OpenAI",
+      "time": "",
+      "title": "How to connect AI usage to business value Product Sep 16, 2026",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3Ias4lDCBufY7UbBmXDNjz/b72b7e773296ca0c7e74151f9c5447a2/seo-018.png?w=1600&h=900&fit=fill",
       "media": "",
       "media_url": ""
     },
@@ -416,16 +426,6 @@
       "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "url": "https://openai.com/index/introducing-chatgpt-financial-services/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/2Tj0j0dTcedAZ2PMSbTg4j/f1155b4361dcd8f4c85c12833233ebba/OAI_Finances_4_16x9-_SEO.png?w=1600&h=900&fit=fill",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "OpenAI",
-      "time": "",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API Product Sep 10, 2026",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7Mz7MwoSyFLdOMk26N1hCA/b66e84b656c1d666fc2adc1c56ff67f1/introducing-gpt-live-1-green-seo.png?w=1600&h=900&fit=fill",
       "media": "",
       "media_url": ""
     },
@@ -535,6 +535,16 @@
   "science_news": [
     {
       "source": "BBC Science",
+      "time": "16/09 · 22:53",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "summary": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
+      "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0701/live/5c142ed0-b1f0-11f1-bc1f-3f186ca4140c.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
       "time": "16/09 · 18:02",
       "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
       "summary": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
@@ -580,16 +590,6 @@
       "summary": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
       "url": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Science",
-      "time": "15/09 · 12:18",
-      "title": "Giant jellyfish with '40ft tentacles' captured on camera",
-      "summary": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgynz9qz00o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/84fac5b0-b052-11f1-89e4-0bbff5cb7e23.jpg",
       "media": "",
       "media_url": ""
     }

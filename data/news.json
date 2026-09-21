@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-09-21T02:10:11+07:00",
+  "updated_at": "2026-09-21T07:37:41+07:00",
   "latest_vn": [
-    {
-      "source": "VnExpress",
-      "time": "20/09 · 15:10",
-      "title": "Hàng chục nghìn tủ lạnh hỏng chất đống tại Anh do công ty tái chế giải thể",
-      "summary": "Công ty tái chế Unimetals đệ đơn giải thể từ cuối năm ngoái, bỏ lại khoảng trống thu gom cùng hàng chục nghìn tủ lạnh, tủ đông tại thành phố Newport.",
-      "url": "https://vnexpress.net/hang-chuc-nghin-tu-lanh-hong-chat-dong-tai-anh-do-cong-ty-tai-che-giai-the-5122452.html",
-      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/20/b8c9da20b46c11f19dd63102a0e415-4905-9129-1789878103.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vss0UPmPDsiQhfFWwGQSIQ",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress",
-      "time": "20/09 · 15:09",
-      "title": "Tài xế lùi xe thần tốc, thoát cú lao dốc của xe tải",
-      "summary": "Xe tải mất lái lao xuống dốc, tài xế ôtô đang lên dốc nhanh chóng cài số lùi, thoát khỏi hướng lao của xe tải và tránh va chạm.",
-      "url": "https://vnexpress.net/tai-xe-lui-xe-than-toc-thoat-cu-lao-doc-cua-xe-tai-5122458.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/20/ezgif800e63627e813d06-17898790-5791-4106-1789879021.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=b-G36SQJ-pw8VFHEVzRjbw&t=image",
-      "media": "",
-      "media_url": ""
-    },
     {
       "source": "VnExpress",
       "time": "20/09 · 15:07",
@@ -120,86 +100,106 @@
       "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/16/fb8f26bd-4c6c-409e-a289-72354f-5155-6128-1789544258.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eUA89DNsM6Tpfihty6Pc0w",
       "media": "",
       "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "20/09 · 14:00",
+      "title": "Cách giữ cơ khi ăn ít calo để giảm cân",
+      "summary": "Tăng lượng protein và chất béo lành mạnh trong các bữa ăn, nghỉ ngơi và tập luyện hợp lý giúp giảm cân nhưng ít mất cơ.",
+      "url": "https://vnexpress.net/cach-giu-co-khi-an-it-calo-de-giam-can-5122347.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/19/buoc-1789827402-5077-1789827490.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ky0KNTFmmOWH0X2AhBkMiA",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "20/09 · 14:00",
+      "title": "5 thói quen đơn giản giúp ruột khỏe, giảm táo bón",
+      "summary": "Nước ép mận hoặc cà phê có thể kích thích nhu động ruột, bổ sung chất xơ và uống đủ nước góp phần giảm táo bón.",
+      "url": "https://vnexpress.net/5-thoi-quen-don-gian-giup-ruot-khoe-giam-tao-bon-5122345.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/19/0719b79d-ecacb1-b77c-d82ae4931-3968-5863-1789826942.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OPdsBX0T_JmEbdqhJht4GA",
+      "media": "",
+      "media_url": ""
     }
   ],
   "popular_vn": [
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Đòi bạn trai cũ cấp dưỡng hơn 3,2 tỷ đồng từ khi mang thai",
-      "summary": "TP HCM- Bà Lê kiện bạn trai cũ yêu cầu cấp dưỡng 3,27 tỷ đồng từ lúc mang thai đến khi sinh con và 20 triệu đồng mỗi tháng đến khi bé 18 tuổi, song chỉ được chấp nhận một phần.",
-      "url": "https://vnexpress.net/doi-ban-trai-cu-cap-duong-hon-3-2-ty-dong-tu-khi-mang-thai-5122234.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/19/images-1789803436-1714-1789803484.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=BggeXdgFWEpon42I2MvmHA",
+      "title": "Ukraine tập kích 'chưa từng có' vào Moskva trong ngày Nga bầu cử",
+      "summary": "Ukraine tiến hành cuộc tập kích \"chưa từng có\" bằng UAV vào Moskva, động thái mà phía Nga cho rằng nhằm gây gián đoạn cuộc bầu cử quốc hội.",
+      "url": "https://vnexpress.net/ukraine-tap-kich-chua-tung-co-vao-moskva-trong-ngay-nga-bau-cu-5122503.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/screen-shot-at-1789893369-7378-1789894344.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=kGNRlpNXfYiJCDiZwWfsgA",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/09/20/ukraine-tap-kich-chua-tung-co-vao-moskva-trong-ngay-bau-cu-n-1789893071/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Cựu tuyển thủ Anh bị xe lu cán lên người ở Thai League",
+      "summary": "Thái Lan- Andros Townsend bị xe lu cán qua người trong lúc khởi động giữa hai hiệp trận PT Prachuap thắng Pattani 3-0 ở Thai League, nhưng không bị chấn thương nghiêm trọng.",
+      "url": "https://vnexpress.net/cuu-tuyen-thu-anh-bi-xe-lu-can-len-nguoi-o-thai-league-5122485.html",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/09/20/townsend-1789888682-8186-1789888719.gif?w=1200&h=675&q=100&dpr=1&fit=crop&s=z_EQ4Owz6Dqzz_Zdg0OHSw&t=image",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/thethao/video/video/web/mp4/,240p,360p,480p,,/2026/09/20/cuu-tuyen-thu-anh-bi-xe-lu-can-len-nguoi-o-thai-league-1789888344/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Nam Trung Bộ và Nam Bộ dự báo mưa lớn đến 400 mm",
+      "summary": "Từ chiều 21/9 đến 24/9, mưa lớn được dự báo gia tăng tại phía đông Gia Lai, Đăk Lăk, Khánh Hòa, Lâm Đồng và Nam Bộ với lượng cục bộ dự báo lên tới 400 mm.",
+      "url": "https://vnexpress.net/nam-trung-bo-va-nam-bo-du-bao-mua-lon-den-400-mm-5122509.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/ngap-of-1789892225-1792-1789892290.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=elIJZFJnLRYyz_xf_o87ng",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Giới tỷ phú Mỹ ráo riết săn vé dự quốc yến đón ông Tập",
-      "summary": "Các tỷ phú Mỹ đang tích cực vận động để giành một chỗ tại quốc yến đón Chủ tịch Trung Quốc, biến sự kiện này thành cuộc cạnh tranh gay gắt.",
-      "url": "https://vnexpress.net/gioi-ty-phu-my-rao-riet-san-ve-du-quoc-yen-don-ong-tap-5122089.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/19/AFP20260515B2WL3UQv2HighResChi-4555-3643-1789794233.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=EnB3HpZkR7Yw9Mq7ERKWtA",
+      "title": "'Hoa hậu chuyển giới đẹp nhất Thái Lan' được khen sắc vóc tuổi 40",
+      "summary": "Thái Lan- Nong Poy - \"Hoa hậu chuyển giới đẹp nhất Thái Lan\" - gây chú ý khi xuất hiện trên sân khấu Miss International Queen, ôn chặng đường 22 năm từ lúc đăng quang.",
+      "url": "https://vnexpress.net/hoa-hau-chuyen-gioi-dep-nhat-thai-lan-duoc-khen-sac-voc-tuoi-40-5122520.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/09/20/Nong-Poy-jpeg-1789898602-9372-1789900359.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=VtLt2rXy-Qn9gweH2eox0Q",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/giaitri/video/video/web/mp4/,240p,360p,,/2026/09/20/hoa-hau-nong-poy-gay-chu-y-khi-tai-xuat-1789899676/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Bộ trưởng Hoàng Minh Sơn: 'Chúng tôi nghiêm túc rút kinh nghiệm khi để thiếu sách giáo khoa'",
+      "summary": "Bộ trưởng Hoàng Minh Sơn cho biết việc dự báo nhu cầu, lập kế hoạch của ngành và từng địa phương chưa chính xác dẫn đến thừa thiếu sách giáo khoa cục bộ, Bộ rút kinh nghiệm nghiêm túc.",
+      "url": "https://vnexpress.net/bo-truong-hoang-minh-son-chung-toi-nghiem-tuc-rut-kinh-nghiem-khi-de-thieu-sach-giao-khoa-5122448.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/202609200932333510-tcc-1789879-2415-4259-1789879192.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=7alGKyDAHMsWD60UlSutuQ",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Vụ bé trai người Nhật tử vong tại resort 5 sao: Một người bị khởi tố",
-      "summary": "Lâm Đồng- Nguyễn Quốc Quân bị khởi tố hành vi vi phạm quy định về hoạt động xây dựng, liên quan vụ bé trai người Nhật 11 tuổi chết đuối bất thường tại resort ở Mũi Né hơn 4 năm trước.",
-      "url": "https://vnexpress.net/vu-be-trai-nguoi-nhat-tu-vong-tai-resort-5-sao-mot-nguoi-bi-khoi-to-5122436.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/2aOboQzsrZCbALQRQGXkfRSKk8KUbh-5569-4231-1789875624.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=6kAVnEPjCFv_91F9En9uEw",
+      "title": "Quả Bóng Vàng đề cao khả năng định đoạt trận đấu của Messi",
+      "summary": "Trang chủ Quả Bóng Vàng 2026 đề cập đến chức vô địch Campeones Cup mà Lionel Messi vừa giành được cùng Inter Miami, nhấn mạnh việc anh vẫn thiết lập được cột mốc mới ở tuổi 39.",
+      "url": "https://vnexpress.net/qua-bong-vang-de-cao-kha-nang-dinh-doat-tran-dau-cua-messi-5122272.html",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/09/19/9a3af059d55542b7b877327016659b-5737-9403-1789807878.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=R8W9pqUVI_san99R1xWG_g",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Hà Nội yêu cầu làm rõ trách nhiệm vụ nam sinh ngã xuống cống tử vong",
-      "summary": "Chủ tịch UBND TP Hà Nội yêu cầu làm rõ nguyên nhân, xác định trách nhiệm và giải pháp xử lý vụ nam sinh bị ngã xuống cống tử vong tại phường Đông Ngạc.",
-      "url": "https://vnexpress.net/ha-noi-yeu-cau-lam-ro-trach-nhiem-vu-nam-sinh-nga-xuong-cong-tu-vong-5122437.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/815018554157899783035457910556-8509-9851-1789875670.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=_2IA_L219zpMnE7Utr086w",
+      "title": "Chưa thí điểm thi tốt nghiệp THPT trên máy tính năm 2027",
+      "summary": "Phó Thủ tướng chỉ đạo chưa thí điểm thi tốt nghiệp THPT trên máy tính vào năm 2027 như đề xuất của Bộ Giáo dục và Đào tạo, đảm bảo nguyên tắc công bằng giữa các thí sinh.",
+      "url": "https://vnexpress.net/chua-thi-diem-thi-tot-nghiep-thpt-tren-may-tinh-nam-2027-5122463.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/wm1-wm1-thi-tot-nghiep-1789881397-6788-1789881417.webp?w=1200&h=675&q=100&dpr=1&fit=crop&s=DMLrBKyYnKDKkpTo1t_QhA",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Hai bên ông bà thông gia bị khởi tố trong vụ 'con gái nói dối mang thai'",
-      "summary": "Phú Thọ- Bố mẹ đẻ, bố mẹ chồng, bác và thím họ của cô gái cùng bị khởi tố vì đến bệnh viện gây rối, livestream do tin con nói dối đang mang thai rồi bác sĩ chỉ định bỏ vì dị tật.",
-      "url": "https://vnexpress.net/hai-ben-ong-ba-thong-gia-bi-khoi-to-trong-vu-con-gai-noi-doi-mang-thai-5122390.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/1-1789863336-9303-1789863343.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=ecAFvt08RVnHAMvHxNUtjA",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Bộ trưởng GD&ĐT: Sẽ hạn chế sử dụng chứng chỉ khi xét tuyển đại học",
-      "summary": "Bộ trưởng Giáo dục và Đào tạo nhấn mạnh sẽ từng bước siết quy định tuyển sinh, hướng tới đánh giá thực chất năng lực người học và hạn chế sử dụng chứng chỉ có thể gây mất công bằng.",
-      "url": "https://vnexpress.net/bo-truong-gd-dt-se-han-che-su-dung-chung-chi-khi-xet-tuyen-dai-hoc-5122408.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/202505112303021411-dsc-1789870-2445-1858-1789871326.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=yERDWuTFPYotHrpGyRljiA",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Việt Nam giành hai huy chương đầu tiên tại ASIAD 2026",
-      "summary": "Nhật Bản- Nguyễn Hoàng Minh Tân, Trịnh Gia Nghi hạ cặp Ấn Độ 2-0 ở trận tranh HC đồng đôi nam nữ teqball, rồi Bùi Ngọc Nhi thắng trận tranh HC đồng kata nữ, mang về cho Việt Nam hai huy chương đầu tiên tại ASIAD 2026.",
-      "url": "https://vnexpress.net/viet-nam-gianh-hai-huy-chuong-dau-tien-tai-asiad-2026-5122426.html",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/09/20/teqball-jpeg-1789873314-5759-1789873380.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=vXsW-buCtJIPD0BvT6kr6w",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Đường vào trung tâm TP HCM thay đổi thế nào khi làm Metro số 2?",
-      "summary": "Nhiều tuyến đường quanh Bà Quẹo, Tao Đàn và Bảy Hiền sẽ hạn chế xe và thay đổi hướng đi trong khoảng 3 năm để phục vụ thi công metro Bến Thành - Tham Lương.",
-      "url": "https://vnexpress.net/duong-vao-trung-tam-tp-hcm-thay-doi-the-nao-khi-lam-metro-so-2-5121818.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/09/20/Lark20260920083018-1789868035-1510-1789868799.gif?w=1200&h=675&q=100&dpr=1&fit=crop&s=CEckq3NlZVXRDrG_Xkk8Iw&t=image",
+      "title": "Hình dạng Trái Đất đang thay đổi",
+      "summary": "Quá trình quay quanh trục và chuyển động quanh Mặt Trời khiến Trái Đất phồng lên ở xích đạo và dẹt lại ở hai cực với tốc độ ngày càng nhanh.",
+      "url": "https://vnexpress.net/hinh-dang-trai-dat-dang-thay-doi-5121957.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/09/18/VNEShape-1789724948-7417-1789724983.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=txaSP9BvWtjm-Ady1TxZaQ",
       "media": "",
       "media_url": ""
     }
@@ -207,11 +207,11 @@
   "world": [
     {
       "source": "BBC",
-      "time": "21/09 · 01:32",
+      "time": "21/09 · 03:21",
       "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
       "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
       "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/0cb35a40-b539-11f1-9bd0-bb4fc2f94a87.jpg",
       "media": "",
       "media_url": ""
     },
@@ -247,6 +247,26 @@
     },
     {
       "source": "BBC",
+      "time": "21/09 · 04:17",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "21/09 · 02:04",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
       "time": "20/09 · 06:49",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
@@ -264,29 +284,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3993/live/0f1fa560-b433-11f1-9fa0-111a12dcb7b0.jpg",
       "media": "",
       "media_url": ""
-    },
-    {
-      "source": "BBC",
-      "time": "20/09 · 06:01",
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC",
-      "time": "21/09 · 02:04",
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
-      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg",
-      "media": "",
-      "media_url": ""
     }
   ],
   "markets": [
+    {
+      "source": "BBC Business",
+      "time": "21/09 · 07:34",
+      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+      "summary": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "21/09 · 06:02",
+      "title": "Will you get £13,000 a year when you stop working? Here's how to check",
+      "summary": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc95/live/6d570970-b2a3-11f1-bd7d-0f16235ccc4c.jpg",
+      "media": "",
+      "media_url": ""
+    },
     {
       "source": "BBC Business",
       "time": "20/09 · 18:22",
@@ -344,26 +364,6 @@
       "summary": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
       "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d178/live/30a2f140-b395-11f1-bf60-ad6e22c4842e.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Business",
-      "time": "19/09 · 20:39",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Business",
-      "time": "19/09 · 00:57",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg",
       "media": "",
       "media_url": ""
     }
@@ -535,6 +535,16 @@
   "science_news": [
     {
       "source": "BBC Science",
+      "time": "21/09 · 06:02",
+      "title": "What food items should you stock up on in case of an emergency?",
+      "summary": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
+      "url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1639/live/7f44b520-b379-11f1-bc1f-3f186ca4140c.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
       "time": "20/09 · 04:01",
       "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
       "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
@@ -580,16 +590,6 @@
       "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a267/live/b9315260-b357-11f1-b1d1-571ed4d7ff2c.png",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Science",
-      "time": "17/09 · 23:14",
-      "title": "Repeat offender fined for searching for gold in protected river",
-      "summary": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d29/live/76eff0e0-b29a-11f1-a430-4d16ee157c41.png",
       "media": "",
       "media_url": ""
     }

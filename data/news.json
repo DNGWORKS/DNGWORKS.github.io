@@ -1,128 +1,198 @@
 {
-  "updated_at": "2026-10-02T17:47:09+07:00",
+  "updated_at": "2026-10-02T23:24:17+07:00",
   "latest_vn": [
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:21",
-      "title": "TikToker 'Minh Sầm Sơn' bị khởi tố",
-      "summary": "Sau khi mãn hạn tù, Hoàng Quốc Minh xây kênh TikTok, tổ chức các màn thách đấu có hành vi nguy hiểm để thu hút tương tác và tiền từ người xem.",
-      "url": "https://vnexpress.net/tiktoker-minh-sam-son-bi-khoi-to-5127726.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/1790929915200bca0758136db4b11e-7414-5935-1790933151.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zlOtfKtgPoaZeD8Cax3kQQ",
+      "time": "02/10 · 15:43",
+      "title": "Cơ trưởng lần đầu lên tiếng sau khi xả thân cứu máy bay flydubai",
+      "summary": "Cơ trưởng Machchhar trò chuyện với Thủ tướng Ấn Độ, kể rằng dù bị thương nặng khi giằng co với cơ phó, ông vẫn ý thức bản thân phải hành động để cứu máy bay.",
+      "url": "https://vnexpress.net/co-truong-lan-dau-len-tieng-sau-khi-xa-than-cuu-may-bay-flydubai-5127635.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/cats-1790927802-5404-1790927923.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LVsFExiggOQhbHg378RVXA",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:17",
-      "title": "VKS lý giải vì sao bảo vệ nhận hối lộ 400.000 đồng lại bị đề nghị 4 năm tù",
-      "summary": "Bốn bảo vệ Viện Pháp y tâm thần Trung ương bị đề nghị 3-4 năm tù dù chỉ nhận 400.000-570.000 đồng, bởi VKS cho rằng họ đã nhiều lần mở cổng cho can phạm trốn viện và báo tin để đối phó cơ quan chức năng.",
-      "url": "https://vnexpress.net/vks-ly-giai-vi-sao-bao-ve-nhan-hoi-lo-400-000-dong-lai-bi-de-nghi-4-nam-tu-5127367.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/gemini-generated-image-o3um7mo-1280-7880-1790915314.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=88DgTwN-HLsx32zI3oIvTA",
+      "time": "02/10 · 15:42",
+      "title": "Anh sẽ phóng thích 4.500 phạm nhân vì nhà tù quá tải",
+      "summary": "Loạt phạm nhân được trả tự do sớm khỏi các nhà tù ở Anh và xứ Wales nhằm ngăn chặn tình trạng các trại giam quá tải.",
+      "url": "https://vnexpress.net/anh-se-phong-thich-4-500-pham-nhan-vi-nha-tu-qua-tai-5127580.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/u4qwws3sjjnpldq37mf7mkwfzm-179-6892-8297-1790924782.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uWb5vVIxPnUa7I1OUdI0rA",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:12",
-      "title": "Việt Nam sẽ lập ba khu thử nghiệm UAV cấp quốc gia",
-      "summary": "Bộ Chính trị đặt mục tiêu đưa vào vận hành ba khu thử nghiệm bay và ít nhất một trung tâm R&D quốc gia về phương tiện bay không người lái (UAV).",
-      "url": "https://vnexpress.net/viet-nam-se-lap-ba-khu-thu-nghiem-uav-cap-quoc-gia-5127706.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/dsc-jpg-1790931492-5526-1790931504.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n47uvD-z5dmlszTmnaXpdA",
+      "time": "02/10 · 15:31",
+      "title": "Tìm một người cùng mình đi ăn ngon, đi lang thang",
+      "summary": "Mình sinh năm 1992, làm việc và sinh sống tại TP HCM, là người khá thật thà, ghét vòng vo.",
+      "url": "https://vnexpress.net/tim-mot-nguoi-cung-minh-di-an-ngon-di-lang-thang-5127493.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/GeminiGeneratedImageyrg3luyrg3-8066-6853-1790911175.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kuQdcYRJEXDC3bV_Ytcw3Q",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:07",
-      "title": "Hàng nghìn học sinh Pháp biểu tình vì 'phòng học quá nóng, giáo viên hay nghỉ dạy'",
-      "summary": "Hàng trăm trường trung học trên khắp nước Pháp hôm nay đóng cửa do làn sóng biểu tình kéo dài một tuần của hàng nghìn học sinh.",
-      "url": "https://vnexpress.net/hang-nghin-hoc-sinh-phap-bieu-tinh-vi-phong-hoc-qua-nong-giao-vien-hay-nghi-day-5127707.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/afp-c9xz2g3-v1-highres-francep-6280-3937-1790932158.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qg-Pc83U2zuWtkFIEId_OA",
+      "time": "02/10 · 15:30",
+      "title": "Đất Việt Tour tung ưu đãi đến 25% dịp sinh nhật",
+      "summary": "Đất Việt Tour triển khai chương trình \"Tri ân rực rỡ - ưu đãi hết cỡ\" với chính sách giảm giá đến 25% cùng nhiều quà tặng nhân dịp kỷ niệm 25 năm thành lập.",
+      "url": "https://vnexpress.net/dat-viet-tour-tung-uu-dai-den-25-dip-sinh-nhat-5127675.html",
+      "image": "https://vcdn1-dulich.vnecdn.net/2026/10/02/j3-1790928782-6846-1790928855.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MPrR8Io_c4AAmxRloaMIjA",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:05",
-      "title": "Điểm tin 17h: Hà Nội lắp cầu cạn cảnh quan bên Hồ Gươm | Giữa thu Hà Nội vẫn nóng 38 độ C",
-      "summary": "Không khí lạnh tràn xuống miền Bắc từ đêm 4/10; Cảnh sát giải cứu 8 bé gái trong đường dây mua bán nhân viên karaoke;...",
-      "url": "https://vnexpress.net/diem-tin-17h-ha-noi-lap-cau-can-canh-quan-ben-ho-guom-giua-thu-ha-noi-van-nong-38-do-c-5127745.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/Screenshot20261002at165733-179-3737-3708-1790935285.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WyH7Qvf2wkzfdEZjatT3wA",
+      "time": "02/10 · 15:29",
+      "title": "Anh muốn được chăm sóc em",
+      "summary": "Anh không hoàn hảo, không thành đạt... nhưng sẽ đối xử với em thật tốt, sẽ chăm sóc cho người phụ nữ của mình.",
+      "url": "https://vnexpress.net/anh-muon-duoc-cham-soc-em-5127495.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/GeminiGeneratedImageb518ecb518-8788-2586-1790910113.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xkduuNpvtiG3QlILeTNM9w",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:00",
-      "title": "Chân dung cơ trưởng xả thân cứu máy bay flydubai",
-      "summary": "Từng theo học ngành dệt may, Machchhar theo đuổi ngành hàng không, trở thành phi công và đã xả thân cứu hơn 170 mạng sống trên chuyến bay của flydubai.",
-      "url": "https://vnexpress.net/chan-dung-co-truong-xa-than-cuu-may-bay-flydubai-5127695.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/Artcover16x9-1790930749-1120-1790930984.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=85oRft3OgOzLJ3MZjRwQmw",
+      "time": "02/10 · 15:28",
+      "title": "Phó tổng giám đốc Vietcombank xin nghỉ hưu trước tuổi",
+      "summary": "Sau gần hai năm giữ chức Phó tổng giám đốc Vietcombank, ông Nguyễn Văn Tuân xin nghỉ hưu trước tuổi từ tháng 11.",
+      "url": "https://vnexpress.net/pho-tong-giam-doc-vietcombank-xin-nghi-huu-truoc-tuoi-5127674.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/02/tuan-1790929266-3883-1790929723.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rFtFkuOvP6uab3amla67vQ",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:00",
-      "title": "Honda tung ưu đãi cho BR-V, HR-V trong tháng 10",
-      "summary": "Hai mẫu xe gầm cao được Honda Việt Nam ưu đãi 50-100% lệ phí trước bạ hoặc 50 triệu đồng, tặng bảo hiểm và lãi suất 0% tùy phiên bản.",
-      "url": "https://vnexpress.net/honda-tung-uu-dai-cho-br-v-hr-v-trong-thang-10-5127719.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/2-1790932662-2967-1790932793.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Vvvs9BiqUneHgiVrFnHgAw",
+      "time": "02/10 · 15:24",
+      "title": "Camera ghi cảnh nước tràn vào hàng quán khi mưa lớn ở TP HCM",
+      "summary": "Hình ảnh camera cho thấy, chỉ khoảng 15 phút sau khi mưa lớn trút xuống, nước dâng nhanh, từ đường tràn vào nhà dân, hàng quán, ảnh hưởng sinh hoạt.",
+      "url": "https://vnexpress.net/camera-ghi-canh-nuoc-tran-vao-hang-quan-khi-mua-lon-o-tp-hcm-5127114.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/Lark20261002152407-1790929460-3908-1790929463.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=k-jcZUqK_PlLKeaZE4x3CQ&t=image",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:00",
-      "title": "Vụn tóc mắc kẹt trong mi mắt người đàn ông",
-      "summary": "Sau cắt tóc, mắt trái anh Toàn (41 tuổi) cộm xốn, nhìn mờ, chảy nước mắt rồi không mở được, bác sĩ phát hiện vụn tóc ghim vào lớp kết mạc gây trầy giác mạc.",
-      "url": "https://vnexpress.net/vun-toc-mac-ket-trong-mi-mat-nguoi-dan-ong-5127608.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/02/vne-1790923969-9946-1790925216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dneV9ZHvTeaiaXQ7VZNTYg",
+      "time": "02/10 · 15:20",
+      "title": "Đi cao tốc Bến Lức - Long Thành hết bao nhiêu tiền phí?",
+      "summary": "Phí cao tốc Bến Lức - Long Thành tính theo quãng đường và hạng xe, từ 111.700-446.700 đồng.",
+      "url": "https://vnexpress.net/di-cao-toc-ben-luc-long-thanh-het-bao-nhieu-tien-phi-5127632.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/mobilectbllt-1790929235.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ixzIPkDp52Lw8lw43p3NnQ",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:00",
-      "title": "RMIT kết nối chuyên gia tìm hướng đào tạo trong thời AI",
-      "summary": "250 chuyên gia, nhà nghiên cứu, doanh nghiệp và sinh viên đã được RMIT kết nối nhằm thảo luận hướng đào tạo phù hợp khi AI ngày càng tác động sâu rộng đến giáo dục.",
-      "url": "https://vnexpress.net/rmit-ket-noi-chuyen-gia-tim-huong-dao-tao-trong-thoi-ai-5127576.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/image494356361extractword2out-2004-8051-1790934314.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gAUHtVsFN03jOum-rOIWhA",
+      "time": "02/10 · 15:18",
+      "title": "Nhạc sĩ 'Tây du ký' đau lòng vì không được tôn trọng bản quyền",
+      "summary": "Ông Hứa Kính Thanh, nhạc sĩ phim \"Tây du ký\", nói đau lòng vì tác phẩm của ông bị người khác tự ý sửa nhạc, lời.",
+      "url": "https://vnexpress.net/nhac-si-tay-du-ky-dau-long-vi-khong-duoc-ton-trong-ban-quyen-5127622.html",
+      "image": "https://vcdn1-giaitri.vnecdn.net/2026/10/02/kinh-thanh-1790929764-3511-1790929770.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=JfzqPmoejeM1_AH6xOU6Wg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 17:00",
-      "title": "Điều gì xảy ra khi người giảm cân ăn tinh bột buổi tối?",
-      "summary": "Bữa tối với quá nhiều tinh bột tinh chế có thể gây dư thừa calo, tăng đường huyết, dẫn đến tích tụ mỡ, ảnh hưởng đến cân nặng.",
-      "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-nguoi-giam-can-an-tinh-bot-buoi-toi-5127527.html",
-      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/02/442725897-n-1790913804-4236-1790913857.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XtiPN5-6NtOMFRMFHn0BZQ",
+      "time": "02/10 · 15:18",
+      "title": "'27 trận bất bại gieo ảo tưởng bóng đá Việt Nam hơn trình Thái Lan'",
+      "summary": "Điều đáng sợ không phải là thua Thái Lan, mà là thắng họ, nâng cúp, rồi tưởng bóng đá Việt Nam đã không còn vấn đề gì.",
+      "url": "https://vnexpress.net/fifa-asean-cup-2026-27-tran-bat-bai-gieo-ao-tuong-bong-da-viet-nam-hon-trinh-thai-lan-5127629.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/179068674706652737980667512248-6702-8730-1790927320.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZgYU3yJhcirVcXRSnaWF8w",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 16:59",
-      "title": "Bộ GD và ĐT: Không 'xây lại từ đầu' sách giáo khoa mới",
-      "summary": "Bộ sách giáo khoa mới sẽ được kế thừa, chỉnh sửa dựa trên nền tảng sách hiện hành, không xây mới từ đầu, theo Bộ Giáo dục và Đào tạo.",
-      "url": "https://vnexpress.net/bo-gd-va-dt-khong-xay-lai-tu-dau-sach-giao-khoa-moi-5127721.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/wm1-wm1-hgn02187-1790934360-9445-1790934465.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cdGic9fZMNPPY6zlqAnNXg",
+      "time": "02/10 · 15:15",
+      "title": "Ôtô tông vào đền thờ ở Bangkok khi nhiều người đang hành lễ",
+      "summary": "Xe 5 chỗ bất ngờ tăng tốc, lao vào chính điện một ngôi đền thờ Quan Âm ở khu Chinatown, khiến ba người bị thương.",
+      "url": "https://vnexpress.net/oto-tong-vao-den-tho-o-bangkok-khi-nhieu-nguoi-dang-hanh-le-5127615.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/20261002151504-1790928915-6683-1790928938.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wiZ2brXAjwS7xStUNm4lug",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress",
-      "time": "02/10 · 16:57",
-      "title": "Du khách trở về sau 37 ngày mất tích trong lũ quét ở Nepal",
-      "summary": "Một người Malaysia mất tích sau trận lũ quét tại Nepal được xác nhận an toàn và trở về nước, giảm số công dân chưa rõ tung tích của nước này từ 55 xuống 54.",
-      "url": "https://vnexpress.net/du-khach-tro-ve-sau-37-ngay-mat-tich-trong-lu-quet-o-nepal-5127718.html",
-      "image": "https://vcdn1-dulich.vnecdn.net/2026/10/02/nepal-flash-floodx600-picsart-8712-4313-1790933525.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KmWxX0QAScxkQQbbi2uSUg",
+      "time": "02/10 · 15:14",
+      "title": "Từ tiếng Việt nào để nguyên là mẹ, bỏ dấu hỏi vẫn là mẹ?",
+      "summary": "Một từ tiếng Việt đặc biệt, để nguyên có nghĩa là mẹ, nhưng khi bỏ dấu hỏi thì nghĩa vẫn không đổi. Bạn có đoán ra?",
+      "url": "https://vnexpress.net/tu-tieng-viet-nao-de-nguyen-la-me-bo-dau-hoi-van-la-me-5127060.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/document1-1790927725-4004-1790928403.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jLPqSWBXpOuQbAYIxphdeA",
       "media": "",
       "media_url": ""
     }
   ],
   "popular_vn": [
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Chuẩn bị làm bộ sách giáo khoa lớp 1-12 mới",
+      "summary": "Bộ Giáo dục và Đào tạo đang sửa đổi chương trình phổ thông để làm bộ sách giáo khoa mới; trong đó bản quyền sách sẽ chuyển về Bộ, đồng thời nghiên cứu giao các tỉnh, thành tự in ấn.",
+      "url": "https://vnexpress.net/chuan-bi-lam-bo-sach-giao-khoa-lop-1-12-moi-5127338.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/02/wm1-wm1-1787139317760-d0d1bc2ad80d-1812-6777-1790895428.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=-I3pQpyKyrJ1M1UPdku47g",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Xuất hiện video cơ phó bị khống chế sau âm mưu chiếm máy bay flydubai",
+      "summary": "Truyền hình Israel công bố video ghi lại tiếng la hét trong khoang máy bay flydubai, cảnh cơ trưởng nằm trên sàn và cơ phó bị khống chế.",
+      "url": "https://vnexpress.net/xuat-hien-video-co-pho-bi-khong-che-sau-am-muu-chiem-may-bay-flydubai-5127400.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/02/screenshot20261002092049-17909-5465-6342-1790907815.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=3Vla8pFWxhssVClrK5DBYg",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/10/02/israel-cong-bo-video-canh-hon-loan-tren-may-bay-flydubai-sau-1790899206/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Người dân: 'Ba lần nâng nhà nhưng vẫn ngập'",
+      "summary": "Nhà ông Minh Đức ở phường Bình Trị Đông cao hơn ban đầu khoảng 2 m nhưng vẫn thành",
+      "url": "https://vnexpress.net/nguoi-dan-ba-lan-nang-nha-nhung-van-ngap-5127387.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/02/Lark20261002063430-1790897698-1125-1790897703.gif?w=1200&h=675&q=100&dpr=1&fit=crop&s=3K411nvKjBF7EYOOIWrHCw&t=image",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Hồi hương khó tìm việc, lao động lại chọn đi",
+      "summary": "Sau một năm loay hoay học nghề và tìm việc ở Việt Nam, Lâm quay lại Nhật Bản cuối 2025, vừa học vừa làm mảng phiên dịch y khoa.",
+      "url": "https://vnexpress.net/hoi-huong-kho-tim-viec-lao-dong-lai-chon-di-5127074.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/l1070985-jpg-1790838153-4389-1790838232.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=KO0aq6Bs535nYw8AMe6RvQ",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Cú lao kinh hoàng đẩy máy bay flydubai đến sát ngưỡng vượt âm",
+      "summary": "Phi cơ flydubai giảm hơn 4.000 m cao độ chỉ trong 37 giây, đẩy máy bay tới sát ngưỡng vượt âm, khi hai phi công vật lộn trong buồng lái để giành quyền kiểm soát.",
+      "url": "https://vnexpress.net/cu-lao-kinh-hoang-day-may-bay-flydubai-den-sat-nguong-vuot-am-5127232.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/afp20260930c9u62hgv1highresisr-8805-8252-1790851383.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=IzRhmU8Yhfj6gU2IEyHpRw",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/10/01/cu-lao-kinh-hoang-day-may-bay-flydubai-den-sat-nguong-vuot-a-1790846879/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "9 người bị khởi tố trong vụ án liên quan cựu Thứ trưởng Y tế Trần Văn Thuấn",
+      "summary": "Hà Nội- Công an đã khởi tố 9 người trong vụ án xảy ra tại Công ty thiết bị y tế Việt Mỹ, liên quan thứ trưởng Y tế Trần Văn Thuấn, thu hồi 261.000 USD và 118 tỷ đồng.",
+      "url": "https://vnexpress.net/9-nguoi-bi-khoi-to-trong-vu-an-lien-quan-cuu-thu-truong-y-te-tran-van-thuan-5127023.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/wm1-wm1-wm1-img-jpg-1790855674-2968-1790855707.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=ItAFXJVrZIfOriDhtuMHHA",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/10/01/vu-an-buon-lau-thiet-bi-y-te-1790855154/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Bồ Đào Nha thắng Đan Mạch trong ngày vắng Ronaldo",
+      "summary": "Đan Mạch- Không có thủ quân Cristiano Ronaldo, Bồ Đào Nha hai lần bị Đan Mạch gỡ hòa nhưng vẫn thắng 4-2 ở lượt ba bảng A4 UEFA Nations League.",
+      "url": "https://vnexpress.net/bo-dao-nha-thang-dan-mach-trong-ngay-vang-ronaldo-5127391.html",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/02/a-nh-ma-n-hi-nh-lu-c-179089300-9498-9218-1790893045.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=9-NbnbBs2z-85pwgS14PLw",
+      "media": "",
+      "media_url": ""
+    },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
@@ -132,79 +202,29 @@
       "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/31a802d0bd2511f1bc2e018d645d8d-3204-3629-1790844437.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=OeTqJSdjASzQBvVdFjY-YA",
       "media": "",
       "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Robot hình người tự nhảy vào lò nung thép",
-      "summary": "Đội robot của Figure AI lần lượt nhảy xuống lò hồ quang điện trong một xưởng đúc ở Phần Lan để \"tự hủy\".",
-      "url": "https://vnexpress.net/robot-hinh-nguoi-tu-nhay-vao-lo-nung-thep-5127204.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/VNERobot-1790843301-3891-1790843359.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=iRsluAXjIoboEek3io2GmQ",
-      "media": "video",
-      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,/2026/10/01/robot-hinh-nguoi-tu-nhay-vao-lo-nung-thep-1790843291/vne/master.m3u8"
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Khả Ngân: Tôi hạnh phúc lần đầu làm mẹ",
-      "summary": "Diễn viên Khả Ngân, 29 tuổi, cho biết đang mang thai con đầu lòng sau công khai mối quan hệ tình cảm với Nhan Phúc Vinh.",
-      "url": "https://vnexpress.net/kha-ngan-toi-hanh-phuc-lan-dau-lam-me-5127341.html",
-      "image": "https://vcdn1-giaitri.vnecdn.net/2026/10/01/KhNgn22convertio-1790858397-9958-1790858829.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=jXgConKnqk6-FJJSNI3Ydw",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Mưa trắng trời TP HCM, giao thông tê liệt, người dân chật vật",
-      "summary": "Mưa như trút kèm sấm chớp dữ dội khắp TP HCM, nhiều tuyến đường ùn tắc kéo dài, đảo lộn cuộc sống người dân.",
-      "url": "https://vnexpress.net/mua-trang-troi-tp-hcm-giao-thong-te-liet-nguoi-dan-chat-vat-5127298.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/wm1-7-1790858828.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=ktFEs6dpO5yzWf-VworIyQ",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Giám đốc Sở Giáo dục và Đào tạo Tuyên Quang bị khởi tố",
-      "summary": "Giám đốc Sở Giáo dục và Đào tạo tỉnh Tuyên Quang Vũ Đình Hưng bị khởi tố với cáo buộc có sai phạm trong vụ gian lận thi tốt nghiệp THPT tại trường chuyên Tuyên Quang.",
-      "url": "https://vnexpress.net/giam-doc-so-giao-duc-va-dao-tao-tuyen-quang-bi-khoi-to-5127025.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/1-1790825849-3176-1790851209.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=JUngf5gxYYc0rKWGWOmpuA",
-      "media": "video",
-      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/10/01/khoi-to-hang-loat-giao-vien-o-tuyen-quan-lien-quan-toi-thi-t-1790854199/vne/master.m3u8"
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Sập cổng chào ở TP HCM trong mưa lớn",
-      "summary": "Mưa lớn kèm gió mạnh khiến cổng chào bằng thép ở phường Bình Dương gãy, đổ xuống đường, gây ùn tắc giao thông tối 1/10.",
-      "url": "https://vnexpress.net/sap-cong-chao-o-tp-hcm-trong-mua-lon-5127346.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/2aobor2ubqojac3ufddwo50o4ge70n-7173-5884-1790862359.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=9l2V6bkfKC-fneDONgJcMg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Cơ phó âm mưu cướp máy bay flydubai là 'người cuồng tín'",
-      "summary": "Đồng nghiệp cho biết cơ phó người Oman bị cáo buộc định cướp máy bay flydubai là người cuồng tín, thường xuyên thực hiện các hành vi kỳ lạ.",
-      "url": "https://vnexpress.net/co-pho-am-muu-cuop-may-bay-flydubai-la-nguoi-cuong-tin-5127173.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/anh2-jpeg-1790844389-9418-1790844417.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=tCUT3vH4hkXfId_Z3r2Q3w",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Thủ tướng Israel ôm 'người hùng' cứu máy bay UAE",
-      "summary": "Ông Netanyahu ôm chặt Yaniv Hayun - người trở về sau khi tham gia khống chế cơ phó trên chuyến bay Flydubai, với chiếc áo vẫn dính đầy máu.",
-      "url": "https://vnexpress.net/thu-tuong-israel-om-nguoi-hung-cuu-may-bay-uae-5127130.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/01/thumb-1790836755-1646-1790836817.gif?w=1200&h=675&q=100&dpr=1&fit=crop&s=ZCWZnDhbAvSUXkgeHyk91A&t=image",
-      "media": "",
-      "media_url": ""
     }
   ],
   "world": [
+    {
+      "source": "BBC",
+      "time": "02/10 · 23:07",
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94f7/live/f32ce4a0-be76-11f1-8a45-cd59664d243b.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "02/10 · 17:00",
+      "title": "Cornell students gather to voice anger over alleged gang rape",
+      "summary": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d63/live/bac2f6c0-be4b-11f1-babe-4199b0e7ccea.jpg",
+      "media": "",
+      "media_url": ""
+    },
     {
       "source": "BBC",
       "time": "02/10 · 16:08",
@@ -217,21 +237,21 @@
     },
     {
       "source": "BBC",
-      "time": "02/10 · 05:28",
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4ac/live/3102c5a0-be37-11f1-babe-4199b0e7ccea.jpg",
+      "time": "02/10 · 22:26",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2f/live/1f543100-be6d-11f1-b36c-81ad410b221e.png",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC",
-      "time": "02/10 · 17:00",
-      "title": "A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now",
-      "summary": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d63/live/bac2f6c0-be4b-11f1-babe-4199b0e7ccea.jpg",
+      "time": "02/10 · 21:01",
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd3/live/d8bcc320-be70-11f1-babe-4199b0e7ccea.png",
       "media": "",
       "media_url": ""
     },
@@ -264,29 +284,19 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
       "media": "",
       "media_url": ""
-    },
-    {
-      "source": "BBC",
-      "time": "02/10 · 02:59",
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC",
-      "time": "02/10 · 17:04",
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc3/live/316213c0-be23-11f1-bf88-854b5521eba9.jpg",
-      "media": "",
-      "media_url": ""
     }
   ],
   "markets": [
+    {
+      "source": "BBC Business",
+      "time": "02/10 · 21:30",
+      "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+      "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e78/live/ada3bbd0-be61-11f1-b36c-81ad410b221e.jpg",
+      "media": "",
+      "media_url": ""
+    },
     {
       "source": "BBC Business",
       "time": "02/10 · 06:00",
@@ -309,21 +319,11 @@
     },
     {
       "source": "BBC Business",
-      "time": "02/10 · 17:44",
-      "title": "UK diesel price hits £2 a litre for first time, RAC says",
-      "summary": "The motoring body says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
+      "time": "02/10 · 22:50",
+      "title": "UK diesel price tops £2 a litre as G7 countries agree to release 100 million barrels of oil",
+      "summary": "The £2 threshold was crossed as the group of advanced economies agreed to a substantial release of fuel reserves.",
       "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eafc/live/b2d4f150-bd71-11f1-8134-9503562e5ca9.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Business",
-      "time": "02/10 · 06:45",
-      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-      "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
       "media": "",
       "media_url": ""
     },
@@ -339,36 +339,46 @@
     },
     {
       "source": "BBC Business",
-      "time": "02/10 · 15:20",
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
+      "time": "02/10 · 17:47",
+      "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
+      "summary": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d82/live/328104a0-bd9c-11f1-a64c-550be9e3c66b.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC Business",
-      "time": "02/10 · 01:09",
-      "title": "Thames Water apologises after £145,000 customer billing mistake",
-      "summary": "The firm has apologised to the family.",
-      "url": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c4/live/c0dffc20-bdb9-11f1-b7d8-31573a2bd831.jpg",
+      "time": "02/10 · 20:38",
+      "title": "Why UK diesel prices have breached the £2 per litre mark",
+      "summary": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC Business",
-      "time": "02/10 · 01:38",
-      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-      "summary": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
-      "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/d6080670-bd8b-11f1-b442-f3f672c979ff.jpg",
+      "time": "02/10 · 06:45",
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
       "media": "",
       "media_url": ""
     }
   ],
   "ai_news": [
+    {
+      "source": "OpenAI",
+      "time": "",
+      "title": "A practical guide to building with GPT-6 Product Oct 2, 2026",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/30yfQUtDoZo9YOON0QB57H/7c53ac242cc32ab9a9dc05930bdc2034/6tbusrroo8ljxic8ceybig-seo.png?w=1600&h=900&fit=fill",
+      "media": "",
+      "media_url": ""
+    },
     {
       "source": "OpenAI",
       "time": "",
@@ -420,12 +430,12 @@
       "media_url": ""
     },
     {
-      "source": "OpenAI",
-      "time": "",
-      "title": "Introducing dots Product Sep 29, 2026",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "url": "https://openai.com/index/introducing-dots/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&h=900&fit=fill",
+      "source": "NVIDIA",
+      "time": "02/10 · 20:00",
+      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with…",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg",
       "media": "",
       "media_url": ""
     },
@@ -436,16 +446,6 @@
       "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture,…",
       "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/twitter-gif-2104993966043320759-v5.png",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "NVIDIA",
-      "time": "01/10 · 20:00",
-      "title": "Fall Into 25 New Games on GeForce NOW This October",
-      "summary": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant reward for Performance and Ultimate members to The Witcher 3:…",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GFN_Thursday-Oct_1.jpg",
       "media": "",
       "media_url": ""
     }
@@ -535,6 +535,16 @@
   "science_news": [
     {
       "source": "BBC Science",
+      "time": "02/10 · 15:53",
+      "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
+      "summary": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
+      "url": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a56/live/d0a483b0-be36-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
       "time": "02/10 · 14:16",
       "title": "How to see the Orionid meteor shower from Friday",
       "summary": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
@@ -580,16 +590,6 @@
       "summary": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
       "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2c/live/87a986d0-bcdb-11f1-afec-ebbb2634c4cd.png",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Science",
-      "time": "01/10 · 07:08",
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4300/live/fc078410-bccb-11f1-9f83-d9975ff80416.jpg",
       "media": "",
       "media_url": ""
     }

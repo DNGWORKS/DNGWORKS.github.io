@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-09T18:33:44+07:00",
+  "updated_at": "2026-10-10T04:23:26+07:00",
   "latest_vn": [
-    {
-      "source": "VnExpress",
-      "time": "09/10 · 11:36",
-      "title": "Robot biểu diễn Thái cực quyền tại triển lãm ở Hà Nội",
-      "summary": "Hai robot hình người của Trung Quốc lần lượt so tài bằng những động tác võ thuật, nhảy theo nhạc tại Triển lãm Công nghệ Hà Nội 2026.",
-      "url": "https://vnexpress.net/robot-bieu-dien-thai-cuc-quyen-tai-trien-lam-o-ha-noi-5130206.html",
-      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/robotnhay-1791507278-1385-1791510357.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=K0eL1rP31X_iVIIx_fC0rw&t=image",
-      "media": "",
-      "media_url": ""
-    },
     {
       "source": "VnExpress",
       "time": "09/10 · 11:34",
@@ -45,7 +35,7 @@
       "source": "VnExpress",
       "time": "09/10 · 11:26",
       "title": "AI khiến giới toán học chao đảo vì giải liền 370 bài",
-      "summary": "Một mô hình AI giải quyết hàng trăm bài toán hóc búa - thành tựu đủ sức \"nhận ngay huy chương Fields\" nếu do con người thực hiện.",
+      "summary": "Mô hình của OpenAI giải quyết hàng trăm bài toán hóc búa mà con người từng vật lộn, gây chấn động.",
       "url": "https://vnexpress.net/ai-khien-gioi-toan-hoc-chao-dao-vi-giai-lien-370-bai-5130141.html",
       "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/riemannhypothesis1-1791478530-5099-1791479805.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=85QUY_7srbUOs4MRNwGM2g",
       "media": "",
@@ -65,7 +55,7 @@
       "source": "VnExpress",
       "time": "09/10 · 11:21",
       "title": "Ông Lưu Đình Phúc giữ chức Cục trưởng Xuất bản và Thư viện",
-      "summary": "Ông Lưu Đình Phúc được điều động làm Cục trưởng Cục Xuất bản và Thư viện; ông Lê Quang Tự Do thay ông Phúc giữ chức Cục trưởng Cục Báo chí.",
+      "summary": "Ông Lưu Đình Phúc được điều động làm Cục trưởng Cục Xuất bản và Thư viện; ông Lê Quang Tự Do thay ông giữ chức Cục trưởng Cục Báo chí.",
       "url": "https://vnexpress.net/ong-luu-dinh-phuc-giu-chuc-cuc-truong-xuat-ban-va-thu-vien-5130311.html",
       "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/603ccb1bf31d73432a0c-179151989-6288-6316-1791519901.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gjh0FCdppbGChy2F3_smdg",
       "media": "",
@@ -120,168 +110,178 @@
       "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/5563187178137269253a-179151490-9859-7521-1791515155.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5PYT5L23HHqux8Tldm3uOg",
       "media": "",
       "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "09/10 · 11:00",
+      "title": "Có phải em dễ dãi với tôi thì cũng vậy với người đàn ông khác?",
+      "summary": "Một buổi tối đi chơi bất chợt gặp trời mưa, cả hai đều bị ướt, em chủ động đề nghị \"vào nhà nghỉ trú mưa\".",
+      "url": "https://vnexpress.net/co-phai-em-de-dai-voi-toi-thi-cung-vay-voi-nguoi-dan-ong-khac-5130293.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/GeminiGeneratedImagewckg6uwckg-2688-6360-1791518300.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4IkM_TAouBHbuvdGAnG_Og",
+      "media": "",
+      "media_url": ""
     }
   ],
   "popular_vn": [
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Nhà hẻm, nhà phố tại TP HCM rớt giá hàng tỷ đồng",
-      "summary": "Giá nhà phố, riêng lẻ tại TP HCM giảm hàng tỷ đồng ở nhiều khu vực khi người bán chịu áp lực tài chính, còn người mua vẫn chưa vội xuống tiền.",
-      "url": "https://vnexpress.net/nha-hem-nha-pho-tai-tp-hcm-rot-gia-hang-ty-dong-5129906.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/nha-1791518246-7022-1791518251.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=7YuHq5rOxT3WDDeD72T4kA",
+      "title": "Bà Nguyễn Thị Như Loan từ án treo xuống cải tạo không giam giữ, đã chấp hành xong",
+      "summary": "TP HCM- Tòa phúc thẩm giảm án cho bà Nguyễn Thị Như Loan xuống 11 tháng 18 ngày cải tạo không giam giữ, khấu trừ thời gian tạm giam thì đã chấp hành xong hình phạt.",
+      "url": "https://vnexpress.net/ba-nguyen-thi-nhu-loan-tu-an-treo-xuong-cai-tao-khong-giam-giu-da-chap-hanh-xong-5130296.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/2167037817908851785-1791525182-7128-1791525204.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=cYZuU3E1PEyrZlKayL6JnQ",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Cửa hàng chứa 300 xe máy ở Hà Nội cháy ngùn ngụt",
-      "summary": "Cửa hàng ba tầng chuyên bán xe SH cũ trên phố Nguyễn Khánh Toàn, phường Nghĩa Đô, bốc cháy dữ dội, nhiều tiếng nổ vang lên, tối 8/10.",
-      "url": "https://vnexpress.net/cua-hang-chua-300-xe-may-o-ha-noi-chay-ngun-ngut-5130154.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/chayxemay-1791510954-6280-1791511014.gif?w=1200&h=675&q=100&dpr=1&fit=crop&s=t-k7uBNPFdG-wo1Itca_AA&t=image",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Hoàng hậu Thái Lan lái tiêm kích trong chuyến bay solo đầu tiên",
-      "summary": "Hoàng hậu Thái Lan điều khiển tiêm kích Gripen trong chuyến bay huấn luyện solo đầu tiên tại căn cứ Không quân số 7, dưới sự chứng kiến của Nhà vua Maha Vajiralongkorn sáng 8/10.",
-      "url": "https://vnexpress.net/hoang-hau-thai-lan-lai-tiem-kich-trong-chuyen-bay-solo-dau-tien-5130137.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/08/Sequence03ezgifcomoptimize-179-7829-1240-1791478403.gif?w=1200&h=675&q=100&dpr=1&fit=crop&s=SMrETaOXdpIHJHPwiH_Ezw&t=image",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Nhiều thí sinh 'lạnh nhạt' với ngành Công nghệ thông tin",
-      "summary": "Ấp ủ, luyện thi để vào ngành Công nghệ thông tin từ lớp 11 nhưng đến khi chuẩn bị đăng ký xét tuyển đại học, Ngọc Hân chuyển hướng sang Kỹ thuật Điều khiển và Tự động hóa.",
-      "url": "https://vnexpress.net/nhieu-thi-sinh-lanh-nhat-voi-nganh-cong-nghe-thong-tin-5128392.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/05/it-1791188535-6414-1791193757.webp?w=1200&h=675&q=100&dpr=1&fit=crop&s=_dSA5oA3AgKzI-9z4WCbSQ",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "VnExpress · Xem nhiều",
-      "time": "",
-      "title": "Máy bay chở khách Arab Saudi 'bị phá hủy' khi Houthi tập kích Riyadh",
-      "summary": "Các nhân chứng cho biết ít nhất một phi cơ tại sân bay thủ đô Riyadh của Arab Saudi đã bị phá hủy trong đòn tập kích của Houthi.",
-      "url": "https://vnexpress.net/may-bay-cho-khach-arab-saudi-bi-pha-huy-khi-houthi-tap-kich-riyadh-5130148.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/downloadt061754-1791502299-4444-1791502309.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=ntXCp5XtKil28BIiW3gSYQ",
+      "title": "Ba xe máy bốc cháy trong nhà ở TP HCM, một người chết",
+      "summary": "Hỏa hoạn bùng lên từ xe máy ở tầng trệt trong căn nhà ở phường Khánh Hội (quận 4 cũ), cụ bà 81 khi thoát từ ban công sang nhà bên cạnh bị ngã, tử vong, sáng 9/10.",
+      "url": "https://vnexpress.net/ba-xe-may-boc-chay-trong-nha-o-tp-hcm-mot-nguoi-chet-5130343.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/a-nh-ma-n-hi-nh-lu-1791521156-2354-1791521185.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=C8B9zwrLNyDwkbalbIA69g",
       "media": "video",
-      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/2026/10/09/phi-co-arab-saudi-bi-pha-huy-khi-houthi-khong-kich-san-bay-r-1791501434/index-v1-a1.m3u8"
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,/2026/10/09/nhieu-xe-may-boc-chay-trong-nha-o-tp-hcm-mot-nguoi-chet-1791522340/vne/master.m3u8"
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Tử tù Mỹ có thể đi lại sau vụ tiêm thuốc độc bất thành",
-      "summary": "Christa Pike có thể tự đi lại trong phòng bệnh, sau khi sống sót qua hai lần tiêm thuốc độc trong buổi hành quyết bất thành tại bang Tennessee.",
-      "url": "https://vnexpress.net/tu-tu-my-co-the-di-lai-sau-vu-tiem-thuoc-doc-bat-thanh-5130087.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/08/downloadt193319-1791462922-5456-1791463036.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=_KLiQhHs5HWrB-uvakGcRw",
+      "title": "Sai lầm khi đi bộ khiến khớp gối nhanh hỏng",
+      "summary": "Tăng cự ly quá nhanh, sải bước dài, dáng đi lệch, xuống dốc sai cách và chọn sai giày là 5 thói quen âm thầm tàn phá khớp gối khi đi bộ.",
+      "url": "https://vnexpress.net/sai-lam-khi-di-bo-khien-khop-goi-nhanh-hong-5130105.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/08/screenshot-at-1791468466-6926-1791468530.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=Fm30LpN8RqJN-C72X64OhQ",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Mỹ sẽ phát trực tiếp buổi xử bắn cựu thiếu tá lục quân",
-      "summary": "Quan chức Lầu Năm Góc cho biết buổi xử bắn Nidal Hasan, người bị kết án tử hình vì xả súng giết đồng đội, sẽ được truyền hình trực tiếp.",
-      "url": "https://vnexpress.net/my-se-phat-truc-tiep-buoi-xu-ban-cuu-thieu-ta-luc-quan-5130150.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/afp-was3016762-v1001-highres-u-5980-7955-1791502584.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=ETA5V3986M0FbD8AXe_tdQ",
+      "title": "Cựu tổng biên tập France Football: 'Ronaldo vận động hành lang nhiều hơn Messi'",
+      "summary": "Pascal Ferre, từng là Tổng biên tập tạp chí Pháp France Football trong 26 năm, hé lộ nhiều bí mật về giải thưởng Quả Bóng Vàng.",
+      "url": "https://vnexpress.net/cuu-tong-bien-tap-france-football-ronaldo-van-dong-hanh-lang-nhieu-hon-messi-5129691.html",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/09/80ae2a7fdb21b9-1791518550-3085-1791518556.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=LcXAcZOyMtgRN9gbqKQ4CQ",
       "media": "",
       "media_url": ""
     },
     {
       "source": "VnExpress · Xem nhiều",
       "time": "",
-      "title": "Mỹ dịu giọng tìm lối thoát cho xung đột với Iran",
-      "summary": "Những tín hiệu mềm mỏng hơn từ Washington đang mở ra khả năng nối lại đàm phán, song khác biệt lập trường giữa hai bên vẫn là trở ngại lớn.",
-      "url": "https://vnexpress.net/my-diu-giong-tim-loi-thoat-cho-xung-dot-voi-iran-5129726.html",
-      "image": "https://i2-vnexpress.vnecdn.net/2026/10/08/ap26274501270500-1791437428-7845-1791437606.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=744QXNNZdkcK6CLYQwSdLA",
+      "title": "Vì sao Gò Vấp địa hình cao vẫn ngập nặng?",
+      "summary": "TP HCM- Có địa hình tương đối cao, Gò Vấp vẫn ngập sâu bởi nhiều điểm trũng, cống quá tải và nước khó thoát ra kênh khi mưa lớn gặp triều cường.",
+      "url": "https://vnexpress.net/vi-sao-go-vap-dia-hinh-cao-van-ngap-nang-5130374.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/wm1-wm1-1790773806919-g28594111870-1711-1410-1791543872.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=OOOm5f9bYbxbIyAbmdQ-zw",
       "media": "",
       "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Hai xe buýt ở Donetsk hứng bom lượn, ít nhất 30 người chết",
+      "summary": "Ukraine cáo buộc Nga ném bom lượn vào thành phố Kramatorsk, phá hủy hai xe buýt và khiến 30 người thiệt mạng.",
+      "url": "https://vnexpress.net/hai-xe-buyt-o-donetsk-hung-bom-luon-it-nhat-30-nguoi-chet-5130194.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/Xebut-1791513088-2380-1791513641.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=3A-HeAROXaYLqbVkckSwgg",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,,/2026/10/09/hai-xe-buyt-o-donetsk-trung-bom-luon-30-nguoi-chet-1791512637/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Tổng thống Mỹ gọi Elon Musk là 'báu vật quốc gia'",
+      "summary": "Tổng thống Trump gọi Elon Musk là \"báu vật quốc gia\" khi trao huân chương khoa học cao quý nhất nước Mỹ cho tỷ phú công nghệ.",
+      "url": "https://vnexpress.net/tong-thong-my-goi-elon-musk-la-bau-vat-quoc-gia-5130156.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/ap26281652787445-1791505788-2118-1791506447.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=-eppqNfHIiSmkvRWW5cxLQ",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Gia đình chặn đường để phơi thóc, thách thức tài xế",
+      "summary": "Bắc Ninh- Con đường nhỏ dẫn lên đê bị một gia đình chặn lại để phơi thóc, hôm 7/10 tại đê Cầu Hồ.",
+      "url": "https://vnexpress.net/gia-dinh-chan-duong-de-phoi-thoc-thach-thuc-tai-xe-5130329.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/phoithocsetgifezgifcomcrop-179-2976-3839-1791521482.gif?w=1200&h=675&q=100&dpr=1&fit=crop&s=iVJocnW-K0NKzd20vhoCvg&t=image",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/10/09/nguoi-dan-phoi-lua-chan-duong-oto-1791519084/vne/master.m3u8"
     }
   ],
   "world": [
     {
       "source": "BBC",
-      "time": "09/10 · 16:29",
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
-      "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c51/live/097ea900-c3c7-11f1-9a39-31b474234113.jpg",
+      "time": "10/10 · 04:16",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC",
-      "time": "09/10 · 16:43",
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-      "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d9/live/e8655f40-c3c4-11f1-9a39-31b474234113.png",
+      "time": "10/10 · 01:40",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC",
-      "time": "09/10 · 06:11",
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg",
+      "time": "10/10 · 03:42",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC",
-      "time": "09/10 · 16:09",
-      "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
-      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9adf/live/c4e00ca0-c3c4-11f1-bc2e-018d645d8d21.jpg",
+      "time": "10/10 · 02:39",
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC",
-      "time": "09/10 · 11:26",
-      "title": "ICE agent shoots man in New York City",
-      "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7221/live/91f77890-c384-11f1-ade5-f77879e85d6f.jpg",
+      "time": "10/10 · 00:14",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67c/live/c75f8690-c3fb-11f1-9a39-31b474234113.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC",
-      "time": "09/10 · 17:54",
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "summary": "The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b16/live/28721870-c3bc-11f1-9798-abffda1e61e7.jpg",
+      "time": "09/10 · 23:32",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8a/live/e5e46370-c3f5-11f1-9a39-31b474234113.png",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC",
-      "time": "09/10 · 17:07",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f053/live/449a1890-c3c1-11f1-9a39-31b474234113.jpg",
+      "time": "10/10 · 00:37",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC",
-      "time": "09/10 · 11:53",
-      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-      "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d7/live/c7941370-c3a0-11f1-bc2e-018d645d8d21.jpg",
+      "time": "10/10 · 04:04",
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png",
       "media": "",
       "media_url": ""
     }
@@ -289,21 +289,41 @@
   "markets": [
     {
       "source": "BBC Business",
-      "time": "09/10 · 11:55",
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b1a/live/12929650-c32c-11f1-9981-cf94ea240e40.jpg",
+      "time": "10/10 · 04:16",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC Business",
-      "time": "09/10 · 06:05",
-      "title": "'Add me on WhatsApp' scam calls to be investigated",
-      "summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c7c/live/774c4850-c31a-11f1-bd97-fbe5a3482cde.jpg",
+      "time": "09/10 · 23:15",
+      "title": "Burnham promises to curb non-compete rules in job contracts",
+      "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "09/10 · 21:36",
+      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875d/live/70d424a0-c3ee-11f1-9a39-31b474234113.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "10/10 · 02:32",
+      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146c/live/3ab50800-c33d-11f1-b521-0bbd7e4f1f2e.jpg",
       "media": "",
       "media_url": ""
     },
@@ -319,26 +339,6 @@
     },
     {
       "source": "BBC Business",
-      "time": "09/10 · 04:37",
-      "title": "White House blocks Microsoft from foreign worker hiring programme",
-      "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Business",
-      "time": "09/10 · 06:14",
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Business",
       "time": "09/10 · 06:09",
       "title": "Why are more roofs not made of solar tiles?",
       "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
@@ -349,21 +349,21 @@
     },
     {
       "source": "BBC Business",
-      "time": "09/10 · 12:11",
-      "title": "'You cannot build this car anywhere else in the world'",
-      "summary": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dca7/live/1e925c70-c3a3-11f1-a64c-550be9e3c66b.jpg",
+      "time": "09/10 · 19:34",
+      "title": "Anthropic bans users from being 'cruel' to its AI systems",
+      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
       "media": "",
       "media_url": ""
     },
     {
       "source": "BBC Business",
-      "time": "09/10 · 14:14",
-      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg",
+      "time": "09/10 · 06:05",
+      "title": "'Add me on WhatsApp' scam calls to be investigated",
+      "summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c7c/live/774c4850-c31a-11f1-bd97-fbe5a3482cde.jpg",
       "media": "",
       "media_url": ""
     }
@@ -453,6 +453,26 @@
   "tech_news": [
     {
       "source": "BBC Technology",
+      "time": "09/10 · 22:32",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
+      "time": "09/10 · 19:34",
+      "title": "Anthropic bans users from being 'cruel' to its AI systems",
+      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
       "time": "09/10 · 16:30",
       "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
       "summary": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
@@ -510,86 +530,66 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef63/live/b1b98540-c30e-11f1-a64c-550be9e3c66b.jpg",
       "media": "",
       "media_url": ""
-    },
-    {
-      "source": "BBC Technology",
-      "time": "08/10 · 08:59",
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-      "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Technology",
-      "time": "08/10 · 06:50",
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e42/live/60b35020-c25c-11f1-a64c-550be9e3c66b.jpg",
-      "media": "",
-      "media_url": ""
     }
   ],
   "science_news": [
     {
       "source": "BBC Science",
-      "time": "09/10 · 14:34",
-      "title": "Hurricane Isaias forecast to strengthen to category three before landfall in US",
+      "time": "10/10 · 02:11",
+      "title": "'People don't think recycling at work is part of their job description'",
+      "summary": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "09/10 · 23:46",
+      "title": "Isaias becomes major category three storm before landfall",
+      "summary": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+      "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "09/10 · 22:32",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "09/10 · 21:23",
+      "title": "Hurricane Isaias strengthens as it heads towards land",
+      "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
+      "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "09/10 · 20:01",
+      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
+      "summary": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/9cb90da0-c3e0-11f1-95ba-dba767ffba7e.png",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "09/10 · 19:54",
+      "title": "Hurricane Isaias strengthens to a major category three storm",
       "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
       "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Science",
-      "time": "09/10 · 12:00",
-      "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
-      "summary": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.",
-      "url": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc3/live/945b6820-c3a3-11f1-9a39-31b474234113.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Science",
-      "time": "09/10 · 06:09",
-      "title": "Why are more roofs not made of solar tiles?",
-      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Science",
-      "time": "09/10 · 06:03",
-      "title": "Will El Niño and the polar vortex bring snow to the UK this winter?",
-      "summary": "The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6b/live/1cb3a850-c259-11f1-8b25-57b2b04e8d85.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Science",
-      "time": "09/10 · 02:39",
-      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
-      "summary": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
-      "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/9b2c8e90-c34e-11f1-bc2e-018d645d8d21.jpg",
-      "media": "",
-      "media_url": ""
-    },
-    {
-      "source": "BBC Science",
-      "time": "09/10 · 01:05",
-      "title": "More than 800,000 hours of sewage spills in Wales last year, report claims",
-      "summary": "It is equivalent to a sewage discharge happening every five minutes, according to campaigners.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy74e8nyggo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee8/live/5d456bf0-c340-11f1-b521-0bbd7e4f1f2e.png",
       "media": "",
       "media_url": ""
     }

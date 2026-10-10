@@ -1,360 +1,598 @@
 {
-  "schema": "dng-newsroom/1",
-  "snapshotUpdatedAt": "2026-10-10T04:02:38.955Z",
-  "lastSuccessfulFetch": "2026-10-10T04:02:38.955Z",
-  "lastAttemptAt": "2026-10-10T04:02:38.955Z",
-  "lastAttemptResult": "ok",
-  "stale": false,
-  "sourceCount": 3,
-  "total": 12,
-  "counts": {
-    "business-market": 3,
-    "ai-platforms": 11,
-    "ecommerce": 1,
-    "search-seo": 1
-  },
-  "log": {
-    "ok": [
-      {
-        "source": "news.json",
-        "entries": 58
-      }
-    ],
-    "failed": []
-  },
-  "items": [
+  "updated_at": "2026-10-10T17:51:50+07:00",
+  "latest_vn": [
     {
-      "id": "148d33ec138b24a5",
-      "type": "external_news",
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
-      "canonicalUrl": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "sourceId": "bbc-business",
-      "sourceUrl": "https://bbc.co.uk/",
-      "trustTier": 1,
-      "publishedAt": "2026-10-08T23:14:00.000Z",
-      "publishedAtPrecision": "derived-year",
-      "publishedAtDerivedFrom": "09/10 · 06:14",
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "business-market",
-        "ai-platforms"
-      ],
-      "relevanceScore": 6,
-      "relevanceReasons": [
-        "business (+3)",
-        "tech (+3)"
-      ],
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg",
-      "imageCredit": "BBC Business",
-      "imageRightsStatus": "approved",
-      "language": "en",
-      "status": "published"
+      "source": "VnExpress",
+      "time": "10/10 · 11:33",
+      "title": "Khoảnh khắc vũ khí siêu vượt âm Hàn Quốc lao xuống biển",
+      "summary": "Hàn Quốc công bố ảnh vụ phóng thử phương tiện lướt siêu vượt âm đầu tiên, khi đầu đạn này lao xuống biển ở tốc độ cực cao.",
+      "url": "https://vnexpress.net/khoanh-khac-vu-khi-sieu-vuot-am-han-quoc-lao-xuong-bien-5130627.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/5563187178137269218c-179159743-7401-8314-1791597855.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=bY5agnq5SA8FN0HgdNIPKw",
+      "media": "",
+      "media_url": ""
     },
     {
-      "id": "baf7193e75c14529",
-      "type": "external_news",
+      "source": "VnExpress",
+      "time": "10/10 · 11:32",
+      "title": "Khu đô thị 15.600 tỷ đồng tại Hưng Yên tìm được chủ đầu tư",
+      "summary": "Công ty vừa thành lập 3 tháng ở Hưng Yên được duyệt là nhà đầu tư Khu đô thị mới Mễ Sở giáp Vành đai 4.",
+      "url": "https://vnexpress.net/khu-do-thi-15-600-ty-dong-tai-hung-yen-tim-duoc-chu-dau-tu-5130675.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/hungyen-1791605467-5754-1791605981.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4_qnTsNWZB1YEbcDb9EMPw",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 11:30",
+      "title": "Hutech Education và Vietcombank mở rộng liên kết giáo dục - tài chính",
+      "summary": "Hutech Education và Vietcombank ký kết ba thỏa thuận hợp tác, tập trung phát triển nguồn lực tài chính, chuyển đổi số giáo dục và mở rộng cơ hội thực tập, việc làm cho sinh viên.",
+      "url": "https://vnexpress.net/hutech-education-va-vietcombank-mo-rong-lien-ket-giao-duc-tai-chinh-5130681.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/image638710633extractword0out-8791-3310-1791606573.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JH6ff3SMNsqjMjJGavNpOg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 11:30",
+      "title": "Chiến dịch cổ vũ ASIAD của Revive Thể Thao thu hút hàng nghìn lượt tham gia",
+      "summary": "Chiến dịch \"Triệu lời đồng hành tiếp sức\" của Revive Thể Thao gửi đến các VĐV Việt nam tại ASIAD 20 thu hút hàng nghìn người chia sẻ và bình luận trên mạng xã hội.",
+      "url": "https://vnexpress.net/chien-dich-co-vu-asiad-cua-revive-the-thao-thu-hut-hang-nghin-luot-tham-gia-5128967.html",
+      "image": "https://vcdn1-giadinh.vnecdn.net/2026/10/10/anh-vne-1791604634-4226-1791604720.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nxtZY355xHSL9_lon7Yk-Q",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 11:13",
+      "title": "Thợ Việt lần đầu giành giải nhất nghề cốt thép ở Nhật",
+      "summary": "Vượt qua 33 đối thủ, anh Lương Đức Quý (33 tuổi) trở thành lao động nước ngoài đầu tiên vô địch Cuộc thi Kỹ năng Cốt thép toàn Nhật Bản.",
+      "url": "https://vnexpress.net/tho-viet-lan-dau-gianh-giai-nhat-nghe-cot-thep-o-nhat-5130645.html",
+      "image": "https://vcdn1-giadinh.vnecdn.net/2026/10/10/a-nh-ma-n-hi-nh-lu-c-179160156-2256-5270-1791601720.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FoGAVEw1gzoB6arCnnEunA",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 11:10",
+      "title": "Traphaco bị phạt do 'vi phạm quy định sản xuất thuốc'",
+      "summary": "Cục Quản lý Dược phạt Công ty cổ phần Traphaco 160 triệu đồng do sản xuất nhiều lô thuốc có thay đổi hồ sơ đăng ký chưa được phê duyệt.",
+      "url": "https://vnexpress.net/traphaco-bi-phat-do-vi-pham-quy-dinh-san-xuat-thuoc-5130657.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/10/anh-chup-man-hinh-luc-17916024-7939-3905-1791602517.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=--yF819zioykbX4s79wTBg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 11:00",
+      "title": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải",
+      "summary": "OpenAI sa thải ba nhà nghiên cứu với lý do tuồn thông tin mật, nhưng nhóm này khẳng định nguyên nhân thực chất liên quan đến an toàn AI.",
+      "url": "https://vnexpress.net/cuoc-doi-dau-giua-openai-va-ba-nha-nghien-cuu-bi-sa-thai-5130579.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/wm1-dsc00717-jpg-1791575774-97-2211-9398-1791593543.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=usEaFC5qE-vFWk4DQMn_ZA",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 11:00",
+      "title": "Ba thể bệnh dịch hạch",
+      "summary": "Dịch hạch là bệnh truyền nhiễm cấp tính do vi khuẩn gây ra, gồm thể hạch, nhiễm khuẩn huyết và thể phổi, trong đó thể phổi có thể lây từ người sang người.",
+      "url": "https://vnexpress.net/ba-the-benh-dich-hach-5130517.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/image001-1791543816-3168-1791543831.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sU8wZRF7iGzAD9X9mHhUww",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 11:00",
+      "title": "5 bài tập hỗ trợ giảm mỡ máu",
+      "summary": "Đi bộ, đạp xe, yoga, bơi lội có thể hỗ trợ giảm chỉ số cholesterol xấu tự nhiên, góp phần bảo vệ sức khỏe tim mạch.",
+      "url": "https://vnexpress.net/5-bai-tap-ho-tro-giam-mo-mau-5130483.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/image001-1791537870-2718-1791537932.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5cvo_o6jelquwb69a7Squw",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 11:00",
+      "title": "Bị ung thư cổ tử cung có thể xạ trị?",
+      "summary": "Chị tôi vừa được chẩn đoán ung thư cổ tử cung giai đoạn hai, đã lan ra ngoài tử cung. Bệnh giai đoạn này có thể xạ trị được không? (Minh Thảo, 35 tuổi)",
+      "url": "https://vnexpress.net/bi-ung-thu-co-tu-cung-co-the-xa-tri-5130474.html",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/ut-1791536729-3694-1791536809.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nTOpulItjj_PknUZqv-ksA",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 10:51",
+      "title": "Bộ trưởng Công an: 'Rác phẩm' mạng cổ súy lối sống buông thả",
+      "summary": "Đại tướng Lương Tam Quang cảnh báo nội dung độc hại trên mạng có thể làm suy thoái đạo đức, phai nhạt bản sắc và ảnh hưởng đến giới trẻ.",
+      "url": "https://vnexpress.net/bo-truong-cong-an-rac-pham-mang-co-suy-loi-song-buong-tha-5130637.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/wm1aoboqni0ps2n9nsb2c22kwh-179-2506-2973-1791601706.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=hHzODRbJNde0ngI4hA-gJQ",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress",
+      "time": "10/10 · 10:50",
+      "title": "Ba cơn bão cùng lúc áp sát Mỹ",
+      "summary": "Các cơn bão Rachel, Simon và Isaias đang tiến gần khu vực phía nam của Mỹ, dự kiến quét qua miền tây, miền trung và miền đông nước này.",
+      "url": "https://vnexpress.net/ba-con-bao-cung-luc-ap-sat-my-5130638.html",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/5563187178137269522a-179160011-6356-2911-1791600833.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0pmkH0fgXO92mASlCeifGQ",
+      "media": "",
+      "media_url": ""
+    }
+  ],
+  "popular_vn": [
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Nhiều xe SH trơ khung sau đám cháy ở Hà Nội",
+      "summary": "Hàng loạt xe SH cũ trong cửa hàng rộng hơn 300 m2, cao 3 tầng trên phố Nguyễn Khánh Toàn bị cháy trơ khung, hư hỏng nặng sau hỏa hoạn tối 8/10.",
+      "url": "https://vnexpress.net/nhieu-xe-sh-tro-khung-sau-dam-chay-o-ha-noi-5130321.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/1791532349904f79e06b5f0d8d6384c3e73cd310f96d-1791534792.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=37gmN70170aF9vRUSnQpUg",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/10/09/cua-hang-ban-xe-may-sh-boc-chay-ngun-ngut-trong-dem-1791518476/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Mỹ áp lệnh trừng phạt với ICC, tuyên bố 'cắt đứt mọi nguồn lực'",
+      "summary": "Ngoại trưởng Mỹ thông báo áp lệnh trừng phạt Tòa án Hình sự Quốc tế, tuyên bố sẽ cắt đứt mọi nguồn lực và làm tê liệt cơ quan này.",
+      "url": "https://vnexpress.net/my-ap-lenh-trung-phat-voi-icc-tuyen-bo-cat-dut-moi-nguon-luc-5130562.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/2024t171253z-rc2gg7acggp9-rtrm-4315-4311-1791561485.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=D0m8BhBnVCs9wkqqTFUk-Q",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Xe bồn lật đè người đi đường sau va chạm với ôtô đầu kéo",
+      "summary": "Xe bồn chở bêtông đâm ôtô đầu kéo đang đậu bên đường, lật đè người phụ nữ đi xe máy khiến nạn nhân tử vong tại chỗ, sáng 9/10.",
+      "url": "https://vnexpress.net/xe-bon-lat-de-nguoi-di-duong-sau-va-cham-voi-oto-dau-keo-5130537.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/Damxeezgifcomvideotogifconvert-9582-3033-1791551912.gif?w=1200&h=675&q=100&dpr=1&fit=crop&s=pK4AYCnf-L1mepbzzOrxQQ&t=image",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Gạo Ông Cua ST25 của Việt Nam đạt giải Nhì thế giới năm 2026",
+      "summary": "Sau ba lần giành giải Nhất, gạo Ông Cua ST25 của Việt Nam xếp thứ hai tại cuộc thi Gạo ngon nhất thế giới năm nay.",
+      "url": "https://vnexpress.net/gao-ong-cua-st25-cua-viet-nam-dat-giai-nhi-the-gioi-nam-2026-5130417.html",
+      "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/09/gao-1791532442-8003-1791532520.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=vT2JYCGqVxBJ0uaPbPdALw",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Chiêu sửa một ký tự trong số tài khoản, 677 lần lừa chuyển tiền thành công",
+      "summary": "Phú Thọ- Trong hơn 3 năm, Phùng Thị Lẫy đều sửa một ký tự trong số tài khoản để lừa chủ quán quen đã chuyển tiền thành công 677 lần, chiếm đoạt 1,2 tỷ đồng.",
+      "url": "https://vnexpress.net/chieu-sua-mot-ky-tu-trong-so-tai-khoan-677-lan-lua-chuyen-tien-thanh-cong-5130439.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/20261009171807-1791541144-5912-1791541224.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=XcDcgRax5b5ewqQFG07dIQ",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "3.000 người liên quan đường dây đánh bạc, rửa tiền 750 tỷ đồng",
+      "summary": "An Giang- Công an xác định khoảng 3.000 người liên quan hơn 27.000 tài khoản giao dịch trên 750 tỷ đồng trong đường dây đánh bạc, rửa tiền xuyên biên giới.",
+      "url": "https://vnexpress.net/3-000-nguoi-lien-quan-duong-day-danh-bac-rua-tien-750-ty-dong-5130520.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/duongday-1791544888-4356-1791544897.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=gMG7lhqBuDktYKj_lmIxGA",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Hà Nội khởi công công viên Safari Ba Vì, trường đua ngựa Sóc Sơn",
+      "summary": "Công viên Safari Ba Vì khoảng 299 ha, tổng đầu tư hơn 6.500 tỷ đồng; trường đua ngựa 125 ha ở Sóc Sơn, tổng vốn gần 9.600 tỷ đồng, được công bố khởi công.",
+      "url": "https://vnexpress.net/ha-noi-khoi-cong-cong-vien-safari-ba-vi-truong-dua-ngua-soc-son-5130502.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/anh1-1791540314-3687-1791541603.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=MW1X_hfZS1Bm1a4N3HBkFg",
+      "media": "video",
+      "media_url": "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2026/10/09/du-an-safari-ba-vi-1791544464/vne/master.m3u8"
+    },
+    {
+      "source": "VnExpress · Xem nhiều",
+      "time": "",
+      "title": "Thẩm phán Tòa Công lý Quốc tế giành giải Nobel Hòa bình",
+      "summary": "Thẩm phán ICJ Navanethem Pillay, quốc tịch Nam Phi, được trao giải Nobel Hòa bình 2026 nhờ \"những nỗ lực thúc đẩy hòa bình và luật pháp quốc tế\".",
+      "url": "https://vnexpress.net/tham-phan-toa-cong-ly-quoc-te-gianh-giai-nobel-hoa-binh-5130455.html",
+      "image": "https://i2-vnexpress.vnecdn.net/2026/10/09/navi-pillay-mandevillelezing-1-8420-7509-1791538184.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=aGZIm4HlCUqGpD5GYzzqqg",
+      "media": "",
+      "media_url": ""
+    }
+  ],
+  "world": [
+    {
+      "source": "BBC",
+      "time": "10/10 · 11:38",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "10/10 · 05:30",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "10/10 · 04:55",
+      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "summary": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "10/10 · 11:34",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "10/10 · 15:29",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "10/10 · 17:06",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "10/10 · 04:26",
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC",
+      "time": "10/10 · 11:07",
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528b/live/a76ba860-c459-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    }
+  ],
+  "markets": [
+    {
+      "source": "BBC Business",
+      "time": "10/10 · 11:38",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "10/10 · 05:30",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "10/10 · 06:01",
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+      "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/120c/live/9c937870-c489-11f1-a915-a1cdb09cbaf6.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "09/10 · 23:15",
+      "title": "Burnham promises to curb non-compete rules in job contracts",
+      "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "09/10 · 21:36",
+      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875d/live/70d424a0-c3ee-11f1-9a39-31b474234113.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "09/10 · 16:37",
+      "title": "I've been with my boyfriend for two years and don't know his salary",
+      "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "09/10 · 19:34",
+      "title": "Anthropic bans users from being 'cruel' to its AI systems",
+      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Business",
+      "time": "10/10 · 02:32",
+      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146c/live/3ab50800-c33d-11f1-b521-0bbd7e4f1f2e.jpg",
+      "media": "",
+      "media_url": ""
+    }
+  ],
+  "ai_news": [
+    {
+      "source": "OpenAI",
+      "time": "",
+      "title": "Disrupting AI-enabled “false front” operations Safety Oct 8, 2026",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/59gWIyg4DMtitwWO9AW6Af/9c66b1544d2b8d55f98703da82eeb5cf/false-front-operations-social.png?w=1600&h=900&fit=fill",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "OpenAI",
+      "time": "",
+      "title": "Helping teens learn, plan, and shape the future of AI Product Oct 7, 2026",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "url": "https://openai.com/index/teens-learn-and-plan/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/48q2nDNP9Gj81cxL5sCOFv/e0692d4bcad2b81fad9b62b5bea904b7/teens-learn-and-plan-social.png?w=1600&h=900&fit=fill",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "OpenAI",
+      "time": "",
+      "title": "GPT-6 and Intelligent UI for everyone Product Oct 7, 2026",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5frqtUAWccstAbVrCFraH6/5ae9b6bfbc3f3dff8001ed249812f97d/Intelligent-UI_Art-Card_16x9.png?w=1600&h=900&fit=fill",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "OpenAI",
+      "time": "",
+      "title": "Sharing AI progress in mathematics Research Oct 6, 2026",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "OpenAI",
+      "time": "",
+      "title": "Atlassian and OpenAI expand their partnership Company Oct 6, 2026",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "url": "https://openai.com/index/atlassian-partnership/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6QbNTCFAGpVGjDLSMfKf9M/e571659e9694e08b73f5e73a01a0682c/atlassian-social-official.png?w=1600&h=900&fit=fill",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "OpenAI",
+      "time": "",
+      "title": "Our approach to EU text provenance rules Safety Oct 5, 2026",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "url": "https://openai.com/index/eu-text-provenance/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7u8k3vMOefnc2eIwqAZlCJ/5e39aad76e07dc260070eae95d545d6f/ChatGPT_Image_5_Oct_2026__18_22_35.png?w=1600&h=900&fit=fill",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "NVIDIA",
+      "time": "09/10 · 04:06",
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building…",
-      "canonicalUrl": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "sourceName": "NVIDIA",
-      "sourceId": "nvidia-blog",
-      "sourceUrl": "https://blogs.nvidia.com/",
-      "trustTier": 1,
-      "publishedAt": "2026-10-08T21:06:00.000Z",
-      "publishedAtPrecision": "derived-year",
-      "publishedAtDerivedFrom": "09/10 · 04:06",
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms"
-      ],
-      "relevanceScore": 4,
-      "relevanceReasons": [
-        "ai (+4)"
-      ],
-      "imageUrl": null,
-      "imageCredit": "NVIDIA",
-      "imageRightsStatus": "source_link_only",
-      "language": "en",
-      "status": "published"
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+      "media": "",
+      "media_url": ""
     },
     {
-      "id": "1097aba673cef399",
-      "type": "external_news",
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-      "canonicalUrl": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "sourceId": "bbc-business",
-      "sourceUrl": "https://bbc.co.uk/",
-      "trustTier": 1,
-      "publishedAt": "2026-10-08T16:29:00.000Z",
-      "publishedAtPrecision": "derived-year",
-      "publishedAtDerivedFrom": "08/10 · 23:29",
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ecommerce"
-      ],
-      "relevanceScore": 4,
-      "relevanceReasons": [
-        "asos (+4)"
-      ],
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef63/live/b1b98540-c30e-11f1-a64c-550be9e3c66b.jpg",
-      "imageCredit": "BBC Business",
-      "imageRightsStatus": "approved",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "55dfc7be6ae6a079",
-      "type": "external_news",
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-      "canonicalUrl": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "sourceId": "bbc-business",
-      "sourceUrl": "https://bbc.co.uk/",
-      "trustTier": 1,
-      "publishedAt": "2026-10-08T01:59:00.000Z",
-      "publishedAtPrecision": "derived-year",
-      "publishedAtDerivedFrom": "08/10 · 08:59",
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms",
-        "business-market"
-      ],
-      "relevanceScore": 10,
-      "relevanceReasons": [
-        "ai (+4)",
-        "profits (+3)",
-        "tech (+3)"
-      ],
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
-      "imageCredit": "BBC Business",
-      "imageRightsStatus": "approved",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "4f9780f83c883fe8",
-      "type": "external_news",
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
-      "canonicalUrl": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "sourceId": "bbc-business",
-      "sourceUrl": "https://bbc.co.uk/",
-      "trustTier": 1,
-      "publishedAt": "2026-10-07T23:50:00.000Z",
-      "publishedAtPrecision": "derived-year",
-      "publishedAtDerivedFrom": "08/10 · 06:50",
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "search-seo",
-        "ai-platforms"
-      ],
-      "relevanceScore": 7,
-      "relevanceReasons": [
-        "google maps (+4)",
-        "google (+3)"
-      ],
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e42/live/60b35020-c25c-11f1-a64c-550be9e3c66b.jpg",
-      "imageCredit": "BBC Business",
-      "imageRightsStatus": "approved",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "ee1064a6898ce170",
-      "type": "external_news",
-      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-      "summary": "The research found that important guardrails for teens using ChatGPT often failed.",
-      "canonicalUrl": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "sourceId": "bbc-business",
-      "sourceUrl": "https://bbc.co.uk/",
-      "trustTier": 1,
-      "publishedAt": "2026-10-07T20:34:00.000Z",
-      "publishedAtPrecision": "derived-year",
-      "publishedAtDerivedFrom": "08/10 · 03:34",
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms"
-      ],
-      "relevanceScore": 4,
-      "relevanceReasons": [
-        "openai (+4)"
-      ],
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg",
-      "imageCredit": "BBC Business",
-      "imageRightsStatus": "approved",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "93c9b98a2f21a96f",
-      "type": "external_news",
-      "title": "Our approach to EU text provenance rules",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "canonicalUrl": "https://openai.com/index/eu-text-provenance/",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "sourceUrl": "https://openai.com/",
-      "trustTier": 1,
-      "publishedAt": null,
-      "publishedAtPrecision": null,
-      "publishedAtDerivedFrom": null,
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms",
-        "business-market"
-      ],
-      "relevanceScore": 6,
-      "relevanceReasons": [
-        "openai (+4)",
-        "eu rules (+2)"
-      ],
-      "imageUrl": null,
-      "imageCredit": "OpenAI",
-      "imageRightsStatus": "source_link_only",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "3f63f6d18ac416de",
-      "type": "external_news",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "canonicalUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "sourceUrl": "https://openai.com/",
-      "trustTier": 1,
-      "publishedAt": null,
-      "publishedAtPrecision": null,
-      "publishedAtDerivedFrom": null,
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms"
-      ],
-      "relevanceScore": 4,
-      "relevanceReasons": [
-        "ai (+4)"
-      ],
-      "imageUrl": null,
-      "imageCredit": "OpenAI",
-      "imageRightsStatus": "source_link_only",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "5e6b993af3bf3d2f",
-      "type": "external_news",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "canonicalUrl": "https://openai.com/index/teens-learn-and-plan/",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "sourceUrl": "https://openai.com/",
-      "trustTier": 1,
-      "publishedAt": null,
-      "publishedAtPrecision": null,
-      "publishedAtDerivedFrom": null,
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms"
-      ],
-      "relevanceScore": 4,
-      "relevanceReasons": [
-        "ai (+4)"
-      ],
-      "imageUrl": null,
-      "imageCredit": "OpenAI",
-      "imageRightsStatus": "source_link_only",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "67feed715e097da3",
-      "type": "external_news",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "canonicalUrl": "https://openai.com/index/gpt-6-for-everyone/",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "sourceUrl": "https://openai.com/",
-      "trustTier": 1,
-      "publishedAt": null,
-      "publishedAtPrecision": null,
-      "publishedAtDerivedFrom": null,
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms"
-      ],
-      "relevanceScore": 4,
-      "relevanceReasons": [
-        "chatgpt (+4)"
-      ],
-      "imageUrl": null,
-      "imageCredit": "OpenAI",
-      "imageRightsStatus": "source_link_only",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "6e2c593ea404da1b",
-      "type": "external_news",
-      "title": "Sharing AI progress in mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "canonicalUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "sourceUrl": "https://openai.com/",
-      "trustTier": 1,
-      "publishedAt": null,
-      "publishedAtPrecision": null,
-      "publishedAtDerivedFrom": null,
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms"
-      ],
-      "relevanceScore": 4,
-      "relevanceReasons": [
-        "ai (+4)"
-      ],
-      "imageUrl": null,
-      "imageCredit": "OpenAI",
-      "imageRightsStatus": "source_link_only",
-      "language": "en",
-      "status": "published"
-    },
-    {
-      "id": "46c24d823c05067c",
-      "type": "external_news",
-      "title": "Atlassian and OpenAI expand their partnership",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "canonicalUrl": "https://openai.com/index/atlassian-partnership/",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "sourceUrl": "https://openai.com/",
-      "trustTier": 1,
-      "publishedAt": null,
-      "publishedAtPrecision": null,
-      "publishedAtDerivedFrom": null,
-      "fetchedAt": "2026-10-10T04:02:38.955Z",
-      "categorySlugs": [
-        "ai-platforms"
-      ],
-      "relevanceScore": 4,
-      "relevanceReasons": [
-        "openai (+4)"
-      ],
-      "imageUrl": null,
-      "imageCredit": "OpenAI",
-      "imageRightsStatus": "source_link_only",
-      "language": "en",
-      "status": "published"
+      "source": "NVIDIA",
+      "time": "08/10 · 20:00",
+      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the action is also coming: Fire TV users will soon be able to…",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gfn-thursday-10-8-blog-1920x1080-logo.jpg",
+      "media": "",
+      "media_url": ""
     }
-  ]
+  ],
+  "tech_news": [
+    {
+      "source": "BBC Technology",
+      "time": "10/10 · 17:06",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
+      "time": "10/10 · 16:31",
+      "title": "How drones are hunting fires hidden beneath the Cairngorms",
+      "summary": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e6/live/0f446750-c48d-11f1-a915-a1cdb09cbaf6.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
+      "time": "09/10 · 22:32",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
+      "time": "09/10 · 19:34",
+      "title": "Anthropic bans users from being 'cruel' to its AI systems",
+      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
+      "time": "09/10 · 16:30",
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "summary": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
+      "time": "09/10 · 14:14",
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
+      "time": "09/10 · 14:05",
+      "title": "'Careless use of AI is the real threat - not the ghost stories'",
+      "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/208feab0-bc0f-11f1-a430-4d16ee157c41.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Technology",
+      "time": "09/10 · 06:09",
+      "title": "Why are more roofs not made of solar tiles?",
+      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
+      "media": "",
+      "media_url": ""
+    }
+  ],
+  "science_news": [
+    {
+      "source": "BBC Science",
+      "time": "10/10 · 16:31",
+      "title": "How drones are hunting fires hidden beneath the Cairngorms",
+      "summary": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e6/live/0f446750-c48d-11f1-a915-a1cdb09cbaf6.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "10/10 · 15:29",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "10/10 · 02:11",
+      "title": "'People don't think recycling at work is part of their job description'",
+      "summary": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "09/10 · 23:46",
+      "title": "Isaias becomes major category three storm before landfall",
+      "summary": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+      "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "09/10 · 22:32",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    },
+    {
+      "source": "BBC Science",
+      "time": "09/10 · 21:23",
+      "title": "Hurricane Isaias strengthens as it heads towards land",
+      "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
+      "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg",
+      "media": "",
+      "media_url": ""
+    }
+  ],
+  "media": []
 }

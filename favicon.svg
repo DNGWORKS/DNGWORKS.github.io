@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<defs><radialGradient id="g" cx="70%" cy="25%" r="90%"><stop offset="0" stop-color="#0d2f27"/><stop offset="1" stop-color="#020807"/></radialGradient></defs>
-<rect width="64" height="64" rx="14" fill="url(#g)"/>
-<circle cx="14" cy="14" r="4" fill="#4df2bd"/>
-<path d="M17 42V22h11.2c8.1 0 13.8 4.1 13.8 10s-5.7 10-13.8 10H17zm7-5.8h4.2c4.1 0 6.8-1.5 6.8-4.2s-2.7-4.2-6.8-4.2H24v8.4z" fill="#f4f8f6"/>
-<path d="M44 22h5v20h-5z" fill="#4df2bd"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="DNGWORKS">
+  <rect width="32" height="32" rx="6" fill="#112743"/>
+  <rect x="4" y="21" width="24" height="4.2" rx="1.2" fill="#285be8"/>
+  <rect x="7.6" y="13.9" width="16.8" height="4.2" rx="1.2" fill="#4d7cf0"/>
+  <rect x="11.4" y="6.8" width="9.2" height="4.2" rx="1.2" fill="#12bca4"/>
 </svg>

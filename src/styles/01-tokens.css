@@ -1,0 +1,131 @@
+/* ==========================================================================
+   DNGWORKS — design tokens
+   Palette and scale are fixed by the V9/V10 brand specification.
+   Everything downstream reads from here; no page defines a raw colour.
+   ========================================================================== */
+
+:root {
+  /* --- surface ----------------------------------------------------------- */
+  --canvas:            #ffffff;
+  --canvas-tint:       #f2f7ff;
+  --canvas-tint-deep:  #e7f0fd;
+  --canvas-dark:       #101f39;
+  --canvas-dark-2:     #152848;
+
+  /* --- ink --------------------------------------------------------------- */
+  --ink:               #112743;
+  --body:              #314660;
+  --muted:             #6b7f99;
+  --on-dark:           #eef4ff;
+  --on-dark-muted:     #9fb4d4;
+
+  /* --- brand ------------------------------------------------------------- */
+  --cobalt:            #285be8;
+  --cobalt-deep:       #173da7;
+  --cobalt-wash:       #e4ecff;
+  --mint:              #12bca4;
+  --mint-wash:         #dcf6f2;
+  --coral:             #f18b53;
+  --coral-wash:        #fdeade;
+
+  /* --- structure --------------------------------------------------------- */
+  --line:              #dde8f5;
+  --line-strong:       #c2d5ee;
+  --line-dark:         #284265;
+  --focus:             #285be8;
+
+  /* --- type -------------------------------------------------------------- */
+  --font-sans: "Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-sc: "Noto Sans SC Subset", "Be Vietnam Pro", "PingFang SC", "Hiragino Sans GB",
+             "Microsoft YaHei", system-ui, sans-serif;
+  --font: var(--font-sans);
+
+  /* Fluid display sizes. Upper bounds match the 1440–1920 hero lock in §3.3. */
+  --fs-display:  clamp(2.4rem, 0.95rem + 4.1vw, 3.6rem);     /* 38 → 58px  */
+  --fs-h1:       clamp(2.05rem, 1.15rem + 2.8vw, 3.35rem);   /* 33 → 54px  */
+  --fs-h2:       clamp(1.6rem,  1.12rem + 1.5vw, 2.3rem);    /* 26 → 37px  */
+  --fs-h3:       clamp(1.18rem, 1.06rem + 0.38vw, 1.4rem);   /* 19 → 22px  */
+  --fs-h4:       1.0625rem;
+  --fs-lead:     clamp(1.0625rem, 1rem + 0.3vw, 1.2rem);     /* 17 → 19px  */
+  --fs-body:     1.0625rem;                                   /* 17px       */
+  --fs-article:  1.1875rem;                                   /* 19px       */
+  --fs-small:    0.875rem;                                    /* 14px       */
+  --fs-micro:    0.8125rem;                                   /* 13px       */
+
+  --lh-display: 1.02;
+  --lh-head:    1.14;
+  --lh-body:    1.62;
+  --lh-article: 1.72;
+
+  --tr-display: -0.032em;
+  --tr-head:    -0.021em;
+  --tr-body:    -0.004em;
+
+  --w-regular: 400;
+  --w-medium:  500;
+  --w-semi:    600;
+  --w-bold:    700;
+
+  /* --- space (4px base) -------------------------------------------------- */
+  --s-1:  0.25rem;
+  --s-2:  0.5rem;
+  --s-3:  0.75rem;
+  --s-4:  1rem;
+  --s-5:  1.5rem;
+  --s-6:  2rem;
+  --s-7:  2.75rem;
+  --s-8:  3.5rem;
+  --s-9:  4.5rem;
+  --s-10: 6rem;
+  --s-11: 8rem;
+
+  /* Section rhythm scales with viewport but never collapses on mobile. */
+  --section-y: clamp(3.75rem, 2rem + 5vw, 7rem);
+
+  /* --- layout ------------------------------------------------------------ */
+  --shell:        1440px;   /* full-bleed content ceiling               */
+  --shell-gutter: clamp(1rem, 0.2rem + 3.2vw, 5rem);
+  --measure:      46rem;    /* reading width, body copy only (~72ch)    */
+  --measure-wide: 60rem;
+  --header-h:     4.5rem;   /* 72px — hero height maths depends on this */
+
+  /* --- form ------------------------------------------------------------- */
+  --radius-media: 6px;
+  --radius-panel: 2px;
+  --radius-pill:  999px;
+  --tap:          2.75rem;  /* 44px minimum hit area                    */
+
+  /* --- motion ----------------------------------------------------------- */
+  --ease:      cubic-bezier(0.22, 0.61, 0.36, 1);
+  --ease-out:  cubic-bezier(0.16, 1, 0.3, 1);
+  --t-fast:    0.16s;
+  --t-mid:     0.26s;
+  --t-slow:    0.5s;
+
+  /* --- depth: used on media and overlays only, never on content panels -- */
+  --lift-media: 0 1px 2px rgba(17, 39, 67, 0.06), 0 12px 28px -14px rgba(17, 39, 67, 0.22);
+  --lift-pop:   0 2px 6px rgba(17, 39, 67, 0.08), 0 24px 56px -24px rgba(17, 39, 67, 0.3);
+
+  --z-canvas:   0;
+  --z-content:  10;
+  --z-header:   60;
+  --z-drawer:   70;
+  --z-skip:     90;
+}
+
+/* Chinese pages swap the family but keep every other token. */
+html[lang="zh"] {
+  --font: var(--font-sc);
+  --tr-display: -0.012em;
+  --tr-head: -0.006em;
+  --tr-body: 0;
+  --lh-article: 1.82;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --t-fast: 0.01ms;
+    --t-mid: 0.01ms;
+    --t-slow: 0.01ms;
+  }
+}

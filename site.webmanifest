@@ -1,11 +1,17 @@
 {
-  "name": "DNGWORKS — Dũng Nguyễn",
-  "short_name": "DNG",
+  "name": "DNGWORKS",
+  "short_name": "DNGWORKS",
+  "description": "DNGWORKS chẩn đoán điểm nghẽn tăng trưởng, rồi thiết kế hệ thống marketing, bán hàng, dữ liệu và AI để doanh nghiệp vận hành được và đo lường được.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#020807",
-  "theme_color": "#020807",
+  "background_color": "#ffffff",
+  "theme_color": "#285be8",
   "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
     {
       "src": "/apple-touch-icon.png",
       "sizes": "180x180",

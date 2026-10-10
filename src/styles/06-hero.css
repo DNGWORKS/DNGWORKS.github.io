@@ -1,0 +1,303 @@
+/* ==========================================================================
+   Hero — full-viewport 3D brand scene.
+
+   Layout lock (V9 §3.3): below a 72px header the hero fills the remaining
+   viewport height. Text occupies roughly 38% on the left; the WebGL stage
+   takes the rest and bleeds past the right edge of the shell. The white
+   gradient is a LOCAL text scrim, not a veil over the whole composition —
+   it is fully transparent by 58% of the stage width.
+   ========================================================================== */
+
+.hero {
+  position: relative;
+  min-height: calc(100svh - var(--header-h));
+  display: flex;
+  align-items: center;
+  padding-block: var(--s-8) var(--s-7);
+  background:
+    radial-gradient(120% 90% at 78% 18%, var(--canvas-tint) 0%, transparent 62%),
+    linear-gradient(180deg, var(--canvas) 0%, var(--canvas-tint) 100%);
+  overflow: hidden;
+}
+
+/* --- stage -------------------------------------------------------------- */
+.hero-stage {
+  position: absolute;
+  inset-block: 0;
+  inset-inline-start: 36%;
+  inset-inline-end: 0;
+  z-index: var(--z-canvas);
+}
+
+.hero-canvas,
+.hero-poster {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Poster sits behind the canvas and is the initial paint. It is never
+   display:none while the renderer is alive — it fades out only after the
+   renderer reports a verified first frame, and fades back in on context
+   loss, so the hero is never blank. */
+.hero-poster {
+  /* The crop is picked here rather than in markup, so the browser only ever
+     fetches the one variant that matches the viewport. */
+  background-image: var(--poster-mid);
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  transition: opacity 0.55s var(--ease-out);
+}
+.hero-stage[data-render-state="live"] .hero-poster { opacity: 0; }
+.hero-stage[data-render-state="failed"] .hero-poster,
+.hero-stage[data-render-state="static"] .hero-poster { opacity: 1; }
+
+.hero-canvas {
+  opacity: 0;
+  transition: opacity 0.55s var(--ease-out);
+}
+.hero-stage[data-render-state="live"] .hero-canvas { opacity: 1; }
+
+@media (min-width: 90rem) {
+  .hero-poster { background-image: var(--poster-wide); }
+}
+
+/* Local text scrim. It spans the whole hero rather than the stage, so there
+   is no seam where the canvas begins, and it is already transparent again
+   well before the middle of the scene. */
+.hero-scrim {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    color-mix(in srgb, var(--canvas) 78%, transparent) 24%,
+    color-mix(in srgb, var(--canvas) 72%, transparent) 38%,
+    color-mix(in srgb, var(--canvas) 26%, transparent) 50%,
+    transparent 64%
+  );
+}
+
+/* --- content ------------------------------------------------------------ */
+.hero-inner {
+  position: relative;
+  z-index: var(--z-content);
+  width: 100%;
+}
+
+.hero-text { width: min(44%, 38rem); }
+
+.hero-title {
+  font-size: var(--fs-display);
+  font-weight: var(--w-bold);
+  line-height: var(--lh-display);
+  letter-spacing: var(--tr-display);
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+/* The second clause is the consequence of the first. The line break does
+   that work; nothing else is needed. */
+.hero-title span { display: block; }
+
+.hero-lead {
+  margin-block-start: var(--s-5);
+  max-width: 32rem;
+  color: var(--body);
+  font-size: var(--fs-lead);
+  line-height: 1.56;
+}
+
+.hero-actions { margin-block-start: var(--s-6); }
+
+/* --- stage rail: which scene the scroll story is in --------------------- */
+.hero-rail {
+  display: flex;
+  gap: var(--s-5);
+  margin-block-start: var(--s-6);
+  padding-block-start: var(--s-4);
+  border-block-start: 1px solid var(--line-strong);
+}
+
+.hero-rail li { flex: 1 1 0; min-width: 0; }
+
+.hero-rail-label {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  color: var(--muted);
+  font-size: var(--fs-micro);
+  font-weight: var(--w-semi);
+  transition: color var(--t-mid) var(--ease);
+}
+.hero-rail-label::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  flex: none;
+  background: var(--line-strong);
+  transition: background-color var(--t-mid) var(--ease);
+}
+.hero-rail-note {
+  margin-block-start: 0.2rem;
+  color: var(--muted);
+  font-size: var(--fs-micro);
+  opacity: 0;
+  transition: opacity var(--t-mid) var(--ease);
+}
+
+.hero-rail li[data-active="true"] .hero-rail-label { color: var(--ink); }
+.hero-rail li[data-active="true"] .hero-rail-label::before { background: var(--mint); }
+.hero-rail li[data-active="true"] .hero-rail-note { opacity: 1; }
+
+@media (max-width: 44rem) {
+  .hero-rail { gap: var(--s-3); }
+  .hero-rail-note { display: none; }
+}
+
+/* --- scroll hint -------------------------------------------------------- */
+.hero-hint {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  margin-block-start: var(--s-5);
+  color: var(--muted);
+  font-size: var(--fs-micro);
+}
+.hero-hint svg { width: 0.875rem; height: 0.875rem; }
+@media (prefers-reduced-motion: no-preference) {
+  .hero-hint svg { animation: hero-nudge 2.4s var(--ease) infinite; }
+}
+@keyframes hero-nudge {
+  0%, 70%, 100% { transform: translateY(0); }
+  82% { transform: translateY(3px); }
+}
+
+/* --- short desktop viewports: a laptop at 1440×800 must still show the
+       whole hero, so the display size and the vertical rhythm step down
+       rather than letting the section grow past the fold. ---------------- */
+@media (min-width: 52rem) and (max-height: 52rem) {
+  .hero { padding-block: var(--s-6) var(--s-5); }
+  .hero-title { font-size: clamp(2.1rem, 0.8rem + 3.1vw, 2.9rem); }
+  .hero-lead { margin-block-start: var(--s-4); }
+  .hero-actions { margin-block-start: var(--s-5); }
+  .hero-rail { margin-block-start: var(--s-5); }
+  .hero-hint { display: none; }
+}
+
+/* --- wide viewports: let the text breathe, keep the scene large --------- */
+@media (min-width: 100rem) {
+  .hero-text { width: min(40%, 42rem); }
+  .hero-stage { inset-inline-start: 32%; }
+}
+
+/* --- tablet ------------------------------------------------------------- */
+@media (max-width: 68rem) {
+  .hero-text { width: min(52%, 30rem); }
+  .hero-stage { inset-inline-start: 42%; }
+  .hero-scrim {
+    background: linear-gradient(
+      to right,
+      var(--canvas) 0%,
+      color-mix(in srgb, var(--canvas) 70%, transparent) 22%,
+      transparent 64%
+    );
+  }
+}
+
+/* --- mobile: stack. The scene gets its own band under the CTAs so it is
+       genuinely visible and never covers a button. ------------------------ */
+@media (max-width: 52rem) {
+  .hero {
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    padding-block: var(--s-7) 0;
+  }
+  /* Headline and buttons first; the scene follows underneath, where it can
+     be large without pushing the call to action off the screen. */
+  .hero-inner { order: 1; }
+  .hero-stage { order: 2; }
+  .hero-text { width: 100%; }
+  .hero-lead { max-width: none; }
+  .hero-stage {
+    position: relative;
+    inset: auto;
+    width: 100vw;
+    margin-inline-start: calc(var(--shell-gutter) * -1);
+    margin-block-start: var(--s-7);
+    height: min(52svh, 24rem);
+  }
+  .hero-poster {
+    background-image: var(--poster-narrow);
+    background-position: center center;
+  }
+  /* Top-edge fade only: the model stays fully visible. */
+  .hero-scrim {
+    background: linear-gradient(
+      to bottom,
+      var(--canvas) 0%,
+      color-mix(in srgb, var(--canvas) 30%, transparent) 14%,
+      transparent 34%
+    );
+  }
+  .hero-rail {
+    margin-block-start: 0;
+    padding: var(--s-4) 0 var(--s-7);
+    border-block-start: 0;
+  }
+  .hero-hint { display: none; }
+}
+
+@media (max-width: 30rem) {
+  .hero-stage { height: min(46svh, 20rem); }
+  .hero-actions .btn { width: 100%; }
+  .hero-rail { flex-wrap: wrap; gap: var(--s-2) var(--s-4); }
+  .hero-rail li { flex: 0 0 auto; }
+}
+
+/* --- reduced motion: the composed final state, never a blank frame ------ */
+@media (prefers-reduced-motion: reduce) {
+  .hero-canvas,
+  .hero-poster { transition: none; }
+}
+
+/* ==========================================================================
+   Page hero — every page other than home
+   ========================================================================== */
+.page-hero {
+  padding-block: calc(var(--section-y) * 0.6) calc(var(--section-y) * 0.72);
+  background: linear-gradient(180deg, var(--canvas-tint) 0%, var(--canvas) 100%);
+  border-block-end: 1px solid var(--line);
+}
+.page-hero-title { font-size: var(--fs-h1); max-width: 34rem; }
+
+/* The newsroom masthead is a masthead, not a statement: it stays short so
+   the lead story is inside the first screen. */
+.page-hero--news { padding-block: var(--s-7) var(--s-6); }
+.page-hero--news .page-hero-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+  gap: var(--s-6) var(--s-7);
+  align-items: end;
+}
+@media (max-width: 64rem) {
+  .page-hero--news .page-hero-inner { grid-template-columns: minmax(0, 1fr); align-items: start; }
+}
+.page-hero--news .page-hero-title { font-size: var(--fs-h2); max-width: 26rem; }
+.page-hero--news .lead { margin-block-start: var(--s-4); font-size: var(--fs-body); }
+.page-hero--news .sync-bar { margin-block-start: 0; }
+.page-hero .lead { margin-block-start: var(--s-5); }
+.page-hero--dark {
+  background: var(--canvas-dark);
+  border-block-end-color: var(--line-dark);
+  color: var(--on-dark-muted);
+}
+.page-hero--dark .page-hero-title { color: var(--on-dark); }
+.page-hero--dark .lead { color: var(--on-dark-muted); }
+.page-hero--dark .marker { color: #8fb3ff; }

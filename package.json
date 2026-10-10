@@ -1,13 +1,24 @@
 {
-  "name": "nguyen-studio-portfolio-v19",
+  "name": "dngworks-site",
+  "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "build": "node scripts/build-static.mjs",
-    "validate": "python3 scripts/validate_v19.py",
-    "qa": "python3 scripts/validate_v19.py && node scripts/build-static.mjs"
-  },
+  "type": "module",
+  "description": "DNGWORKS — growth architecture practice site and DNG Intelligence newsroom. Static output, built from content/ and src/.",
   "engines": {
     "node": ">=20"
   },
-  "version": "19.0.0"
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check",
+    "news": "node scripts/ingest-news.mjs",
+    "news:explain": "node scripts/ingest-news.mjs --dry-run --explain",
+    "fonts": "node scripts/build-fonts.mjs",
+    "images": "python3 scripts/build-images.py",
+    "assets": "node scripts/render-assets.mjs",
+    "serve": "node scripts/serve.mjs",
+    "verify": "node scripts/verify.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
 }

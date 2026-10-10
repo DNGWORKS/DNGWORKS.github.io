@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img"
+     aria-label="Đồ hoạ biên tập DNGWORKS: định vị đặt ở tâm, các điểm chạm toả ra từ đó">
+  <defs>
+    <linearGradient id="ms-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F9FF"/>
+      <stop offset="0.5" stop-color="#E9F1FD"/>
+      <stop offset="1" stop-color="#FBEDE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#ms-bg)"/>
+
+  <g fill="none" stroke="#C2D5EE" stroke-width="1.5">
+    <circle cx="600" cy="338" r="120"/>
+    <circle cx="600" cy="338" r="196"/>
+    <circle cx="600" cy="338" r="272"/>
+  </g>
+
+  <!-- one clear position, carried out along every touchpoint -->
+  <g stroke="#285BE8" stroke-width="2.5">
+    <path d="M600 338 L600 66"/>
+    <path d="M600 338 L836 202"/>
+    <path d="M600 338 L836 474" stroke="#0E8F7D"/>
+    <path d="M600 338 L600 610" stroke="#0E8F7D"/>
+    <path d="M600 338 L364 474"/>
+    <path d="M600 338 L364 202" stroke="#D96C2E"/>
+  </g>
+
+  <rect x="516" y="296" width="168" height="84" rx="10" fill="#CFE0FA"/>
+  <rect x="516" y="296" width="168" height="84" rx="10" fill="none" stroke="#1B46C4" stroke-width="2.5"/>
+
+  <g fill="#285BE8">
+    <rect x="592" y="58" width="16" height="16"/>
+    <rect x="828" y="194" width="16" height="16"/>
+    <rect x="356" y="466" width="16" height="16"/>
+  </g>
+  <g fill="#12BCA4">
+    <rect x="828" y="466" width="16" height="16"/>
+    <rect x="592" y="602" width="16" height="16"/>
+  </g>
+  <rect x="356" y="194" width="16" height="16" fill="#F18B53"/>
+</svg>

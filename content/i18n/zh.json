@@ -1,0 +1,604 @@
+{
+  "code": "zh",
+  "locale": "zh_CN",
+  "meta": {
+    "siteName": "DNGWORKS",
+    "siteTitle": "DNGWORKS — 企业增长架构",
+    "defaultDescription": "DNGWORKS 先诊断真正的增长瓶颈，再设计企业能运营、能衡量的营销、销售、数据与人工智能系统。"
+  },
+  "nav": {
+    "home": "首页",
+    "services": "解决方案",
+    "tools": "工具",
+    "intelligence": "DNG Intelligence",
+    "about": "关于",
+    "contact": "联系",
+    "sourcePolicy": "信息来源政策",
+    "portfolio": "作品集"
+  },
+  "ui": {
+    "skipToContent": "跳到主要内容",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "languageLabel": "语言",
+    "primaryCta": "与 DNGWORKS 交流",
+    "readArticle": "阅读全文",
+    "readOriginal": "阅读原文",
+    "loadMore": "加载更多",
+    "loading": "加载中",
+    "retry": "重试",
+    "search": "搜索",
+    "searchPlaceholder": "按标题、主题或来源搜索",
+    "clear": "清除筛选",
+    "all": "全部",
+    "results": "条结果",
+    "noResults": "没有符合当前筛选条件的内容。",
+    "noResultsHint": "去掉一个筛选条件，或换一个更短的关键词。",
+    "unknownDate": "发布时间不详",
+    "updated": "更新",
+    "published": "发布",
+    "synced": "数据同步于",
+    "staleNotice": "暂时无法连接信息来源，以下为最近一次有效数据。",
+    "source": "来源",
+    "sources": "参考来源",
+    "takeaways": "要点",
+    "readMinutes": "分钟阅读",
+    "author": "作者",
+    "nextArticle": "下一篇",
+    "relatedReading": "延伸阅读",
+    "copy": "复制",
+    "copied": "已复制",
+    "backToTop": "返回顶部",
+    "illustration": "编辑插图",
+    "required": "必填",
+    "optional": "选填"
+  },
+  "home": {
+    "hero": {
+      "label": "增长架构",
+      "titleLine1": "先看清真正的问题。",
+      "titleLine2": "再选对增长的方向。",
+      "lead": "大多数企业并不缺营销动作，缺的是一套把定位、内容、广告、销售与数据串成同一条决策链的系统。",
+      "ctaPrimary": "了解解决方案",
+      "ctaSecondary": "与 DNGWORKS 交流",
+      "scrollHint": "向下滚动查看结构",
+      "stages": [
+        { "key": "diagnose", "label": "诊断", "note": "找出真正的瓶颈" },
+        { "key": "connect", "label": "连接", "note": "把各部分装进一套系统" },
+        { "key": "grow", "label": "增长", "note": "运营起来并扩展" }
+      ],
+      "posterAlt": "DNGWORKS 增长架构：散落的玻璃板围绕中轴对齐成一套系统"
+    },
+    "diagnose": {
+      "label": "诊断",
+      "title": "从瓶颈开始，而不是从工具开始。",
+      "lead": "好看的网站、一轮广告或一条人工智能工作流，只有在服务真实业务问题、并让企业运营得更好时才有价值。",
+      "items": [
+        {
+          "title": "定位不清",
+          "description": "客户说不出为什么该选你而不是别人。此后的每一笔传播费用都在为这份模糊付账。",
+          "symptom": "客户提到的唯一理由是价格"
+        },
+        {
+          "title": "营销各自为政",
+          "description": "内容、广告、网站、销售和数据各跑一条线，从不交汇，于是没人看得到全貌。",
+          "symptom": "每个渠道一套数字，永远对不上"
+        },
+        {
+          "title": "增长无法衡量",
+          "description": "动作很多，却没有追踪、没有看板、没有决策标准，优化只能靠感觉。",
+          "symptom": "说不出哪一笔投入带来了收入"
+        }
+      ]
+    },
+    "approach": {
+      "label": "方法",
+      "title": "先诊断，再设计系统。",
+      "lead": "在理解问题之前，我不会卖一个固定套餐。工作范围由真实的优先级、资源和风险决定。",
+      "steps": [
+        { "title": "研究", "description": "市场、客户、竞争对手，以及手上已有的数据。" },
+        { "title": "诊断", "description": "找出瓶颈，而不是处理症状。" },
+        { "title": "架构", "description": "设计信息、触点、数据与工作流。" },
+        { "title": "落地", "description": "把战略变成网站、内容、广告、追踪与流程。" },
+        { "title": "衡量", "description": "建立标准、看板与优化循环。" }
+      ]
+    },
+    "services": {
+      "label": "解决方案",
+      "title": "四项能力，一套增长架构。",
+      "lead": "这些能力组是为互相咬合而设计的。企业可以从其中一项开始，但真正的价值出现在它们连成系统之后。",
+      "viewAll": "查看方案详情"
+    },
+    "tools": {
+      "label": "工具",
+      "title": "花钱之前先算一遍。",
+      "lead": "所有工具都在你的浏览器里运行，用你输入的数字计算。没有数据被发送出去，也没有任何数字是预填的。",
+      "viewAll": "打开工具箱"
+    },
+    "intelligence": {
+      "label": "DNG Intelligence",
+      "title": "能读下去的行业资讯与分析。",
+      "lead": "持续跟踪人工智能、广告、电商与商业市场，并附上 DNGWORKS 对这些变化如何影响越南企业的原创分析。",
+      "viewAll": "进入 DNG Intelligence"
+    },
+    "cta": {
+      "title": "手上是否有一个还没被正确解决的营销问题？",
+      "lead": "写下背景、目标，以及哪里不奏效。你会收到一份诊断视角，而不是一份现成报价。",
+      "cta": "发送项目背景",
+      "secondary": "直接电话"
+    }
+  },
+  "services": {
+    "hero": {
+      "label": "解决方案",
+      "title": "从战略到落地，中间不断链。",
+      "lead": "我把工具当作系统的一部分：研究、品牌建设、内容生产、分发、衡量与自动化。"
+    },
+    "items": [
+      {
+        "slug": "ai-data-strategy",
+        "title": "AI 与数据战略",
+        "flow": ["信号", "洞察", "决策"],
+        "problem": "数据散落在好几处，没人用它来做决定。报表是为了上交，不是为了调整方向。",
+        "diagnosis": "在搭看板之前，要先知道企业实际在做哪些决策、多久做一次，以及缺哪个数字才让这些决策不再靠猜。",
+        "methodology": "确定必须存在的数据集，统一度量方式，围绕决策搭建报表层，再把人工智能放到重复环节：汇总、分类与预警。",
+        "deliverables": [
+          "数据地图与共用指标定义",
+          "GA4、GTM 与像素部署及数据校验",
+          "按决策而非按渠道组织的看板",
+          "用于研究、汇总与预警的人工智能工作流"
+        ],
+        "tools": ["ChatGPT", "Gemini", "Claude", "GA4", "GTM", "n8n"]
+      },
+      {
+        "slug": "brand-positioning",
+        "title": "品牌与定位",
+        "flow": ["意义", "定位", "记忆"],
+        "problem": "客户没有明确理由选择你，于是每次沟通都回到价格。",
+        "diagnosis": "定位不是一句口号。它回答你服务谁、把哪个问题解决得明显更好、以及什么证据能证明这一点。",
+        "methodology": "研究客户与竞争对手，确定洞察与差异点，建立信息架构，再打包成可日常使用的视觉系统与销售资产。",
+        "deliverables": [
+          "品牌与客户审计",
+          "定位、差异点与信息架构",
+          "视觉方向与应用规范",
+          "销售资产与九十天内容计划"
+        ],
+        "tools": ["Photoshop", "Canva", "CorelDRAW"]
+      },
+      {
+        "slug": "growth-marketing",
+        "title": "增长营销",
+        "flow": ["需求", "转化", "留存"],
+        "problem": "广告预算上去了，收入没跟上，因为漏斗在没人跟踪的环节漏水。",
+        "diagnosis": "广告会放大一套系统，也包括放大它的弱点。加大投入之前，先找出流失最多人的那一步。",
+        "methodology": "搭建落地页与转化流程，部署可信的追踪，把投放当作可验证的假设来跑，再按固定周期优化。",
+        "deliverables": [
+          "落地页与转化流程",
+          "Meta Ads 与 Google Ads 账户结构",
+          "实验体系与评估标准",
+          "增长看板与优化周期"
+        ],
+        "tools": ["Meta Ads", "Google Ads", "SEO", "WordPress"]
+      },
+      {
+        "slug": "marketing-operations",
+        "title": "营销运营",
+        "flow": ["系统", "自动化", "扩展"],
+        "problem": "一切取决于少数几个人记得住。他们一离开，质量就掉。",
+        "diagnosis": "运营薄弱很少是因为不够努力，而是缺少能写下来、能交接、能检查的流程。",
+        "methodology": "统一流程与工作状态，搭建管理看板，自动化重复环节，再培训并交接给内部团队。",
+        "deliverables": [
+          "营销流程与 CRM 或线索工作流",
+          "营销与销售之间的响应时限与交接标准",
+          "用 n8n 与脚本自动化重复任务",
+          "管理看板、培训与团队交接"
+        ],
+        "tools": ["n8n", "CRM", "Google Workspace", "Looker Studio"]
+      }
+    ],
+    "capability": {
+      "label": "技术能力",
+      "title": "工具是系统的一部分，从不是目的。",
+      "groups": [
+        {
+          "title": "研究与战略",
+          "tools": ["ChatGPT", "Gemini", "Claude"],
+          "description": "市场研究、洞察挖掘、战略与信息开发、知识工作流。"
+        },
+        {
+          "title": "品牌与设计系统",
+          "tools": ["Photoshop", "Canva", "CorelDRAW"],
+          "description": "识别系统、主视觉、销售资产与一致的图像体系。"
+        },
+        {
+          "title": "视频与故事",
+          "tools": ["CapCut", "Premiere Pro", "DaVinci Resolve"],
+          "description": "为社交、网站与广告做脚本、拍摄、剪辑、调色与叙事。"
+        },
+        {
+          "title": "增长与衡量",
+          "tools": ["GA4", "GTM", "Meta Ads", "Google Ads", "SEO", "WordPress", "n8n"],
+          "description": "部署追踪、广告、看板与自动化，让营销可被管理。"
+        }
+      ]
+    },
+    "engagement": {
+      "label": "参考范围",
+      "title": "报价在诊断之后，不在问题之前。",
+      "lead": "成本取决于复杂度、企业的准备程度，以及需要搭建的范围。下面三种结构是沟通的参考点，不是固定报价。",
+      "packages": [
+        {
+          "title": "品牌基础",
+          "note": "适合需要理清定位、搭建品牌底座的企业。",
+          "items": [
+            "品牌与客户审计",
+            "定位、信息与品牌架构",
+            "视觉方向与应用规范",
+            "九十天内容计划"
+          ]
+        },
+        {
+          "title": "增长战役",
+          "note": "适合已有基础、需要可衡量需求的企业。",
+          "items": [
+            "落地页与转化流程",
+            "GA4、GTM 与像素追踪",
+            "Meta Ads 与 Google Ads",
+            "看板与优化周期"
+          ]
+        },
+        {
+          "title": "营销系统",
+          "note": "适合需要把整个营销运营标准化的企业。",
+          "items": [
+            "战略与内容体系",
+            "网站、追踪、CRM 与线索工作流",
+            "管理看板",
+            "培训与团队交接"
+          ]
+        }
+      ],
+      "processTitle": "从简报到提案",
+      "steps": [
+        { "title": "接收背景", "description": "目标、数据、资源与当前存在的问题。" },
+        { "title": "诊断", "description": "确定瓶颈与优先级。" },
+        { "title": "设计范围", "description": "选对工作项、交付物与验收标准。" },
+        { "title": "发送提案", "description": "时间表、成本、责任与落地方案。" }
+      ]
+    }
+  },
+  "tools": {
+    "hero": {
+      "label": "工具",
+      "title": "花钱前的六个计算。",
+      "lead": "这里的每个工具都在你的浏览器里、用你输入的数字运行。没有数据离开页面，也没有任何数字是预填的。"
+    },
+    "privacyNote": "你输入的内容只留在这个浏览器里。刷新页面即清空。",
+    "growthCheck": {
+      "title": "增长自检",
+      "description": "十二个问题，看出四根增长支柱哪里强、哪里弱。结果指向优先要处理的瓶颈，不是评分或排名。",
+      "scaleHint": "1 表示完全没有，5 表示已标准化且可衡量",
+      "submit": "查看诊断结果",
+      "reset": "重新开始",
+      "resultTitle": "诊断结果",
+      "weakest": "需要先处理",
+      "strongest": "目前是优势",
+      "recommend": "建议的下一步",
+      "dontYet": "暂时不要做",
+      "pillars": [
+        {
+          "key": "positioning",
+          "title": "定位与信息",
+          "questions": [
+            "客户能说出你与竞争对手的差别",
+            "销售信息在每个渠道都一致",
+            "品牌承诺背后有具体证据"
+          ],
+          "recommend": "在加大传播投入之前，先理清定位与信息架构。",
+          "dontYet": "暂时不要再开新的广告渠道。"
+        },
+        {
+          "key": "demand",
+          "title": "需求创造",
+          "questions": [
+            "你知道哪个渠道带来真实客户",
+            "针对购买决策的每一步都有内容",
+            "获取一个客户的成本已算清楚"
+          ],
+          "recommend": "先集中一个主渠道，把整条旅程的内容铺齐，再谈扩展。",
+          "dontYet": "暂时不要同时跑多个战役。"
+        },
+        {
+          "key": "conversion",
+          "title": "转化与销售",
+          "questions": [
+            "每条线索都有负责人和响应时限",
+            "跟进有节奏，而不是打一次就算",
+            "丢单原因会被记录下来"
+          ],
+          "recommend": "把线索接收、响应时限与跟进序列标准化。",
+          "dontYet": "现有线索还在流失时，暂时不要增加线索量。"
+        },
+        {
+          "key": "measurement",
+          "title": "衡量与运营",
+          "questions": [
+            "网站与广告追踪经过校验",
+            "有看板把线索来源连到收入",
+            "流程已写下来并且可以交接"
+          ],
+          "recommend": "先搭好把线索来源连到收入的衡量层，再做更深的优化。",
+          "dontYet": "暂时不要下结论说哪个渠道更有效。"
+        }
+      ]
+    },
+    "calculators": [
+      {
+        "key": "roas",
+        "title": "ROAS",
+        "description": "每一元广告投入带回的收入。",
+        "fields": [
+          { "key": "spend", "label": "广告支出", "unit": "₫" },
+          { "key": "revenue", "label": "广告带来的收入", "unit": "₫" }
+        ],
+        "resultLabel": "ROAS",
+        "note": "ROAS 未扣除成本。请与保本 ROAS 一起看，才知道这个数字够不够。"
+      },
+      {
+        "key": "breakeven",
+        "title": "保本 ROAS",
+        "description": "由毛利率推出的、不亏钱所需的最低 ROAS。",
+        "fields": [
+          { "key": "margin", "label": "毛利率", "unit": "%" }
+        ],
+        "resultLabel": "保本 ROAS",
+        "note": "低于这条线，每一元广告投入都在吃掉利润。"
+      },
+      {
+        "key": "cac",
+        "title": "CAC",
+        "description": "获取一个新客户的成本。",
+        "fields": [
+          { "key": "cost", "label": "营销与销售总成本", "unit": "₫" },
+          { "key": "customers", "label": "新客户数", "unit": "位" }
+        ],
+        "resultLabel": "CAC",
+        "note": "要算上人力与工具成本，不只是广告费。"
+      },
+      {
+        "key": "ltv",
+        "title": "LTV",
+        "description": "一个客户在整个留存期内带来的价值。",
+        "fields": [
+          { "key": "aov", "label": "平均订单金额", "unit": "₫" },
+          { "key": "frequency", "label": "每年购买次数", "unit": "次" },
+          { "key": "lifespan", "label": "留存年数", "unit": "年" }
+        ],
+        "resultLabel": "LTV",
+        "note": "LTV 与 CAC 之比低于 3，通常说明模型还不够健康。"
+      },
+      {
+        "key": "ltvcac",
+        "title": "LTV / CAC 比值",
+        "description": "客户价值与获取成本之间的关系。",
+        "fields": [
+          { "key": "ltv", "label": "LTV", "unit": "₫" },
+          { "key": "cac", "label": "CAC", "unit": "₫" }
+        ],
+        "resultLabel": "LTV / CAC",
+        "note": "低于 1 表示每位客户都在亏钱。高于 5 通常意味着增长机会被放掉了。"
+      }
+    ],
+    "utm": {
+      "title": "UTM 链接生成",
+      "description": "生成参数一致的 UTM 链接，让 GA4 正确归因来源。",
+      "fields": [
+        { "key": "base", "label": "目标链接", "placeholder": "https://dngworks.github.io/services/" },
+        { "key": "source", "label": "utm_source", "placeholder": "facebook" },
+        { "key": "medium", "label": "utm_medium", "placeholder": "cpc" },
+        { "key": "campaign", "label": "utm_campaign", "placeholder": "growth-q4" },
+        { "key": "content", "label": "utm_content", "placeholder": "video-a" }
+      ],
+      "resultLabel": "已加标记的链接",
+      "build": "生成链接",
+      "note": "所有值都用小写与连字符。GA4 区分大小写。"
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "关于",
+      "title": "营销并不是从广告开始。",
+      "lead": "它始于产品、体验、信任，以及企业把数据转化为更好决策的能力。"
+    },
+    "body": [
+      "DNGWORKS 是 Dũng Nguyễn 的顾问实践，从越南岘港出发，服务越南的中小企业。大多数项目的起点都一样：企业做了很多事，却没人说得出哪一部分在产生收入。",
+      "做法是先诊断再提案。实际操作上，最初几次沟通通常用来读现有数据、听销售团队讲丢单的原因，并跟踪真实的客户旅程，而不是纸上的漏斗图。",
+      "诊断之后，工作转向系统设计：定位与信息、内容与触点、转化流程、数据层，再把重复的部分自动化。项目不是交付文件就结束，而是内部团队不需要我也能把这套系统跑起来才算结束。"
+    ],
+    "principles": {
+      "title": "工作原则",
+      "items": [
+        {
+          "title": "先诊断，再报价",
+          "description": "正确的范围只有在理解问题之后才会出现。诊断前报价，是在为一个还不清楚的问题卖方案。"
+        },
+        {
+          "title": "每个数字都能追回来源",
+          "description": "报表里的任何指标都要说得出它从哪来、怎么量、误差在哪。追不回来源的数字，不能用来做决定。"
+        },
+        {
+          "title": "交接到企业能自己运转",
+          "description": "依赖搭建者本人的系统是没完成的系统。流程、文档与培训属于范围内，不是附加项。"
+        }
+      ]
+    },
+    "factsTitle": "基本信息",
+    "facts": [
+      { "label": "负责人", "value": "Dũng Nguyễn" },
+      { "label": "所在地", "value": "越南岘港" },
+      { "label": "业务领域", "value": "品牌战略、增长营销、营销运营、数据与人工智能" },
+      { "label": "工作语言", "value": "越南语、英语" }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "label": "联系",
+      "title": "聊聊真正的问题。",
+      "lead": "不需要一份完美的简报。写下背景、目标、哪里不奏效，以及希望的时间。"
+    },
+    "form": {
+      "name": "姓名",
+      "company": "企业名称",
+      "email": "邮箱",
+      "phone": "电话或 Zalo",
+      "need": "主要需求",
+      "budget": "预计预算",
+      "timeline": "希望时间",
+      "problem": "需要解决的问题",
+      "problemHint": "背景、已经尝试过什么，以及期望的结果。",
+      "submit": "发送",
+      "sending": "发送中",
+      "select": "尚未确定",
+      "needOptions": [
+        "定位与品牌",
+        "需求创造与广告",
+        "转化与销售",
+        "数据、衡量与人工智能",
+        "营销运营标准化"
+      ],
+      "budgetOptions": [
+        "两千万越南盾以下",
+        "两千万至五千万越南盾",
+        "五千万至一亿五千万越南盾",
+        "一亿五千万越南盾以上"
+      ],
+      "timelineOptions": [
+        "本月内",
+        "一至三个月内",
+        "暂时在了解阶段"
+      ]
+    },
+    "states": {
+      "successTitle": "已收到",
+      "success": "我会在一到两个工作日内回复。",
+      "errorTitle": "尚未发送",
+      "errorNetwork": "无法连接表单接收端。请直接用下方的邮箱或 Zalo 发送。",
+      "errorNoEndpoint": "此表单尚未连接接收端。请用下方的邮箱或 Zalo 直接发送。",
+      "errorValidation": "请检查标记出的字段。",
+      "invalidEmail": "邮箱格式不正确。",
+      "requiredField": "此项需要填写。"
+    },
+    "directTitle": "或直接联系",
+    "channels": {
+      "email": "邮箱",
+      "phone": "电话",
+      "zalo": "Zalo",
+      "location": "位置"
+    }
+  },
+  "intelligence": {
+    "hero": {
+      "label": "DNG Intelligence",
+      "title": "行业资讯、编辑简报与原创分析。",
+      "lead": "持续跟踪人工智能、广告、电商与商业市场。第三方内容始终链回原发布方；DNGWORKS 自己撰写的内容在本站读完。"
+    },
+    "sections": {
+      "lead": "头条",
+      "latest": "最新",
+      "aiPlatforms": "人工智能与平台",
+      "advertising": "广告与效果",
+      "ecommerce": "电子商务",
+      "businessMarket": "商业与市场",
+      "briefings": "DNGWORKS 简报",
+      "analysis": "分析与实操手册",
+      "browse": "按主题筛选"
+    },
+    "types": {
+      "external_news": "行业资讯",
+      "briefing": "DNG 简报",
+      "analysis": "分析",
+      "playbook": "实操手册"
+    },
+    "categories": {
+      "ai-platforms": "人工智能与平台",
+      "advertising": "广告",
+      "ecommerce": "电子商务",
+      "business-market": "商业与市场",
+      "search-seo": "搜索与 SEO",
+      "revenue-system": "收入系统",
+      "sales-crm": "销售与 CRM",
+      "ai-data": "人工智能与数据",
+      "marketing-strategy": "营销战略",
+      "playbook": "实操手册"
+    },
+    "externalNotice": "这是第三方内容。DNGWORKS 展示标题、来源与一小段摘录，其余请在原发布方阅读。",
+    "ownNotice": "由 DNGWORKS 撰写并核实。",
+    "sourcePolicy": {
+      "title": "信息来源政策",
+      "lead": "DNG Intelligence 如何选稿、处理版权与显示时间。",
+      "sections": [
+        {
+          "title": "三类内容，互不混淆",
+          "body": "行业资讯是第三方内容：原标题、来源、发布时间与一小段摘录，并链回原文。DNG 简报是 DNGWORKS 依据多个有据可查的来源自行撰写的短文。分析与实操手册是更长的原创内容，带有方法与案例。这三类始终分别标注，绝不互相伪装。"
+        },
+        {
+          "title": "不复制全文",
+          "body": "DNGWORKS 不存储、不重译、也不转载他人文章全文。摘录仅限于让读者足以判断是否打开原文。"
+        },
+        {
+          "title": "时间戳如实显示",
+          "body": "原文发布时间与系统抓取时间是两个不同的数字，分别显示。当来源未提供发布时间时，页面写明时间不详，而不是猜一个。"
+        },
+        {
+          "title": "图片",
+          "body": "仅在来源允许转载时使用其图片。没有可用图片时，使用 DNGWORKS 的编辑插图，并标明这是插图而非事件照片。"
+        },
+        {
+          "title": "按相关性筛选，而非按流量",
+          "body": "内容按与商业、营销、人工智能、技术和电商的相关性评分。娱乐、体育及其他行业外主题会被剔除，即使来源正在大力推送。"
+        },
+        {
+          "title": "来源失效时",
+          "body": "系统保留最近一次有效数据并写明最后同步时间，而不是显示空列表或生成替代内容。"
+        }
+      ]
+    }
+  },
+  "article": {
+    "backToIndex": "返回 DNG Intelligence",
+    "inThisArticle": "本文结构",
+    "evidenceNote": "证据说明",
+    "shareTitle": "分享",
+    "copyLink": "复制链接"
+  },
+  "portfolio": {
+    "hero": {
+      "label": "作品集",
+      "title": "落地的证据。",
+      "lead": "五个不同的企业情境，按问题、角色、做法与实际产出呈现。"
+    },
+    "labels": {
+      "industry": "行业",
+      "year": "年份",
+      "role": "角色",
+      "context": "背景",
+      "problem": "问题",
+      "approach": "做法",
+      "deliverables": "已完成",
+      "gallery": "项目图片"
+    },
+    "notListed": "此页面不出现在导航中，也不列入站点地图。链接仅直接分享。"
+  },
+  "notFound": {
+    "title": "找不到这个页面。",
+    "lead": "链接可能已经变了。下面是大家通常想去的地方。",
+    "home": "返回首页"
+  },
+  "footer": {
+    "tagline": "诊断瓶颈，设计增长系统。",
+    "description": "为中小企业提供品牌战略、数字营销、数据与人工智能。",
+    "navTitle": "页面",
+    "contactTitle": "联系",
+    "rights": "Dũng Nguyễn。保留所有权利。"
+  }
+}

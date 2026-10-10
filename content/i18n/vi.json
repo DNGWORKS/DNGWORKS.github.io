@@ -1,0 +1,604 @@
+{
+  "code": "vi",
+  "locale": "vi_VN",
+  "meta": {
+    "siteName": "DNGWORKS",
+    "siteTitle": "DNGWORKS — Kiến trúc tăng trưởng cho doanh nghiệp",
+    "defaultDescription": "DNGWORKS chẩn đoán điểm nghẽn tăng trưởng, rồi thiết kế hệ thống marketing, bán hàng, dữ liệu và AI để doanh nghiệp vận hành được và đo lường được."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "services": "Giải pháp",
+    "tools": "Công cụ",
+    "intelligence": "DNG Intelligence",
+    "about": "Về DNGWORKS",
+    "contact": "Liên hệ",
+    "sourcePolicy": "Chính sách nguồn tin",
+    "portfolio": "Portfolio"
+  },
+  "ui": {
+    "skipToContent": "Bỏ qua, đến nội dung chính",
+    "openMenu": "Mở menu",
+    "closeMenu": "Đóng menu",
+    "languageLabel": "Ngôn ngữ",
+    "primaryCta": "Trao đổi cùng DNGWORKS",
+    "readArticle": "Đọc bài",
+    "readOriginal": "Đọc bài gốc",
+    "loadMore": "Xem thêm",
+    "loading": "Đang tải",
+    "retry": "Thử lại",
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Tìm theo tiêu đề, chủ đề hoặc nguồn",
+    "clear": "Xoá lọc",
+    "all": "Tất cả",
+    "results": "kết quả",
+    "noResults": "Không có bài nào khớp với bộ lọc này.",
+    "noResultsHint": "Thử bỏ một bộ lọc hoặc dùng từ khoá ngắn hơn.",
+    "unknownDate": "Không rõ ngày đăng",
+    "updated": "Cập nhật",
+    "published": "Đăng",
+    "synced": "Dữ liệu đồng bộ lúc",
+    "staleNotice": "Nguồn tin chưa đồng bộ được. Đây là bản dữ liệu hợp lệ gần nhất.",
+    "source": "Nguồn",
+    "sources": "Nguồn tham chiếu",
+    "takeaways": "Ý chính",
+    "readMinutes": "phút đọc",
+    "author": "Tác giả",
+    "nextArticle": "Bài tiếp theo",
+    "relatedReading": "Đọc thêm",
+    "copy": "Sao chép",
+    "copied": "Đã sao chép",
+    "backToTop": "Về đầu trang",
+    "illustration": "Đồ hoạ minh hoạ",
+    "required": "bắt buộc",
+    "optional": "không bắt buộc"
+  },
+  "home": {
+    "hero": {
+      "label": "Growth architecture",
+      "titleLine1": "Hiểu đúng vấn đề.",
+      "titleLine2": "Chọn đúng hướng tăng trưởng.",
+      "lead": "Phần lớn doanh nghiệp không thiếu hoạt động marketing. Thiếu một hệ thống nối được định vị, nội dung, quảng cáo, bán hàng và dữ liệu vào cùng một mạch quyết định.",
+      "ctaPrimary": "Khám phá giải pháp",
+      "ctaSecondary": "Trao đổi cùng DNGWORKS",
+      "scrollHint": "Cuộn để xem cấu trúc",
+      "stages": [
+        { "key": "diagnose", "label": "Chẩn đoán", "note": "Tìm ra điểm nghẽn thật" },
+        { "key": "connect", "label": "Kết nối", "note": "Xếp các phần vào một hệ thống" },
+        { "key": "grow", "label": "Tăng trưởng", "note": "Vận hành và mở rộng" }
+      ],
+      "posterAlt": "Cấu trúc tăng trưởng DNGWORKS: các phiến kính rời rạc khớp lại thành một hệ thống có trục"
+    },
+    "diagnose": {
+      "label": "Chẩn đoán",
+      "title": "Không bắt đầu bằng công cụ. Bắt đầu bằng nút thắt.",
+      "lead": "Một website đẹp, một chiến dịch quảng cáo hay một workflow AI chỉ có giá trị khi chúng phục vụ đúng bài toán kinh doanh và tạo ra năng lực vận hành tốt hơn.",
+      "items": [
+        {
+          "title": "Định vị chưa rõ",
+          "description": "Khách hàng không hiểu vì sao nên chọn bạn thay vì một lựa chọn khác. Mọi chi phí truyền thông sau đó đều phải trả giá cho sự mơ hồ này.",
+          "symptom": "Giá là lý do duy nhất khách hàng nhắc đến"
+        },
+        {
+          "title": "Marketing rời rạc",
+          "description": "Nội dung, quảng cáo, website, sales và dữ liệu chạy song song nhưng không nối vào nhau, nên không ai nhìn thấy toàn cảnh.",
+          "symptom": "Mỗi kênh có một con số riêng, không ghép lại được"
+        },
+        {
+          "title": "Tăng trưởng khó đo lường",
+          "description": "Doanh nghiệp có nhiều hoạt động nhưng thiếu tracking, dashboard và tiêu chuẩn ra quyết định, nên tối ưu dựa vào cảm giác.",
+          "symptom": "Không trả lời được: đồng nào đang sinh ra doanh thu"
+        }
+      ]
+    },
+    "approach": {
+      "label": "Phương pháp",
+      "title": "Chẩn đoán trước. Thiết kế hệ thống sau.",
+      "lead": "Tôi không bán một gói dịch vụ cố định trước khi hiểu vấn đề. Phạm vi công việc được xây từ mức độ ưu tiên, nguồn lực và rủi ro thực tế của doanh nghiệp.",
+      "steps": [
+        { "title": "Nghiên cứu", "description": "Thị trường, khách hàng, đối thủ và dữ liệu hiện có." },
+        { "title": "Chẩn đoán", "description": "Xác định nút thắt thay vì xử lý triệu chứng." },
+        { "title": "Kiến trúc", "description": "Thiết kế thông điệp, điểm chạm, dữ liệu và workflow." },
+        { "title": "Triển khai", "description": "Biến chiến lược thành website, nội dung, quảng cáo, tracking và quy trình." },
+        { "title": "Đo lường", "description": "Thiết lập tiêu chuẩn, dashboard và vòng lặp tối ưu." }
+      ]
+    },
+    "services": {
+      "label": "Giải pháp",
+      "title": "Bốn năng lực, một kiến trúc tăng trưởng.",
+      "lead": "Các nhóm năng lực được thiết kế để ghép vào nhau. Doanh nghiệp có thể bắt đầu từ một nhóm, nhưng giá trị thật xuất hiện khi chúng nối thành hệ thống.",
+      "viewAll": "Xem chi tiết giải pháp"
+    },
+    "tools": {
+      "label": "Công cụ",
+      "title": "Tính thử trước khi quyết định.",
+      "lead": "Các công cụ chạy hoàn toàn trên máy bạn, dùng số bạn nhập, không gửi dữ liệu đi đâu. Dùng để kiểm tra một giả định trước khi bỏ ngân sách thật.",
+      "viewAll": "Mở bộ công cụ"
+    },
+    "intelligence": {
+      "label": "DNG Intelligence",
+      "title": "Tin ngành và phân tích, đọc được ngay.",
+      "lead": "Theo dõi AI, quảng cáo, thương mại điện tử và thị trường kinh doanh — kèm phân tích gốc của DNGWORKS về cách những thay đổi đó chạm vào doanh nghiệp Việt Nam.",
+      "viewAll": "Vào DNG Intelligence"
+    },
+    "cta": {
+      "title": "Bạn đang có một bài toán marketing chưa được giải đúng?",
+      "lead": "Mô tả bối cảnh, mục tiêu và điều đang không hiệu quả. Tôi sẽ phản hồi bằng một góc nhìn chẩn đoán, không phải một báo giá có sẵn.",
+      "cta": "Gửi bối cảnh dự án",
+      "secondary": "Gọi trực tiếp"
+    }
+  },
+  "services": {
+    "hero": {
+      "label": "Giải pháp",
+      "title": "Từ chiến lược đến triển khai, không đứt gãy ở giữa.",
+      "lead": "Tôi dùng công cụ như một phần của hệ thống: nghiên cứu, xây thương hiệu, sản xuất nội dung, phân phối, đo lường và tự động hoá."
+    },
+    "items": [
+      {
+        "slug": "ai-data-strategy",
+        "title": "AI & Data Strategy",
+        "flow": ["Tín hiệu", "Insight", "Quyết định"],
+        "problem": "Dữ liệu nằm rải rác ở nhiều nơi và không ai dùng nó để ra quyết định. Báo cáo được làm để nộp, không phải để điều chỉnh.",
+        "diagnosis": "Trước khi dựng dashboard, cần biết doanh nghiệp đang ra quyết định nào, với tần suất nào, và thiếu con số gì để quyết định đó bớt cảm tính.",
+        "methodology": "Xác định tập dữ liệu cần có, chuẩn hoá cách đo, dựng lớp báo cáo theo quyết định, rồi đưa AI vào các bước lặp lại như tổng hợp, phân loại và cảnh báo.",
+        "deliverables": [
+          "Bản đồ dữ liệu và định nghĩa chỉ số dùng chung",
+          "Thiết lập GA4, GTM, pixel và kiểm chứng dữ liệu",
+          "Dashboard theo nhóm quyết định, không theo kênh",
+          "Workflow AI cho nghiên cứu, tổng hợp và cảnh báo"
+        ],
+        "tools": ["ChatGPT", "Gemini", "Claude", "GA4", "GTM", "n8n"]
+      },
+      {
+        "slug": "brand-positioning",
+        "title": "Brand & Positioning",
+        "flow": ["Ý nghĩa", "Định vị", "Ghi nhớ"],
+        "problem": "Khách hàng không có lý do rõ ràng để chọn bạn, nên cuộc trò chuyện luôn quay về giá.",
+        "diagnosis": "Định vị không phải một câu slogan. Nó là câu trả lời cho: bạn phục vụ ai, giải quyết vấn đề nào tốt hơn hẳn, và bằng chứng nào chứng minh điều đó.",
+        "methodology": "Nghiên cứu khách hàng và đối thủ, chốt insight và USP, xây kiến trúc thông điệp, rồi đóng gói thành hệ thống hình ảnh và tài sản bán hàng dùng được hằng ngày.",
+        "deliverables": [
+          "Audit thương hiệu và chân dung khách hàng",
+          "Định vị, USP và kiến trúc thông điệp",
+          "Visual direction và guideline ứng dụng",
+          "Bộ tài sản bán hàng và kế hoạch nội dung 90 ngày"
+        ],
+        "tools": ["Photoshop", "Canva", "CorelDRAW"]
+      },
+      {
+        "slug": "growth-marketing",
+        "title": "Growth Marketing",
+        "flow": ["Nhu cầu", "Chuyển đổi", "Giữ khách"],
+        "problem": "Tăng ngân sách quảng cáo nhưng doanh thu không tăng tương ứng, vì funnel rò rỉ ở những bước không ai theo dõi.",
+        "diagnosis": "Quảng cáo khuếch đại một hệ thống — kể cả khuếch đại điểm yếu của nó. Phải tìm ra bước mất nhiều người nhất trước khi tăng chi tiêu.",
+        "methodology": "Dựng landing page và luồng chuyển đổi, thiết lập tracking đủ tin, chạy quảng cáo theo giả thuyết có thể kiểm chứng, rồi tối ưu theo chu kỳ cố định.",
+        "deliverables": [
+          "Landing page và conversion flow",
+          "Cấu trúc chiến dịch Meta Ads và Google Ads",
+          "Hệ thống thử nghiệm và tiêu chuẩn đánh giá",
+          "Dashboard tăng trưởng và chu kỳ tối ưu"
+        ],
+        "tools": ["Meta Ads", "Google Ads", "SEO", "WordPress"]
+      },
+      {
+        "slug": "marketing-operations",
+        "title": "Marketing Operations",
+        "flow": ["Hệ thống", "Tự động hoá", "Mở rộng"],
+        "problem": "Mọi thứ phụ thuộc vào một vài người nhớ việc. Khi họ nghỉ, chất lượng rơi.",
+        "diagnosis": "Vận hành yếu không phải vì thiếu nỗ lực, mà vì thiếu quy trình viết ra được, bàn giao được và kiểm tra được.",
+        "methodology": "Chuẩn hoá quy trình và trạng thái công việc, dựng dashboard quản trị, tự động hoá các bước lặp lại, rồi đào tạo và chuyển giao cho đội ngũ.",
+        "deliverables": [
+          "Quy trình marketing và CRM/lead workflow",
+          "Chuẩn hoá SLA phản hồi và bàn giao giữa marketing và sales",
+          "Tự động hoá tác vụ lặp lại bằng n8n và script",
+          "Dashboard quản trị, đào tạo và chuyển giao đội ngũ"
+        ],
+        "tools": ["n8n", "CRM", "Google Workspace", "Looker Studio"]
+      }
+    ],
+    "capability": {
+      "label": "Năng lực kỹ thuật",
+      "title": "Công cụ là phần của hệ thống, không phải mục tiêu.",
+      "groups": [
+        {
+          "title": "Nghiên cứu và chiến lược",
+          "tools": ["ChatGPT", "Gemini", "Claude"],
+          "description": "Nghiên cứu thị trường, khai phá insight, phát triển chiến lược, thông điệp và workflow tri thức."
+        },
+        {
+          "title": "Thương hiệu và design system",
+          "tools": ["Photoshop", "Canva", "CorelDRAW"],
+          "description": "Xây nhận diện, key visual, tài sản bán hàng và hệ thống hình ảnh nhất quán."
+        },
+        {
+          "title": "Video và storytelling",
+          "tools": ["CapCut", "Premiere Pro", "DaVinci Resolve"],
+          "description": "Kịch bản, quay dựng, chỉnh màu và kể chuyện cho social, website, quảng cáo."
+        },
+        {
+          "title": "Tăng trưởng và đo lường",
+          "tools": ["GA4", "GTM", "Meta Ads", "Google Ads", "SEO", "WordPress", "n8n"],
+          "description": "Thiết lập tracking, quảng cáo, dashboard và tự động hoá để marketing có thể quản trị."
+        }
+      ]
+    },
+    "engagement": {
+      "label": "Phạm vi tham chiếu",
+      "title": "Báo giá đi sau chẩn đoán, không đi trước bài toán.",
+      "lead": "Chi phí phụ thuộc vào độ phức tạp, mức độ sẵn sàng của doanh nghiệp và phạm vi cần triển khai. Ba cấu trúc dưới đây là điểm tham chiếu để trao đổi, không phải báo giá đóng khung.",
+      "packages": [
+        {
+          "title": "Brand Foundation",
+          "note": "Cho doanh nghiệp cần làm rõ định vị và xây nền tảng thương hiệu.",
+          "items": [
+            "Audit thương hiệu và khách hàng",
+            "Định vị, thông điệp và kiến trúc thương hiệu",
+            "Visual direction và guideline ứng dụng",
+            "Kế hoạch nội dung 90 ngày"
+          ]
+        },
+        {
+          "title": "Growth Campaign",
+          "note": "Cho doanh nghiệp đã có nền tảng và cần tạo nhu cầu có đo lường.",
+          "items": [
+            "Landing page và conversion flow",
+            "Tracking GA4, GTM, pixel",
+            "Meta Ads và Google Ads",
+            "Dashboard và chu kỳ tối ưu"
+          ]
+        },
+        {
+          "title": "Marketing System",
+          "note": "Cho doanh nghiệp cần chuẩn hoá toàn bộ vận hành marketing.",
+          "items": [
+            "Chiến lược và hệ thống nội dung",
+            "Website, tracking, CRM và lead workflow",
+            "Dashboard quản trị",
+            "Đào tạo và chuyển giao đội ngũ"
+          ]
+        }
+      ],
+      "processTitle": "Từ brief đến đề xuất",
+      "steps": [
+        { "title": "Nhận bối cảnh", "description": "Mục tiêu, dữ liệu, nguồn lực và các vấn đề đang tồn tại." },
+        { "title": "Chẩn đoán", "description": "Xác định điểm nghẽn và mức độ ưu tiên." },
+        { "title": "Thiết kế phạm vi", "description": "Chọn đúng đầu việc, deliverable và tiêu chuẩn nghiệm thu." },
+        { "title": "Gửi đề xuất", "description": "Timeline, chi phí, trách nhiệm và phương án triển khai." }
+      ]
+    }
+  },
+  "tools": {
+    "hero": {
+      "label": "Công cụ",
+      "title": "Sáu phép tính trước khi tiêu tiền.",
+      "lead": "Mọi công cụ ở đây chạy trên trình duyệt của bạn, bằng số bạn nhập. Không có dữ liệu nào được gửi lên server, và không có con số nào được điền sẵn."
+    },
+    "privacyNote": "Số bạn nhập ở lại trong trình duyệt này. Tải lại trang là mất.",
+    "growthCheck": {
+      "title": "Growth Check",
+      "description": "Trả lời 12 câu để xem bốn trụ tăng trưởng của doanh nghiệp đang mạnh yếu ở đâu. Kết quả chỉ ra điểm nghẽn ưu tiên, không cho điểm xếp hạng.",
+      "scaleHint": "1 là chưa có gì, 5 là đã chuẩn hoá và đo lường được",
+      "submit": "Xem kết quả chẩn đoán",
+      "reset": "Làm lại",
+      "resultTitle": "Kết quả chẩn đoán",
+      "weakest": "Cần xử lý trước",
+      "strongest": "Đang là lợi thế",
+      "recommend": "Đề xuất bước tiếp theo",
+      "dontYet": "Chưa nên làm bây giờ",
+      "pillars": [
+        {
+          "key": "positioning",
+          "title": "Định vị và thông điệp",
+          "questions": [
+            "Khách hàng mô tả được bạn khác đối thủ ở điểm nào",
+            "Thông điệp bán hàng giống nhau trên mọi kênh",
+            "Có bằng chứng cụ thể cho lời hứa thương hiệu"
+          ],
+          "recommend": "Làm rõ định vị và kiến trúc thông điệp trước khi tăng chi phí truyền thông.",
+          "dontYet": "Chưa nên mở thêm kênh quảng cáo mới."
+        },
+        {
+          "key": "demand",
+          "title": "Tạo nhu cầu",
+          "questions": [
+            "Biết kênh nào đang mang lại khách hàng thật",
+            "Có nội dung phục vụ từng bước ra quyết định của khách",
+            "Chi phí có được một khách hàng được tính rõ"
+          ],
+          "recommend": "Tập trung vào một kênh chủ lực và dựng đủ nội dung cho cả hành trình trước khi mở rộng.",
+          "dontYet": "Chưa nên chạy nhiều chiến dịch song song."
+        },
+        {
+          "key": "conversion",
+          "title": "Chuyển đổi và bán hàng",
+          "questions": [
+            "Mọi lead đều có người phụ trách và thời hạn phản hồi",
+            "Có nhịp follow-up thay vì gọi một lần rồi thôi",
+            "Lý do mất khách được ghi nhận lại"
+          ],
+          "recommend": "Chuẩn hoá quy trình nhận lead, SLA phản hồi và chuỗi follow-up.",
+          "dontYet": "Chưa nên tăng lượng lead khi lead hiện tại còn rơi."
+        },
+        {
+          "key": "measurement",
+          "title": "Đo lường và vận hành",
+          "questions": [
+            "Tracking website và quảng cáo được kiểm chứng đúng",
+            "Có dashboard nối nguồn lead với doanh thu",
+            "Quy trình được viết ra và bàn giao được"
+          ],
+          "recommend": "Dựng lớp đo lường nối nguồn lead với doanh thu trước khi tối ưu sâu hơn.",
+          "dontYet": "Chưa nên kết luận kênh nào hiệu quả hơn kênh nào."
+        }
+      ]
+    },
+    "calculators": [
+      {
+        "key": "roas",
+        "title": "ROAS",
+        "description": "Doanh thu thu về trên mỗi đồng chi quảng cáo.",
+        "fields": [
+          { "key": "spend", "label": "Chi phí quảng cáo", "unit": "₫" },
+          { "key": "revenue", "label": "Doanh thu từ quảng cáo", "unit": "₫" }
+        ],
+        "resultLabel": "ROAS",
+        "note": "ROAS chưa trừ giá vốn. Dùng kèm ROAS hoà vốn để biết con số này đã đủ hay chưa."
+      },
+      {
+        "key": "breakeven",
+        "title": "ROAS hoà vốn",
+        "description": "Mức ROAS tối thiểu để không lỗ, tính từ biên lợi nhuận gộp.",
+        "fields": [
+          { "key": "margin", "label": "Biên lợi nhuận gộp", "unit": "%" }
+        ],
+        "resultLabel": "ROAS hoà vốn",
+        "note": "Dưới mức này, mỗi đồng quảng cáo đang lấy đi lợi nhuận."
+      },
+      {
+        "key": "cac",
+        "title": "CAC",
+        "description": "Chi phí để có được một khách hàng mới.",
+        "fields": [
+          { "key": "cost", "label": "Tổng chi phí marketing và bán hàng", "unit": "₫" },
+          { "key": "customers", "label": "Số khách hàng mới", "unit": "khách" }
+        ],
+        "resultLabel": "CAC",
+        "note": "Tính cả chi phí nhân sự và công cụ, không chỉ tiền quảng cáo."
+      },
+      {
+        "key": "ltv",
+        "title": "LTV",
+        "description": "Giá trị một khách hàng mang lại trong suốt thời gian gắn bó.",
+        "fields": [
+          { "key": "aov", "label": "Giá trị đơn trung bình", "unit": "₫" },
+          { "key": "frequency", "label": "Số lần mua mỗi năm", "unit": "lần" },
+          { "key": "lifespan", "label": "Số năm gắn bó", "unit": "năm" }
+        ],
+        "resultLabel": "LTV",
+        "note": "LTV chia cho CAC dưới 3 thường là dấu hiệu mô hình chưa bền."
+      },
+      {
+        "key": "ltvcac",
+        "title": "Tỷ lệ LTV / CAC",
+        "description": "Quan hệ giữa giá trị khách hàng và chi phí có được khách hàng đó.",
+        "fields": [
+          { "key": "ltv", "label": "LTV", "unit": "₫" },
+          { "key": "cac", "label": "CAC", "unit": "₫" }
+        ],
+        "resultLabel": "LTV / CAC",
+        "note": "Dưới 1 là lỗ trên mỗi khách. Trên 5 thường là đang bỏ sót cơ hội tăng trưởng."
+      }
+    ],
+    "utm": {
+      "title": "UTM builder",
+      "description": "Dựng link có tham số UTM nhất quán để GA4 phân loại đúng nguồn.",
+      "fields": [
+        { "key": "base", "label": "URL đích", "placeholder": "https://dngworks.github.io/services/" },
+        { "key": "source", "label": "utm_source", "placeholder": "facebook" },
+        { "key": "medium", "label": "utm_medium", "placeholder": "cpc" },
+        { "key": "campaign", "label": "utm_campaign", "placeholder": "growth-q4" },
+        { "key": "content", "label": "utm_content", "placeholder": "video-a" }
+      ],
+      "resultLabel": "Link đã gắn UTM",
+      "build": "Tạo link",
+      "note": "Dùng chữ thường và gạch ngang cho mọi giá trị. GA4 phân biệt chữ hoa chữ thường."
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "Về DNGWORKS",
+      "title": "Marketing không bắt đầu từ quảng cáo.",
+      "lead": "Nó bắt đầu từ sản phẩm, trải nghiệm, niềm tin và khả năng doanh nghiệp biến dữ liệu thành quyết định tốt hơn."
+    },
+    "body": [
+      "DNGWORKS là công việc tư vấn của Dũng Nguyễn, làm việc từ Đà Nẵng với các doanh nghiệp vừa và nhỏ ở Việt Nam. Phần lớn dự án bắt đầu ở cùng một điểm: doanh nghiệp đã làm nhiều thứ, nhưng không ai nói được thứ nào đang tạo ra doanh thu.",
+      "Cách làm của tôi là chẩn đoán trước khi đề xuất. Điều đó có nghĩa là những buổi đầu tiên thường dành để đọc dữ liệu hiện có, nghe đội ngũ bán hàng kể lại lý do mất khách, và nhìn vào hành trình khách hàng thật thay vì sơ đồ funnel trên giấy.",
+      "Sau chẩn đoán, công việc chuyển sang thiết kế hệ thống: định vị và thông điệp, nội dung và điểm chạm, luồng chuyển đổi, lớp dữ liệu, rồi tự động hoá những gì lặp lại. Kết thúc một dự án không phải là bàn giao file, mà là đội ngũ nội bộ vận hành được hệ thống đó mà không cần tôi."
+    ],
+    "principles": {
+      "title": "Nguyên tắc làm việc",
+      "items": [
+        {
+          "title": "Chẩn đoán trước khi báo giá",
+          "description": "Một phạm vi công việc đúng chỉ xuất hiện sau khi hiểu bài toán. Báo giá trước chẩn đoán là bán giải pháp cho một vấn đề chưa biết."
+        },
+        {
+          "title": "Con số phải truy được về nguồn",
+          "description": "Mọi chỉ số trong báo cáo đều phải nói được nó đến từ đâu, đo thế nào và sai số ở đâu. Con số không truy được thì không dùng để ra quyết định."
+        },
+        {
+          "title": "Bàn giao để doanh nghiệp tự chạy",
+          "description": "Hệ thống phụ thuộc vào người làm nó là một hệ thống chưa hoàn thành. Quy trình, tài liệu và đào tạo nằm trong phạm vi, không phải phần thêm."
+        }
+      ]
+    },
+    "factsTitle": "Thông tin",
+    "facts": [
+      { "label": "Người phụ trách", "value": "Dũng Nguyễn" },
+      { "label": "Vị trí", "value": "Đà Nẵng, Việt Nam" },
+      { "label": "Lĩnh vực", "value": "Chiến lược thương hiệu, growth marketing, marketing operations, dữ liệu và AI" },
+      { "label": "Ngôn ngữ làm việc", "value": "Tiếng Việt, English" }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "label": "Liên hệ",
+      "title": "Nói về bài toán thật.",
+      "lead": "Bạn không cần viết một brief hoàn hảo. Chỉ cần mô tả bối cảnh, mục tiêu, điều đang không hiệu quả và thời điểm mong muốn."
+    },
+    "form": {
+      "name": "Họ và tên",
+      "company": "Doanh nghiệp",
+      "email": "Email",
+      "phone": "Điện thoại hoặc Zalo",
+      "need": "Nhu cầu chính",
+      "budget": "Ngân sách dự kiến",
+      "timeline": "Thời điểm mong muốn",
+      "problem": "Bài toán cần giải quyết",
+      "problemHint": "Bối cảnh, điều đã thử, và kết quả mong đợi.",
+      "submit": "Gửi thông tin",
+      "sending": "Đang gửi",
+      "select": "Chưa xác định",
+      "needOptions": [
+        "Định vị và thương hiệu",
+        "Tạo nhu cầu và quảng cáo",
+        "Chuyển đổi và bán hàng",
+        "Dữ liệu, đo lường và AI",
+        "Chuẩn hoá vận hành marketing"
+      ],
+      "budgetOptions": [
+        "Dưới 20 triệu",
+        "20 đến 50 triệu",
+        "50 đến 150 triệu",
+        "Trên 150 triệu"
+      ],
+      "timelineOptions": [
+        "Trong tháng này",
+        "Trong một đến ba tháng",
+        "Đang tìm hiểu trước"
+      ]
+    },
+    "states": {
+      "successTitle": "Đã nhận được thông tin",
+      "success": "Tôi sẽ phản hồi trong vòng một đến hai ngày làm việc.",
+      "errorTitle": "Chưa gửi được",
+      "errorNetwork": "Không kết nối được tới nơi nhận biểu mẫu. Bạn gửi trực tiếp qua email hoặc Zalo bên dưới nhé.",
+      "errorNoEndpoint": "Biểu mẫu chưa được nối với nơi nhận. Dùng email hoặc Zalo bên dưới để gửi ngay.",
+      "errorValidation": "Kiểm tra lại các trường được đánh dấu.",
+      "invalidEmail": "Email chưa đúng định dạng.",
+      "requiredField": "Trường này cần được điền."
+    },
+    "directTitle": "Hoặc liên hệ trực tiếp",
+    "channels": {
+      "email": "Email",
+      "phone": "Điện thoại",
+      "zalo": "Zalo",
+      "location": "Vị trí"
+    }
+  },
+  "intelligence": {
+    "hero": {
+      "label": "DNG Intelligence",
+      "title": "Tin ngành, bản tin biên tập và phân tích gốc.",
+      "lead": "Theo dõi AI, quảng cáo, thương mại điện tử và thị trường kinh doanh. Tin của bên thứ ba luôn dẫn về nguồn gốc; nội dung do DNGWORKS viết đọc trọn vẹn trên trang này."
+    },
+    "sections": {
+      "lead": "Tin nổi bật",
+      "latest": "Mới cập nhật",
+      "aiPlatforms": "AI và nền tảng",
+      "advertising": "Quảng cáo và hiệu suất",
+      "ecommerce": "Thương mại điện tử",
+      "businessMarket": "Kinh doanh và thị trường",
+      "briefings": "Bản tin DNGWORKS",
+      "analysis": "Phân tích và playbook",
+      "browse": "Lọc theo chủ đề"
+    },
+    "types": {
+      "external_news": "Tin ngành",
+      "briefing": "Bản tin DNG",
+      "analysis": "Phân tích",
+      "playbook": "Playbook"
+    },
+    "categories": {
+      "ai-platforms": "AI và nền tảng",
+      "advertising": "Quảng cáo",
+      "ecommerce": "Thương mại điện tử",
+      "business-market": "Kinh doanh và thị trường",
+      "search-seo": "Tìm kiếm và SEO",
+      "revenue-system": "Hệ thống doanh thu",
+      "sales-crm": "Bán hàng và CRM",
+      "ai-data": "AI và dữ liệu",
+      "marketing-strategy": "Chiến lược marketing",
+      "playbook": "Playbook"
+    },
+    "externalNotice": "Đây là tin của bên thứ ba. DNGWORKS hiển thị tiêu đề, nguồn và một đoạn trích ngắn, phần còn lại đọc tại nơi đăng gốc.",
+    "ownNotice": "Bài do DNGWORKS viết và kiểm chứng.",
+    "sourcePolicy": {
+      "title": "Chính sách nguồn tin",
+      "lead": "Cách DNG Intelligence chọn tin, xử lý bản quyền và hiển thị thời gian.",
+      "sections": [
+        {
+          "title": "Ba loại nội dung, không trộn vào nhau",
+          "body": "Tin ngành là nội dung của bên thứ ba: hiển thị tiêu đề gốc, nguồn, thời gian đăng và một đoạn trích ngắn, kèm liên kết về bài gốc. Bản tin DNG là bài ngắn do DNGWORKS tự viết từ nhiều nguồn có dẫn chứng. Phân tích và playbook là nội dung gốc dài hơn, có phương pháp và ví dụ. Ba loại này luôn được gắn nhãn riêng và không bao giờ trình bày lẫn nhau."
+        },
+        {
+          "title": "Không sao chép toàn văn",
+          "body": "DNGWORKS không lưu, không dịch lại và không đăng lại toàn văn bài của nơi khác. Đoạn trích được giới hạn ở mức đủ để người đọc quyết định có mở bài gốc hay không."
+        },
+        {
+          "title": "Thời gian hiển thị đúng bản chất",
+          "body": "Thời điểm đăng của bài gốc và thời điểm hệ thống lấy dữ liệu là hai con số khác nhau và được hiển thị riêng. Khi nguồn không cung cấp thời điểm đăng, trang ghi rõ là không rõ ngày đăng thay vì đoán."
+        },
+        {
+          "title": "Hình ảnh",
+          "body": "Ảnh chỉ lấy từ nguồn cho phép dẫn lại. Khi không có ảnh dùng được, trang dùng đồ hoạ biên tập của DNGWORKS và ghi rõ đó là đồ hoạ minh hoạ, không phải ảnh sự kiện."
+        },
+        {
+          "title": "Lọc theo liên quan, không theo lượt xem",
+          "body": "Tin được chấm điểm theo độ liên quan tới kinh doanh, marketing, AI, công nghệ và thương mại điện tử. Tin giải trí, thể thao và các chủ đề ngoài ngành bị loại bỏ, kể cả khi nguồn đang đẩy mạnh."
+        },
+        {
+          "title": "Khi nguồn lỗi",
+          "body": "Hệ thống giữ lại bản dữ liệu hợp lệ gần nhất và ghi rõ thời điểm đồng bộ cuối, thay vì hiển thị danh sách trống hoặc tạo tin thay thế."
+        }
+      ]
+    }
+  },
+  "article": {
+    "backToIndex": "Về DNG Intelligence",
+    "inThisArticle": "Trong bài này",
+    "evidenceNote": "Ghi chú dẫn chứng",
+    "shareTitle": "Chia sẻ bài này",
+    "copyLink": "Sao chép liên kết"
+  },
+  "portfolio": {
+    "hero": {
+      "label": "Portfolio",
+      "title": "Bằng chứng triển khai.",
+      "lead": "Năm bối cảnh doanh nghiệp khác nhau, trình bày theo vấn đề, vai trò, cách triển khai và tài sản thực tế."
+    },
+    "labels": {
+      "industry": "Lĩnh vực",
+      "year": "Năm",
+      "role": "Vai trò",
+      "context": "Bối cảnh",
+      "problem": "Vấn đề",
+      "approach": "Cách triển khai",
+      "deliverables": "Đã thực hiện",
+      "gallery": "Hình ảnh dự án"
+    },
+    "notListed": "Trang này không xuất hiện trong menu và không được đưa vào sitemap. Liên kết chỉ được chia sẻ trực tiếp."
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang này.",
+    "lead": "Đường dẫn có thể đã thay đổi. Dưới đây là những nơi thường được tìm.",
+    "home": "Về trang chủ"
+  },
+  "footer": {
+    "tagline": "Chẩn đoán điểm nghẽn, thiết kế hệ thống tăng trưởng.",
+    "description": "Chiến lược thương hiệu, digital marketing, dữ liệu và AI cho doanh nghiệp vừa và nhỏ.",
+    "navTitle": "Trang",
+    "contactTitle": "Liên hệ",
+    "rights": "Dũng Nguyễn. Mọi quyền được bảo lưu."
+  }
+}

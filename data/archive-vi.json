@@ -1,28 +1,199 @@
 {
-  "schema": "dng-newsroom/1",
+  "schema": "dng-newsroom-archive/1",
+  "language": "vi",
   "snapshotUpdatedAt": "2026-10-10T04:02:38.955Z",
-  "lastSuccessfulFetch": "2026-10-10T04:02:38.955Z",
-  "lastAttemptAt": "2026-10-10T04:02:38.955Z",
-  "lastAttemptResult": "ok",
   "stale": false,
-  "sourceCount": 3,
-  "total": 12,
-  "counts": {
-    "business-market": 3,
-    "ai-platforms": 11,
-    "ecommerce": 1,
-    "search-seo": 1
-  },
-  "log": {
-    "ok": [
-      {
-        "source": "news.json",
-        "entries": 58
-      }
-    ],
-    "failed": []
-  },
+  "total": 21,
   "items": [
+    {
+      "id": "revenue-leakage-marketing-sales-crm",
+      "type": "analysis",
+      "title": "7 điểm rò rỉ doanh thu giữa Marketing – Sales – CRM",
+      "summary": "Một funnel không hỏng ở một chỗ. Doanh thu thường thất thoát qua nhiều bước nhỏ: định nghĩa lead, tốc độ phản hồi, bàn giao, follow-up và đo lường.",
+      "localPath": "/intelligence/analysis/revenue-leakage-marketing-sales-crm/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "revenue-system"
+      ],
+      "imageUrl": "/assets/images/covers/revenue-system.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/revenue-system.svg",
+      "featured": true,
+      "readMinutes": 9,
+      "status": "published"
+    },
+    {
+      "id": "ai-search-b2b-customer-journey",
+      "type": "analysis",
+      "title": "AI Search đang thay đổi hành trình mua B2B như thế nào?",
+      "summary": "Khách hàng không còn chỉ tìm một từ khóa rồi mở mười tab. Họ đặt câu hỏi dài, yêu cầu so sánh và mong nhận câu trả lời đã được tổng hợp.",
+      "localPath": "/intelligence/analysis/ai-search-b2b-customer-journey/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "ai-data"
+      ],
+      "imageUrl": "/assets/images/covers/ai-search.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/ai-search.svg",
+      "featured": true,
+      "readMinutes": 8,
+      "status": "published"
+    },
+    {
+      "id": "crm-vs-spreadsheet-decision",
+      "type": "analysis",
+      "title": "Google Sheet hay CRM: khi nào doanh nghiệp nên chuyển?",
+      "summary": "Không phải doanh nghiệp nào cũng cần CRM ngay. Nhưng khi dữ liệu, trách nhiệm và follow-up bắt đầu vỡ, tiếp tục dùng Sheet sẽ tạo chi phí ẩn.",
+      "localPath": "/intelligence/analysis/crm-vs-spreadsheet-decision/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "sales-crm"
+      ],
+      "imageUrl": "/assets/images/covers/sales-crm.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/sales-crm.svg",
+      "featured": true,
+      "readMinutes": 7,
+      "status": "published"
+    },
+    {
+      "id": "funnel-audit-60-minutes",
+      "type": "playbook",
+      "title": "Funnel audit trong 60 phút: kiểm tra gì trước?",
+      "summary": "Một quy trình audit nhanh để tìm điểm nghẽn có khả năng làm mất doanh thu trước khi đề xuất thêm ngân sách hay công cụ.",
+      "localPath": "/intelligence/playbooks/funnel-audit-60-minutes/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "playbook"
+      ],
+      "imageUrl": "/assets/images/covers/playbook.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/playbook.svg",
+      "featured": false,
+      "readMinutes": 6,
+      "status": "published"
+    },
+    {
+      "id": "people-first-content-system",
+      "type": "analysis",
+      "title": "Xây hệ thống nội dung đáng đọc, không phải kho bài SEO",
+      "summary": "Một website có nhiều bài chưa chắc có giá trị. Nội dung cần trả lời đúng vấn đề, có bằng chứng và dẫn người đọc đến một hành động hữu ích.",
+      "localPath": "/intelligence/analysis/people-first-content-system/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/marketing-strategy.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/marketing-strategy.svg",
+      "featured": false,
+      "readMinutes": 7,
+      "status": "published"
+    },
+    {
+      "id": "lead-response-operating-system",
+      "type": "analysis",
+      "title": "Thiết kế hệ thống phản hồi lead không phụ thuộc trí nhớ",
+      "summary": "Tốc độ chỉ là một phần. Một hệ thống tốt phải gán đúng người, dùng đúng thông tin, theo dõi được và không để lead biến mất sau lần liên hệ đầu.",
+      "localPath": "/intelligence/analysis/lead-response-operating-system/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "sales-crm"
+      ],
+      "imageUrl": "/assets/images/covers/lead-response.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/lead-response.svg",
+      "featured": false,
+      "readMinutes": 6,
+      "status": "published"
+    },
+    {
+      "id": "brand-trust-in-b2b",
+      "type": "briefing",
+      "title": "B2B không chỉ bán giải pháp. B2B bán mức độ tin cậy.",
+      "summary": "Khách hàng doanh nghiệp đánh giá năng lực qua bằng chứng, tính nhất quán, quy trình và cảm giác rủi ro khi hợp tác.",
+      "localPath": "/intelligence/briefings/brand-trust-in-b2b/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-03",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/marketing-strategy.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/marketing-strategy.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
+    {
+      "id": "ai-workflow-for-marketing-team",
+      "type": "briefing",
+      "title": "AI nên đi vào quy trình marketing ở đâu trước?",
+      "summary": "Không bắt đầu bằng việc mua thật nhiều công cụ. Hãy bắt đầu ở những điểm lặp lại, tốn thời gian và có dữ liệu đầu vào rõ ràng.",
+      "localPath": "/intelligence/briefings/ai-workflow-for-marketing-team/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-02",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/ai-data.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/ai-data.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
+    {
+      "id": "marketing-system-before-ad-spend",
+      "type": "briefing",
+      "title": "Vì sao tăng ngân sách quảng cáo không giải quyết được một hệ thống marketing yếu?",
+      "summary": "Quảng cáo có thể khuếch đại một hệ thống tốt, nhưng cũng khuếch đại rất nhanh những điểm yếu trong định vị, nội dung, landing page và đo lường.",
+      "localPath": "/intelligence/briefings/marketing-system-before-ad-spend/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-01",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/growth-system.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/growth-system.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
     {
       "id": "148d33ec138b24a5",
       "type": "external_news",

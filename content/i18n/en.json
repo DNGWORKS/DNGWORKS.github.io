@@ -1,0 +1,604 @@
+{
+  "code": "en",
+  "locale": "en_US",
+  "meta": {
+    "siteName": "DNGWORKS",
+    "siteTitle": "DNGWORKS — Growth architecture for businesses",
+    "defaultDescription": "DNGWORKS diagnoses the real growth bottleneck first, then designs the marketing, sales, data and AI system a business can actually operate and measure."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Solutions",
+    "tools": "Tools",
+    "intelligence": "DNG Intelligence",
+    "about": "About",
+    "contact": "Contact",
+    "sourcePolicy": "Source policy",
+    "portfolio": "Portfolio"
+  },
+  "ui": {
+    "skipToContent": "Skip to main content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "languageLabel": "Language",
+    "primaryCta": "Talk to DNGWORKS",
+    "readArticle": "Read article",
+    "readOriginal": "Read the original",
+    "loadMore": "Load more",
+    "loading": "Loading",
+    "retry": "Try again",
+    "search": "Search",
+    "searchPlaceholder": "Search by title, topic or source",
+    "clear": "Clear filters",
+    "all": "All",
+    "results": "results",
+    "noResults": "No stories match these filters.",
+    "noResultsHint": "Remove one filter or try a shorter term.",
+    "unknownDate": "Publication date unknown",
+    "updated": "Updated",
+    "published": "Published",
+    "synced": "Data synchronised at",
+    "staleNotice": "Sources could not be reached. This is the most recent valid snapshot.",
+    "source": "Source",
+    "sources": "Sources",
+    "takeaways": "Key takeaways",
+    "readMinutes": "min read",
+    "author": "Author",
+    "nextArticle": "Next article",
+    "relatedReading": "Related reading",
+    "copy": "Copy",
+    "copied": "Copied",
+    "backToTop": "Back to top",
+    "illustration": "Editorial illustration",
+    "required": "required",
+    "optional": "optional"
+  },
+  "home": {
+    "hero": {
+      "label": "Growth architecture",
+      "titleLine1": "Name the real problem.",
+      "titleLine2": "Then pick the way to grow.",
+      "lead": "Most businesses are not short of marketing activity. They are short of a system that connects positioning, content, advertising, sales and data into one line of decision-making.",
+      "ctaPrimary": "Explore solutions",
+      "ctaSecondary": "Talk to DNGWORKS",
+      "scrollHint": "Scroll to see the structure",
+      "stages": [
+        { "key": "diagnose", "label": "Diagnose", "note": "Find the actual bottleneck" },
+        { "key": "connect", "label": "Connect", "note": "Fit the parts into one system" },
+        { "key": "grow", "label": "Grow", "note": "Operate it and scale it" }
+      ],
+      "posterAlt": "DNGWORKS growth architecture: scattered glass plates aligning into one system around a spine"
+    },
+    "diagnose": {
+      "label": "Diagnosis",
+      "title": "Start with the bottleneck, not the tool.",
+      "lead": "A good-looking website, an ad campaign or an AI workflow is only worth something when it serves the actual business problem and leaves the company able to operate better.",
+      "items": [
+        {
+          "title": "Positioning is unclear",
+          "description": "Customers cannot say why they should choose you over the alternative. Every media cost after that pays for the ambiguity.",
+          "symptom": "Price is the only reason customers mention"
+        },
+        {
+          "title": "Marketing runs in pieces",
+          "description": "Content, advertising, the website, sales and data all run in parallel but never connect, so nobody sees the whole picture.",
+          "symptom": "Each channel reports its own number and they never reconcile"
+        },
+        {
+          "title": "Growth cannot be measured",
+          "description": "There is plenty of activity but no tracking, no dashboard and no decision standard, so optimisation runs on instinct.",
+          "symptom": "No answer to which spend produced revenue"
+        }
+      ]
+    },
+    "approach": {
+      "label": "Method",
+      "title": "Diagnose first. Design the system second.",
+      "lead": "I do not sell a fixed package before understanding the problem. Scope is built from real priorities, resources and risk.",
+      "steps": [
+        { "title": "Research", "description": "Market, customers, competitors and the data already on hand." },
+        { "title": "Diagnose", "description": "Identify the bottleneck instead of treating symptoms." },
+        { "title": "Architect", "description": "Design messaging, touchpoints, data and workflow." },
+        { "title": "Implement", "description": "Turn strategy into website, content, advertising, tracking and process." },
+        { "title": "Measure", "description": "Set standards, dashboards and an optimisation loop." }
+      ]
+    },
+    "services": {
+      "label": "Solutions",
+      "title": "Four capabilities, one growth architecture.",
+      "lead": "These capability groups are designed to interlock. A business can start with one, but the real value appears when they connect into a system.",
+      "viewAll": "See the solutions in detail"
+    },
+    "tools": {
+      "label": "Tools",
+      "title": "Run the numbers before you decide.",
+      "lead": "Every tool runs in your own browser on the numbers you type. Nothing is sent anywhere. Use them to test an assumption before committing a real budget.",
+      "viewAll": "Open the toolkit"
+    },
+    "intelligence": {
+      "label": "DNG Intelligence",
+      "title": "Industry news and analysis you can actually read.",
+      "lead": "Tracking AI, advertising, e-commerce and business markets — with original DNGWORKS analysis of how those shifts reach Vietnamese businesses.",
+      "viewAll": "Enter DNG Intelligence"
+    },
+    "cta": {
+      "title": "Working on a marketing problem that has not been solved properly yet?",
+      "lead": "Describe the context, the goal and what is not working. You will get a diagnostic point of view back, not a pre-written quote.",
+      "cta": "Send your project context",
+      "secondary": "Call directly"
+    }
+  },
+  "services": {
+    "hero": {
+      "label": "Solutions",
+      "title": "From strategy to implementation, with nothing broken in between.",
+      "lead": "I treat tools as part of a system: research, brand building, content production, distribution, measurement and automation."
+    },
+    "items": [
+      {
+        "slug": "ai-data-strategy",
+        "title": "AI & Data Strategy",
+        "flow": ["Signal", "Insight", "Decision"],
+        "problem": "Data sits in several places and nobody uses it to decide anything. Reports exist to be filed, not to change course.",
+        "diagnosis": "Before building a dashboard, you need to know which decisions the business actually makes, how often, and which number is missing to make them less of a guess.",
+        "methodology": "Define the data set that must exist, standardise how it is measured, build the reporting layer around decisions, then put AI on the repeatable steps: summarising, classifying and alerting.",
+        "deliverables": [
+          "Data map and shared metric definitions",
+          "GA4, GTM and pixel setup with data validation",
+          "Dashboards organised by decision, not by channel",
+          "AI workflows for research, synthesis and alerting"
+        ],
+        "tools": ["ChatGPT", "Gemini", "Claude", "GA4", "GTM", "n8n"]
+      },
+      {
+        "slug": "brand-positioning",
+        "title": "Brand & Positioning",
+        "flow": ["Meaning", "Position", "Memory"],
+        "problem": "Customers have no clear reason to choose you, so every conversation returns to price.",
+        "diagnosis": "Positioning is not a slogan. It answers who you serve, which problem you solve distinctly better, and what evidence proves it.",
+        "methodology": "Research customers and competitors, settle the insight and USP, build the message architecture, then package it into a visual system and sales assets usable day to day.",
+        "deliverables": [
+          "Brand and customer audit",
+          "Positioning, USP and message architecture",
+          "Visual direction and application guideline",
+          "Sales asset set and a 90-day content plan"
+        ],
+        "tools": ["Photoshop", "Canva", "CorelDRAW"]
+      },
+      {
+        "slug": "growth-marketing",
+        "title": "Growth Marketing",
+        "flow": ["Demand", "Conversion", "Retention"],
+        "problem": "Ad budget goes up and revenue does not follow, because the funnel leaks at steps nobody tracks.",
+        "diagnosis": "Advertising amplifies a system, including its weaknesses. Find the step that loses the most people before spending more.",
+        "methodology": "Build landing pages and the conversion flow, set up tracking you can trust, run campaigns as testable hypotheses, then optimise on a fixed cycle.",
+        "deliverables": [
+          "Landing pages and conversion flow",
+          "Meta Ads and Google Ads campaign structure",
+          "An experiment system with evaluation standards",
+          "Growth dashboard and optimisation cycle"
+        ],
+        "tools": ["Meta Ads", "Google Ads", "SEO", "WordPress"]
+      },
+      {
+        "slug": "marketing-operations",
+        "title": "Marketing Operations",
+        "flow": ["System", "Automation", "Scale"],
+        "problem": "Everything depends on a few people remembering. When they are away, quality drops.",
+        "diagnosis": "Weak operations is rarely a lack of effort. It is the absence of process that can be written down, handed over and checked.",
+        "methodology": "Standardise process and work states, build a management dashboard, automate the repeatable steps, then train and hand over to the internal team.",
+        "deliverables": [
+          "Marketing process and CRM or lead workflow",
+          "Response SLA and handover standard between marketing and sales",
+          "Automation of repeatable tasks with n8n and scripts",
+          "Management dashboard, training and team handover"
+        ],
+        "tools": ["n8n", "CRM", "Google Workspace", "Looker Studio"]
+      }
+    ],
+    "capability": {
+      "label": "Technical capability",
+      "title": "Tools are part of the system, never the goal.",
+      "groups": [
+        {
+          "title": "Research and strategy",
+          "tools": ["ChatGPT", "Gemini", "Claude"],
+          "description": "Market research, insight discovery, strategy and message development, knowledge workflow."
+        },
+        {
+          "title": "Brand and design system",
+          "tools": ["Photoshop", "Canva", "CorelDRAW"],
+          "description": "Identity, key visuals, sales assets and a consistent image system."
+        },
+        {
+          "title": "Video and storytelling",
+          "tools": ["CapCut", "Premiere Pro", "DaVinci Resolve"],
+          "description": "Scripting, shooting, editing, colour and storytelling for social, web and advertising."
+        },
+        {
+          "title": "Growth and measurement",
+          "tools": ["GA4", "GTM", "Meta Ads", "Google Ads", "SEO", "WordPress", "n8n"],
+          "description": "Tracking, advertising, dashboards and automation so marketing can be managed."
+        }
+      ]
+    },
+    "engagement": {
+      "label": "Reference scope",
+      "title": "Pricing follows diagnosis. It does not precede the problem.",
+      "lead": "Cost depends on complexity, how ready the business is, and the scope that needs to be built. The three structures below are reference points for a conversation, not a fixed quote.",
+      "packages": [
+        {
+          "title": "Brand Foundation",
+          "note": "For a business that needs to clarify positioning and build the brand base.",
+          "items": [
+            "Brand and customer audit",
+            "Positioning, messaging and brand architecture",
+            "Visual direction and application guideline",
+            "90-day content plan"
+          ]
+        },
+        {
+          "title": "Growth Campaign",
+          "note": "For a business with foundations in place that needs measurable demand.",
+          "items": [
+            "Landing page and conversion flow",
+            "GA4, GTM and pixel tracking",
+            "Meta Ads and Google Ads",
+            "Dashboard and optimisation cycle"
+          ]
+        },
+        {
+          "title": "Marketing System",
+          "note": "For a business that needs its whole marketing operation standardised.",
+          "items": [
+            "Strategy and content system",
+            "Website, tracking, CRM and lead workflow",
+            "Management dashboard",
+            "Training and team handover"
+          ]
+        }
+      ],
+      "processTitle": "From brief to proposal",
+      "steps": [
+        { "title": "Take the context", "description": "Goals, data, resources and the problems in play." },
+        { "title": "Diagnose", "description": "Identify the bottleneck and what comes first." },
+        { "title": "Design the scope", "description": "Pick the right work, deliverables and acceptance standard." },
+        { "title": "Send the proposal", "description": "Timeline, cost, ownership and the implementation plan." }
+      ]
+    }
+  },
+  "tools": {
+    "hero": {
+      "label": "Tools",
+      "title": "Six calculations before you spend.",
+      "lead": "Every tool here runs in your browser on the numbers you type. No data leaves the page and no figure is pre-filled."
+    },
+    "privacyNote": "What you type stays in this browser. Reloading the page clears it.",
+    "growthCheck": {
+      "title": "Growth Check",
+      "description": "Twelve questions that show where the four growth pillars are strong and where they are weak. The result points at the priority bottleneck; it is not a score or a ranking.",
+      "scaleHint": "1 means nothing in place, 5 means standardised and measured",
+      "submit": "See the diagnosis",
+      "reset": "Start over",
+      "resultTitle": "Diagnosis",
+      "weakest": "Handle this first",
+      "strongest": "Currently an advantage",
+      "recommend": "Suggested next step",
+      "dontYet": "Not yet",
+      "pillars": [
+        {
+          "key": "positioning",
+          "title": "Positioning and messaging",
+          "questions": [
+            "Customers can describe how you differ from competitors",
+            "The sales message is the same on every channel",
+            "There is concrete evidence behind the brand promise"
+          ],
+          "recommend": "Clarify positioning and message architecture before increasing media spend.",
+          "dontYet": "Do not open another advertising channel."
+        },
+        {
+          "key": "demand",
+          "title": "Demand generation",
+          "questions": [
+            "You know which channel brings real customers",
+            "Content exists for each step of the buying decision",
+            "Cost to acquire a customer is clearly calculated"
+          ],
+          "recommend": "Focus on one primary channel and build content for the whole journey before expanding.",
+          "dontYet": "Do not run several campaigns in parallel."
+        },
+        {
+          "key": "conversion",
+          "title": "Conversion and sales",
+          "questions": [
+            "Every lead has an owner and a response deadline",
+            "Follow-up runs on a rhythm instead of one call",
+            "Reasons for losing a deal are recorded"
+          ],
+          "recommend": "Standardise lead intake, response SLA and the follow-up sequence.",
+          "dontYet": "Do not increase lead volume while current leads are dropping."
+        },
+        {
+          "key": "measurement",
+          "title": "Measurement and operations",
+          "questions": [
+            "Website and advertising tracking is validated",
+            "A dashboard connects lead source to revenue",
+            "Process is written down and can be handed over"
+          ],
+          "recommend": "Build the measurement layer that links lead source to revenue before optimising deeper.",
+          "dontYet": "Do not conclude which channel performs better."
+        }
+      ]
+    },
+    "calculators": [
+      {
+        "key": "roas",
+        "title": "ROAS",
+        "description": "Revenue returned per unit of ad spend.",
+        "fields": [
+          { "key": "spend", "label": "Ad spend", "unit": "₫" },
+          { "key": "revenue", "label": "Revenue from ads", "unit": "₫" }
+        ],
+        "resultLabel": "ROAS",
+        "note": "ROAS is before cost of goods. Read it next to break-even ROAS to know whether the number is enough."
+      },
+      {
+        "key": "breakeven",
+        "title": "Break-even ROAS",
+        "description": "The minimum ROAS that avoids a loss, derived from gross margin.",
+        "fields": [
+          { "key": "margin", "label": "Gross margin", "unit": "%" }
+        ],
+        "resultLabel": "Break-even ROAS",
+        "note": "Below this line, every unit of ad spend is taking profit away."
+      },
+      {
+        "key": "cac",
+        "title": "CAC",
+        "description": "Cost to acquire one new customer.",
+        "fields": [
+          { "key": "cost", "label": "Total marketing and sales cost", "unit": "₫" },
+          { "key": "customers", "label": "New customers", "unit": "customers" }
+        ],
+        "resultLabel": "CAC",
+        "note": "Include people and tooling cost, not only media spend."
+      },
+      {
+        "key": "ltv",
+        "title": "LTV",
+        "description": "What a customer is worth across the time they stay.",
+        "fields": [
+          { "key": "aov", "label": "Average order value", "unit": "₫" },
+          { "key": "frequency", "label": "Purchases per year", "unit": "times" },
+          { "key": "lifespan", "label": "Years retained", "unit": "years" }
+        ],
+        "resultLabel": "LTV",
+        "note": "An LTV to CAC ratio under 3 usually signals the model is not sustainable yet."
+      },
+      {
+        "key": "ltvcac",
+        "title": "LTV / CAC ratio",
+        "description": "The relationship between customer value and what it cost to win them.",
+        "fields": [
+          { "key": "ltv", "label": "LTV", "unit": "₫" },
+          { "key": "cac", "label": "CAC", "unit": "₫" }
+        ],
+        "resultLabel": "LTV / CAC",
+        "note": "Under 1 loses money per customer. Over 5 usually means growth is being left on the table."
+      }
+    ],
+    "utm": {
+      "title": "UTM builder",
+      "description": "Build links with consistent UTM parameters so GA4 attributes the source correctly.",
+      "fields": [
+        { "key": "base", "label": "Destination URL", "placeholder": "https://dngworks.github.io/services/" },
+        { "key": "source", "label": "utm_source", "placeholder": "facebook" },
+        { "key": "medium", "label": "utm_medium", "placeholder": "cpc" },
+        { "key": "campaign", "label": "utm_campaign", "placeholder": "growth-q4" },
+        { "key": "content", "label": "utm_content", "placeholder": "video-a" }
+      ],
+      "resultLabel": "Tagged link",
+      "build": "Build link",
+      "note": "Use lowercase and hyphens everywhere. GA4 treats values as case-sensitive."
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "About",
+      "title": "Marketing does not start with advertising.",
+      "lead": "It starts with the product, the experience, trust, and the ability to turn data into better decisions."
+    },
+    "body": [
+      "DNGWORKS is the consulting practice of Dũng Nguyễn, working from Đà Nẵng with small and medium businesses in Vietnam. Most projects begin at the same place: the company has done plenty, but nobody can say which part is producing revenue.",
+      "The method is diagnosis before proposal. In practice the first sessions go into reading the data that already exists, listening to the sales team explain why deals were lost, and following the real customer journey rather than a funnel diagram on paper.",
+      "After diagnosis the work turns to system design: positioning and messaging, content and touchpoints, the conversion flow, the data layer, then automation of whatever repeats. A project is not finished when files are handed over. It is finished when the internal team can run the system without me."
+    ],
+    "principles": {
+      "title": "Working principles",
+      "items": [
+        {
+          "title": "Diagnose before quoting",
+          "description": "The right scope only appears after the problem is understood. Quoting before diagnosis sells a solution to an unknown problem."
+        },
+        {
+          "title": "Every number traces to a source",
+          "description": "Any metric in a report has to say where it came from, how it was measured and where the error sits. A number you cannot trace is not a number you decide with."
+        },
+        {
+          "title": "Hand over so the business can run it",
+          "description": "A system that depends on the person who built it is unfinished. Process, documentation and training are in scope, not extras."
+        }
+      ]
+    },
+    "factsTitle": "Details",
+    "facts": [
+      { "label": "Principal", "value": "Dũng Nguyễn" },
+      { "label": "Based in", "value": "Đà Nẵng, Vietnam" },
+      { "label": "Practice areas", "value": "Brand strategy, growth marketing, marketing operations, data and AI" },
+      { "label": "Working languages", "value": "Vietnamese, English" }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "label": "Contact",
+      "title": "Let's talk about the real problem.",
+      "lead": "You do not need a perfect brief. Describe the context, the goal, what is not working and when you want it done."
+    },
+    "form": {
+      "name": "Full name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone or Zalo",
+      "need": "Primary need",
+      "budget": "Expected budget",
+      "timeline": "Preferred timing",
+      "problem": "The problem to solve",
+      "problemHint": "Context, what has been tried, and the result you expect.",
+      "submit": "Send",
+      "sending": "Sending",
+      "select": "Not decided",
+      "needOptions": [
+        "Positioning and brand",
+        "Demand generation and advertising",
+        "Conversion and sales",
+        "Data, measurement and AI",
+        "Standardising marketing operations"
+      ],
+      "budgetOptions": [
+        "Under 20 million VND",
+        "20 to 50 million VND",
+        "50 to 150 million VND",
+        "Over 150 million VND"
+      ],
+      "timelineOptions": [
+        "This month",
+        "One to three months",
+        "Exploring for now"
+      ]
+    },
+    "states": {
+      "successTitle": "Received",
+      "success": "You will get a reply within one to two working days.",
+      "errorTitle": "Not sent",
+      "errorNetwork": "The form endpoint could not be reached. Send it straight to the email or Zalo below instead.",
+      "errorNoEndpoint": "This form is not connected to a destination yet. Use the email or Zalo below to send it now.",
+      "errorValidation": "Check the marked fields.",
+      "invalidEmail": "That email address is not valid.",
+      "requiredField": "This field is needed."
+    },
+    "directTitle": "Or reach out directly",
+    "channels": {
+      "email": "Email",
+      "phone": "Phone",
+      "zalo": "Zalo",
+      "location": "Location"
+    }
+  },
+  "intelligence": {
+    "hero": {
+      "label": "DNG Intelligence",
+      "title": "Industry news, edited briefings and original analysis.",
+      "lead": "Tracking AI, advertising, e-commerce and business markets. Third-party stories always link back to the publisher; anything DNGWORKS writes is read in full here."
+    },
+    "sections": {
+      "lead": "Top stories",
+      "latest": "Just in",
+      "aiPlatforms": "AI and platforms",
+      "advertising": "Advertising and performance",
+      "ecommerce": "E-commerce",
+      "businessMarket": "Business and markets",
+      "briefings": "DNGWORKS briefings",
+      "analysis": "Analysis and playbooks",
+      "browse": "Filter by topic"
+    },
+    "types": {
+      "external_news": "Industry news",
+      "briefing": "DNG briefing",
+      "analysis": "Analysis",
+      "playbook": "Playbook"
+    },
+    "categories": {
+      "ai-platforms": "AI and platforms",
+      "advertising": "Advertising",
+      "ecommerce": "E-commerce",
+      "business-market": "Business and markets",
+      "search-seo": "Search and SEO",
+      "revenue-system": "Revenue system",
+      "sales-crm": "Sales and CRM",
+      "ai-data": "AI and data",
+      "marketing-strategy": "Marketing strategy",
+      "playbook": "Playbook"
+    },
+    "externalNotice": "This is a third-party story. DNGWORKS shows the headline, the source and a short excerpt; the rest is read at the original publisher.",
+    "ownNotice": "Written and fact-checked by DNGWORKS.",
+    "sourcePolicy": {
+      "title": "Source policy",
+      "lead": "How DNG Intelligence selects stories, handles rights and displays time.",
+      "sections": [
+        {
+          "title": "Three content types, never mixed",
+          "body": "Industry news is third-party content: the original headline, the source, the publication time and a short excerpt, with a link to the original. A DNG briefing is a short piece written by DNGWORKS from several cited sources. Analysis and playbooks are longer original work with method and examples. The three are always labelled separately and never presented as one another."
+        },
+        {
+          "title": "No full-text copying",
+          "body": "DNGWORKS does not store, re-translate or republish anyone else's article in full. Excerpts are limited to what a reader needs in order to decide whether to open the original."
+        },
+        {
+          "title": "Timestamps say what they are",
+          "body": "The publication time of the original and the time the system fetched the data are two different numbers and are displayed separately. When a source provides no publication time, the page says the date is unknown rather than guessing."
+        },
+        {
+          "title": "Images",
+          "body": "Images are only used where the source permits reuse. Where no usable image exists, the page uses DNGWORKS editorial artwork and labels it as an illustration rather than a photograph of the event."
+        },
+        {
+          "title": "Filtered on relevance, not on traffic",
+          "body": "Stories are scored on relevance to business, marketing, AI, technology and e-commerce. Entertainment, sport and other off-industry topics are excluded even when a source is pushing them hard."
+        },
+        {
+          "title": "When a source fails",
+          "body": "The system keeps the most recent valid snapshot and states when it last synchronised, instead of showing an empty list or inventing replacement stories."
+        }
+      ]
+    }
+  },
+  "article": {
+    "backToIndex": "Back to DNG Intelligence",
+    "inThisArticle": "In this article",
+    "evidenceNote": "Evidence note",
+    "shareTitle": "Share this",
+    "copyLink": "Copy link"
+  },
+  "portfolio": {
+    "hero": {
+      "label": "Portfolio",
+      "title": "Evidence of implementation.",
+      "lead": "Five different business situations, presented as problem, role, approach and the actual assets produced."
+    },
+    "labels": {
+      "industry": "Industry",
+      "year": "Year",
+      "role": "Role",
+      "context": "Context",
+      "problem": "Problem",
+      "approach": "Approach",
+      "deliverables": "Delivered",
+      "gallery": "Project images"
+    },
+    "notListed": "This page is not in the navigation and not in the sitemap. The link is shared directly."
+  },
+  "notFound": {
+    "title": "This page could not be found.",
+    "lead": "The address may have changed. These are the places people usually want.",
+    "home": "Back to home"
+  },
+  "footer": {
+    "tagline": "Diagnose the bottleneck, design the growth system.",
+    "description": "Brand strategy, digital marketing, data and AI for small and medium businesses.",
+    "navTitle": "Pages",
+    "contactTitle": "Contact",
+    "rights": "Dũng Nguyễn. All rights reserved."
+  }
+}

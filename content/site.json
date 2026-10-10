@@ -1,44 +1,151 @@
 {
-  "vi": {
-    "home": {
-      "heroTitle": "Chiến lược rõ ràng.<br><span class=\"accent\">Tăng trưởng có hệ thống.</span>",
-      "heroLead": "Tôi kết hợp chiến lược thương hiệu, digital marketing, dữ liệu và AI để giúp doanh nghiệp biến các hoạt động rời rạc thành một hệ thống có thể đo lường, vận hành và mở rộng.",
-      "aboutTitle": "Marketing không bắt đầu từ quảng cáo.",
-      "aboutText": "Nó bắt đầu từ sản phẩm, trải nghiệm, niềm tin và khả năng doanh nghiệp biến dữ liệu thành quyết định tốt hơn."
-    },
-    "contact": {
-      "email": "nguyendhungdung@gmail.com",
-      "phone": "",
-      "zalo": "https://zaloapp.com/qr/p/1ute4cg6xoom2"
-    }
+  "brand": {
+    "name": "DNGWORKS",
+    "person": "Dũng Nguyễn",
+    "concept": "Growth Architecture",
+    "foundedYear": 2026
   },
-  "en": {
-    "home": {
-      "heroTitle": "Clear strategy.<br><span class=\"accent\">Scalable growth systems.</span>",
-      "heroLead": "I combine brand strategy, digital marketing, data and AI to turn scattered activities into a measurable, operable and scalable growth system.",
-      "aboutTitle": "Marketing does not start with advertising.",
-      "aboutText": "It starts with the product, the experience, trust and the ability to turn data into better decisions."
-    },
-    "contact": {
-      "email": "nguyendhungdung@gmail.com",
-      "phone": "",
-      "zalo": "https://zaloapp.com/qr/p/1ute4cg6xoom2"
-    }
+  "urls": {
+    "production": "https://dngworks.github.io",
+    "basePath": ""
   },
-  "zh": {
-    "home": {
-      "heroTitle": "清晰的战略。<br><span class=\"accent\">可扩展的增长系统。</span>",
-      "heroLead": "我结合品牌战略、数字营销、数据与人工智能，把分散的营销活动转化为可衡量、可运营、可扩展的增长系统。",
-      "aboutTitle": "营销并不是从广告开始。",
-      "aboutText": "它始于产品、体验、信任，以及企业把数据转化为更好决策的能力。"
+  "contact": {
+    "email": "nguyendhungdung@gmail.com",
+    "phone": "0377348008",
+    "phoneDisplay": "0377 348 008",
+    "zalo": "https://zalo.me/0377348008",
+    "zaloQr": "/assets/images/ui/zalo-qr.webp",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "countryCode": "VN"
     },
-    "contact": {
-      "email": "nguyendhungdung@gmail.com",
-      "phone": "",
-      "zalo": "https://zaloapp.com/qr/p/1ute4cg6xoom2"
-    }
+    "formEndpoint": ""
   },
-  "settings": {
-    "showHomePortfolio": false
+  "languages": [
+    {
+      "code": "vi",
+      "label": "VI",
+      "name": "Tiếng Việt",
+      "locale": "vi_VN",
+      "prefix": "",
+      "fontStack": "vn"
+    },
+    {
+      "code": "en",
+      "label": "EN",
+      "name": "English",
+      "locale": "en_US",
+      "prefix": "/en",
+      "fontStack": "vn"
+    },
+    {
+      "code": "zh",
+      "label": "ZH",
+      "name": "简体中文",
+      "locale": "zh_CN",
+      "prefix": "/zh",
+      "fontStack": "sc"
+    }
+  ],
+  "defaultLanguage": "vi",
+  "navigation": [
+    {
+      "key": "services",
+      "path": "/services/"
+    },
+    {
+      "key": "tools",
+      "path": "/tools/"
+    },
+    {
+      "key": "intelligence",
+      "path": "/intelligence/"
+    },
+    {
+      "key": "about",
+      "path": "/about/"
+    }
+  ],
+  "footerNavigation": [
+    {
+      "key": "services",
+      "path": "/services/"
+    },
+    {
+      "key": "tools",
+      "path": "/tools/"
+    },
+    {
+      "key": "intelligence",
+      "path": "/intelligence/"
+    },
+    {
+      "key": "about",
+      "path": "/about/"
+    },
+    {
+      "key": "contact",
+      "path": "/contact/"
+    },
+    {
+      "key": "sourcePolicy",
+      "path": "/intelligence/source-policy/"
+    }
+  ],
+  "visibility": {
+    "portfolioInNavigation": false,
+    "portfolioInSitemap": false,
+    "portfolioIndexable": false,
+    "showUnverifiedKpis": false
+  },
+  "newsroom": {
+    "pageSize": 24,
+    "leadCount": 3,
+    "staleAfterHours": 12,
+    "categories": [
+      {
+        "slug": "ai-platforms",
+        "accent": "cobalt"
+      },
+      {
+        "slug": "advertising",
+        "accent": "coral"
+      },
+      {
+        "slug": "ecommerce",
+        "accent": "mint"
+      },
+      {
+        "slug": "business-market",
+        "accent": "ink"
+      },
+      {
+        "slug": "search-seo",
+        "accent": "cobalt"
+      }
+    ],
+    "articleCategories": [
+      {
+        "slug": "revenue-system"
+      },
+      {
+        "slug": "sales-crm"
+      },
+      {
+        "slug": "ai-data"
+      },
+      {
+        "slug": "marketing-strategy"
+      },
+      {
+        "slug": "playbook"
+      }
+    ]
+  },
+  "three": {
+    "posterDesktop": "/assets/images/hero/growth-architecture-poster-1800.webp",
+    "posterDesktopSmall": "/assets/images/hero/growth-architecture-poster-1200.webp",
+    "posterMobile": "/assets/images/hero/growth-architecture-poster-mobile-768.webp"
   }
 }

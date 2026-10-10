@@ -1,0 +1,145 @@
+{
+  "note": "Register of feeds the newsroom may ingest. `verified` means the endpoint shape and terms were checked by a person; an unverified entry is never ingested. Image policy is recorded per source, not assumed.",
+  "imagePolicyValues": {
+    "feed_thumbnail": "The publisher's own feed supplies a thumbnail intended for syndicated display alongside a link back. Rendered with attribution, hotlinked, never stored.",
+    "link_only": "No image is used. The card falls back to DNGWORKS editorial artwork, labelled as an illustration.",
+    "licensed": "A written licence covers reuse."
+  },
+  "sources": [
+    {
+      "id": "bbc-business",
+      "publisher": "BBC Business",
+      "domain": "bbc.co.uk",
+      "feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "categories": [
+        "business-market",
+        "ai-platforms"
+      ],
+      "language": "en",
+      "trustTier": 1,
+      "imagePolicy": "feed_thumbnail",
+      "imagePolicyNote": "The feed publishes media:thumbnail for syndicated display. Used hotlinked, credited, alongside a link back. Confirm against current BBC syndication terms before expanding usage.",
+      "verified": true,
+      "verifiedOn": "2026-10-09"
+    },
+    {
+      "id": "bbc-technology",
+      "publisher": "BBC Technology",
+      "domain": "bbc.com",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "categories": [
+        "ai-platforms",
+        "business-market"
+      ],
+      "language": "en",
+      "trustTier": 1,
+      "imagePolicy": "feed_thumbnail",
+      "imagePolicyNote": "As above.",
+      "verified": true,
+      "verifiedOn": "2026-10-09"
+    },
+    {
+      "id": "nvidia-blog",
+      "publisher": "NVIDIA",
+      "domain": "nvidia.com",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "categories": [
+        "ai-platforms"
+      ],
+      "language": "en",
+      "trustTier": 1,
+      "imagePolicy": "link_only",
+      "imagePolicyNote": "First-party corporate blog. No reuse permission established, so cards use DNGWORKS category artwork.",
+      "verified": true,
+      "verifiedOn": "2026-10-09"
+    },
+    {
+      "id": "openai-blog",
+      "publisher": "OpenAI",
+      "domain": "openai.com",
+      "feed": "",
+      "categories": [
+        "ai-platforms"
+      ],
+      "language": "en",
+      "trustTier": 1,
+      "imagePolicy": "link_only",
+      "imagePolicyNote": "First-party newsroom. Feed path unconfirmed; records currently come from an export rather than a live fetch.",
+      "verified": false
+    },
+    {
+      "id": "vnexpress-kinhdoanh",
+      "publisher": "VnExpress",
+      "domain": "vnexpress.net",
+      "feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "categories": [
+        "business-market",
+        "ecommerce"
+      ],
+      "language": "vi",
+      "trustTier": 1,
+      "imagePolicy": "feed_thumbnail",
+      "verified": true,
+      "verifiedOn": "2026-10-09"
+    },
+    {
+      "id": "vnexpress-sohoa",
+      "publisher": "VnExpress",
+      "domain": "vnexpress.net",
+      "feed": "https://vnexpress.net/rss/so-hoa.rss",
+      "categories": [
+        "ai-platforms",
+        "business-market"
+      ],
+      "language": "vi",
+      "trustTier": 1,
+      "imagePolicy": "feed_thumbnail",
+      "verified": true,
+      "verifiedOn": "2026-10-09"
+    },
+    {
+      "id": "google-search-central",
+      "publisher": "Google Search Central",
+      "domain": "developers.google.com",
+      "feed": "https://developers.google.com/search/blog/feed.xml",
+      "categories": [
+        "search-seo",
+        "ai-platforms"
+      ],
+      "language": "en",
+      "trustTier": 1,
+      "imagePolicy": "link_only",
+      "verified": false,
+      "note": "First-party documentation blog. Confirm the feed path before enabling."
+    },
+    {
+      "id": "tiktok-business",
+      "publisher": "TikTok for Business",
+      "domain": "ads.tiktok.com",
+      "feed": "",
+      "categories": [
+        "advertising",
+        "ecommerce"
+      ],
+      "language": "en",
+      "trustTier": 1,
+      "imagePolicy": "link_only",
+      "verified": false,
+      "note": "No public feed found at audit time. Needs a adapter or manual curation."
+    },
+    {
+      "id": "meta-business-news",
+      "publisher": "Meta for Business",
+      "domain": "facebook.com",
+      "feed": "",
+      "categories": [
+        "advertising"
+      ],
+      "language": "en",
+      "trustTier": 1,
+      "imagePolicy": "link_only",
+      "verified": false,
+      "note": "No public feed found at audit time. Needs an adapter or manual curation."
+    }
+  ]
+}

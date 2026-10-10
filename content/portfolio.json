@@ -1,0 +1,309 @@
+[
+  {
+    "slug": "adeva",
+    "year": "2023–2024",
+    "order": 1,
+    "images": [
+      "/assets/images/portfolio/adeva-01.webp",
+      "/assets/images/portfolio/adeva-04.webp",
+      "/assets/images/portfolio/adeva-05.webp"
+    ],
+    "i18n": {
+      "vi": {
+        "title": "ADEVA Việt Nam",
+        "industry": "Phân phối dược mỹ phẩm",
+        "context": "Doanh nghiệp chưa có bộ phận truyền thông hoàn chỉnh nhưng cần xây nền tảng digital, thương mại và đo lường.",
+        "role": "Digital foundation · E-commerce · Performance marketing · Team setup",
+        "problem": "Thiếu website và nền tảng đo lường đồng bộ; nội dung, quảng cáo và hoạt động thương mại điện tử chưa được quản trị như một hệ thống.",
+        "approach": "Audit thương hiệu và kênh bán, thiết lập tài sản số, tracking, quảng cáo, dashboard và quy trình để hình thành năng lực marketing nội bộ.",
+        "deliverables": [
+          "Audit hệ thống hiện tại",
+          "Website và landing page",
+          "Tracking chuyển đổi",
+          "Meta Ads và Google Ads",
+          "Dashboard hiệu suất",
+          "Tuyển dụng và đào tạo"
+        ]
+      },
+      "en": {
+        "title": "ADEVA Vietnam",
+        "industry": "Cosmeceutical Distribution",
+        "context": "The company did not yet have a complete communications team but needed a stronger digital, commerce and measurement foundation.",
+        "role": "Digital foundation · E-commerce · Performance marketing · Team setup",
+        "problem": "Website, measurement, content, media and e-commerce activities were not managed as one connected system.",
+        "approach": "I audited the brand and sales channels, set up digital assets, tracking, advertising and dashboards, and helped build internal marketing capability.",
+        "deliverables": [
+          "Current-state audit",
+          "Website and landing pages",
+          "Conversion tracking",
+          "Meta Ads and Google Ads",
+          "Performance dashboard",
+          "Recruitment and training"
+        ]
+      },
+      "zh": {
+        "title": "ADEVA 越南",
+        "industry": "功效护肤品分销",
+        "context": "企业尚未拥有完整的传播团队，但需要建立更强的数字、商业和衡量基础。",
+        "role": "数字基础 · 电商 · 效果营销 · 团队搭建",
+        "problem": "网站、衡量、内容、广告和电商没有作为一个连接的系统进行管理。",
+        "approach": "审计品牌与销售渠道，建立数字资产、追踪、广告和仪表板，并帮助企业形成内部营销能力。",
+        "deliverables": [
+          "现状审计",
+          "网站与落地页",
+          "转化追踪",
+          "Meta Ads 与 Google Ads",
+          "绩效仪表板",
+          "招聘与培训"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "koi-service",
+    "year": "2024",
+    "order": 2,
+    "images": [
+      "/assets/images/portfolio/koi-service-01.webp",
+      "/assets/images/portfolio/koi-service-03.webp",
+      "/assets/images/portfolio/koi-service-04.webp",
+      "/assets/images/portfolio/koi-service-05.webp"
+    ],
+    "i18n": {
+      "vi": {
+        "title": "Koi Service",
+        "industry": "Koi Nhật & thi công hồ Koi",
+        "context": "Website và fanpage chưa khai thác hiệu quả nhu cầu tìm kiếm cá Koi Nhật, thiết kế hồ Koi và dịch vụ chăm sóc.",
+        "role": "Branding · Content production · Lead generation · Sales operations",
+        "problem": "Thương hiệu có sản phẩm và công trình thật nhưng thiếu hệ thống nội dung, quảng cáo và quản lý lead để biến uy tín chuyên môn thành nhu cầu.",
+        "approach": "Xây nhận diện, sản xuất hình ảnh và video tại trại/công trình, tổ chức nội dung theo ý định tìm kiếm và thiết lập quy trình tiếp nhận, tư vấn, chăm sóc lead.",
+        "deliverables": [
+          "Branding cho Koi Service Đà Nẵng",
+          "Hình ảnh và video thực tế",
+          "Quảng cáo tìm kiếm khách hàng",
+          "Nội dung cho cá Koi và hồ Koi",
+          "Quy trình quản lý lead",
+          "Chuẩn hóa tư vấn và chăm sóc"
+        ]
+      },
+      "en": {
+        "title": "Koi Service",
+        "industry": "Japanese Koi & Pond Construction",
+        "context": "The website and social channels were not capturing enough demand for Japanese Koi, pond design and maintenance services.",
+        "role": "Branding · Content production · Lead generation · Sales operations",
+        "problem": "The company had real products and completed projects but lacked a content, advertising and lead-management system to translate expertise into demand.",
+        "approach": "I developed the brand direction, produced on-site visual content, structured messaging around search intent and designed a lead intake and follow-up process.",
+        "deliverables": [
+          "Koi Service brand direction",
+          "On-site photo and video",
+          "Demand generation campaigns",
+          "Koi and pond content system",
+          "Lead management workflow",
+          "Consultation and follow-up standards"
+        ]
+      },
+      "zh": {
+        "title": "Koi Service",
+        "industry": "日本锦鲤与锦鲤池施工",
+        "context": "网站和社交渠道没有充分获取日本锦鲤、锦鲤池设计和维护服务的需求。",
+        "role": "品牌 · 内容制作 · 线索获取 · 销售运营",
+        "problem": "企业拥有真实产品和项目，但缺少把专业能力转化为需求的内容、广告和线索管理体系。",
+        "approach": "建立品牌方向，制作现场视觉内容，围绕搜索意图组织信息，并设计线索接收、咨询和跟进流程。",
+        "deliverables": [
+          "Koi Service 品牌方向",
+          "现场图片与视频",
+          "获客广告",
+          "锦鲤与鱼池内容体系",
+          "线索管理流程",
+          "咨询与跟进标准"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "phe-ly",
+    "year": "2024",
+    "order": 3,
+    "images": [
+      "/assets/images/portfolio/phe-ly-01.webp",
+      "/assets/images/portfolio/phe-ly-02.webp",
+      "/assets/images/portfolio/phe-ly-03.jpg",
+      "/assets/images/portfolio/phe-ly-04.jpg",
+      "/assets/images/portfolio/phe-ly-05.webp"
+    ],
+    "i18n": {
+      "vi": {
+        "title": "Phê Ly Coffee",
+        "industry": "F&B · Coffee shop",
+        "context": "Thương hiệu được xây dựng từ con số không, cần một câu chuyện, trải nghiệm và hệ thống nội dung đủ khác biệt để tạo kết nối.",
+        "role": "Brand strategy · Storytelling · Social content · Customer experience",
+        "problem": "Một quán cà phê nhỏ khó cạnh tranh bằng quy mô; cần tạo lý do cảm xúc và trải nghiệm để khách hàng ghi nhớ và quay lại.",
+        "approach": "Định hình thương hiệu quanh câu chuyện và sự kết nối, xây giọng nói, phong cách hình ảnh, nội dung social và trải nghiệm tại điểm bán.",
+        "deliverables": [
+          "Chiến lược thương hiệu từ số 0",
+          "Định vị dựa trên trải nghiệm",
+          "Storytelling marketing",
+          "Hệ thống nội dung social",
+          "Hình ảnh và video",
+          "Trải nghiệm tại điểm bán"
+        ]
+      },
+      "en": {
+        "title": "Phe Ly Coffee",
+        "industry": "F&B · Coffee Shop",
+        "context": "The brand was built from zero and needed a distinctive story, experience and content system that could create emotional connection.",
+        "role": "Brand strategy · Storytelling · Social content · Customer experience",
+        "problem": "A small coffee shop cannot win through scale alone; it needs an emotional and experiential reason for customers to remember and return.",
+        "approach": "I shaped the brand around stories and connection, then developed its voice, visual direction, social content and in-store experience.",
+        "deliverables": [
+          "Zero-to-one brand strategy",
+          "Experience-led positioning",
+          "Storytelling marketing",
+          "Social content system",
+          "Photo and video direction",
+          "In-store experience"
+        ]
+      },
+      "zh": {
+        "title": "Phê Ly Coffee",
+        "industry": "餐饮 · 咖啡店",
+        "context": "品牌从零开始，需要独特的故事、体验和内容体系来建立情感连接。",
+        "role": "品牌战略 · 故事营销 · 社交内容 · 客户体验",
+        "problem": "小型咖啡店无法仅靠规模竞争，需要创造让顾客记住并再次光顾的情感与体验理由。",
+        "approach": "围绕故事与连接塑造品牌，并建立品牌语气、视觉方向、社交内容和门店体验。",
+        "deliverables": [
+          "从零到一的品牌战略",
+          "体验驱动定位",
+          "故事营销",
+          "社交内容体系",
+          "图片与视频方向",
+          "门店体验"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "phong-cach-moc",
+    "year": "2024",
+    "order": 4,
+    "images": [
+      "/assets/images/portfolio/phong-cach-moc-01.webp",
+      "/assets/images/portfolio/phong-cach-moc-02.webp",
+      "/assets/images/portfolio/phong-cach-moc-03.webp",
+      "/assets/images/portfolio/phong-cach-moc-04.webp",
+      "/assets/images/portfolio/phong-cach-moc-05.webp",
+      "/assets/images/portfolio/phong-cach-moc-06.webp"
+    ],
+    "i18n": {
+      "vi": {
+        "title": "Phong Cách Mộc",
+        "industry": "Thiết kế & xây dựng",
+        "context": "Doanh nghiệp cần chuẩn hóa thương hiệu, nội dung và cách phối hợp nội bộ để tiến gần hơn đến mô hình vận hành số.",
+        "role": "Chiến lược thương hiệu · Digital marketing · Marketing operations",
+        "problem": "Nhận diện và nội dung thiếu nhất quán; dữ liệu, quy trình và vai trò trong đội ngũ chưa được chuẩn hóa.",
+        "approach": "Audit toàn bộ điểm chạm, tái cấu trúc thông điệp, xây lịch nội dung, chuẩn hóa hệ thống quản trị và đào tạo nhân sự marketing nội bộ.",
+        "deliverables": [
+          "Chuẩn hóa nhận diện trên nền tảng số",
+          "Chiến lược nội dung và định hướng truyền thông",
+          "Hệ thống phối hợp và quản trị công việc",
+          "Tuyển dụng, đào tạo đội ngũ marketing",
+          "Quy trình liên phòng ban",
+          "Hỗ trợ chuyển đổi số"
+        ]
+      },
+      "en": {
+        "title": "Phong Cach Moc",
+        "industry": "Design & Construction",
+        "context": "The business needed a more consistent brand, content system and internal collaboration model to support digital operations.",
+        "role": "Brand strategy · Digital marketing · Marketing operations",
+        "problem": "Brand assets and content were inconsistent, while data, process and ownership across the team lacked standardisation.",
+        "approach": "I audited key touchpoints, reframed messaging, built a content operating rhythm, standardised collaboration and trained the internal marketing team.",
+        "deliverables": [
+          "Digital brand consistency",
+          "Content strategy and communication direction",
+          "Marketing collaboration system",
+          "Marketing recruitment and training",
+          "Cross-functional workflow",
+          "Digital transformation support"
+        ]
+      },
+      "zh": {
+        "title": "Phong Cách Mộc",
+        "industry": "设计与施工",
+        "context": "企业需要统一品牌、内容和内部协作方式，以支持数字化运营。",
+        "role": "品牌战略 · 数字营销 · 营销运营",
+        "problem": "品牌资产和内容不一致，团队的数据、流程与职责缺乏标准化。",
+        "approach": "审计关键触点，重构信息体系，建立内容节奏，标准化协作并培训内部营销团队。",
+        "deliverables": [
+          "数字品牌统一",
+          "内容战略与传播方向",
+          "营销协作体系",
+          "营销招聘与培训",
+          "跨部门流程",
+          "数字化转型支持"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "phuc-dai-nam",
+    "year": "2024",
+    "order": 5,
+    "images": [
+      "/assets/images/portfolio/phuc-dai-nam-01.webp",
+      "/assets/images/portfolio/phuc-dai-nam-03.webp",
+      "/assets/images/portfolio/phuc-dai-nam-04.webp",
+      "/assets/images/portfolio/phuc-dai-nam-05.webp"
+    ],
+    "i18n": {
+      "vi": {
+        "title": "Phúc Đại Nam",
+        "industry": "Thiết kế & xây dựng",
+        "context": "Hệ thống marketing thuê ngoài gặp lỗi, mất dữ liệu và thiếu khả năng kiểm soát hiệu suất.",
+        "role": "Growth strategy · Tracking · Paid media · Team building",
+        "problem": "Website, tracking và quảng cáo không tạo thành một hệ thống đo lường đáng tin cậy; doanh nghiệp phụ thuộc vào nhà cung cấp ngoài.",
+        "approach": "Audit toàn bộ tài sản số, xây lại website và landing page, thiết lập GA4, GTM, Meta Pixel, conversion tracking và dashboard hiệu suất.",
+        "deliverables": [
+          "Audit thương hiệu và website",
+          "Website và landing page",
+          "GA4 · GTM · Meta Pixel",
+          "Meta Ads và Google Ads",
+          "Dashboard đo lường",
+          "Tuyển dụng và quản lý nhân sự"
+        ]
+      },
+      "en": {
+        "title": "Phuc Dai Nam",
+        "industry": "Design & Construction",
+        "context": "An outsourced marketing setup had failed, causing data loss and limited visibility into performance.",
+        "role": "Growth strategy · Tracking · Paid media · Team building",
+        "problem": "The website, tracking and media stack did not form a reliable measurement system, leaving the company dependent on external vendors.",
+        "approach": "I audited the digital stack, rebuilt website and landing page foundations, and implemented GA4, GTM, Meta Pixel, conversion tracking and reporting dashboards.",
+        "deliverables": [
+          "Brand and website audit",
+          "Website and landing pages",
+          "GA4 · GTM · Meta Pixel",
+          "Meta Ads and Google Ads",
+          "Performance dashboard",
+          "Marketing team recruitment"
+        ]
+      },
+      "zh": {
+        "title": "Phúc Đại Nam",
+        "industry": "设计与施工",
+        "context": "外包营销系统出现故障，导致数据丢失和绩效不可控。",
+        "role": "增长战略 · 数据追踪 · 付费媒体 · 团队建设",
+        "problem": "网站、追踪和广告没有形成可靠的衡量系统，企业过度依赖外部供应商。",
+        "approach": "审计数字资产，重建网站和落地页，并部署 GA4、GTM、Meta Pixel、转化追踪和绩效仪表板。",
+        "deliverables": [
+          "品牌与网站审计",
+          "网站与落地页",
+          "GA4 · GTM · Meta Pixel",
+          "Meta Ads 与 Google Ads",
+          "绩效仪表板",
+          "营销团队招聘"
+        ]
+      }
+    }
+  }
+]

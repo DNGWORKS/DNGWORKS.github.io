@@ -1,0 +1,421 @@
+[
+  {
+    "slug": "revenue-leakage-marketing-sales-crm",
+    "type": "analysis",
+    "category": "revenue-system",
+    "status": "published",
+    "featured": true,
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readMinutes": 9,
+    "cover": "/assets/images/covers/revenue-system.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [],
+    "i18n": {
+      "vi": {
+        "title": "7 điểm rò rỉ doanh thu giữa Marketing – Sales – CRM",
+        "summary": "Một funnel không hỏng ở một chỗ. Doanh thu thường thất thoát qua nhiều bước nhỏ: định nghĩa lead, tốc độ phản hồi, bàn giao, follow-up và đo lường.",
+        "body": "<h2>Rò rỉ 1: Marketing và Sales không dùng cùng một định nghĩa</h2><p>Marketing có thể gọi một người để lại số điện thoại là lead, trong khi Sales chỉ xem người có nhu cầu, ngân sách và thời điểm mua rõ ràng là lead. Khi hai bên dùng hai định nghĩa khác nhau, báo cáo sẽ luôn đẹp ở đầu funnel nhưng thất vọng ở cuối funnel.</p><p>Cách xử lý là xây một định nghĩa chung gồm tối thiểu: đối tượng phù hợp, vấn đề cần giải quyết, mức độ quan tâm, khả năng liên hệ và bước tiếp theo. Mỗi tiêu chí phải đo được, không dùng cảm giác.</p><h2>Rò rỉ 2–3: Phản hồi chậm và bàn giao mơ hồ</h2><p>Lead đến nhưng không có người chịu trách nhiệm, không có thời hạn phản hồi và không có trạng thái bàn giao. Kết quả là nhiều lead bị gọi trùng, bỏ quên hoặc chỉ được chăm sóc khi nhân viên rảnh.</p><p>Mỗi lead cần được gán owner ngay khi vào hệ thống. SLA không nhất thiết giống nhau cho mọi ngành, nhưng phải được định nghĩa rõ theo kênh, giờ làm việc và mức độ ưu tiên.</p><h2>Rò rỉ 4–5: Follow-up không có nhịp và lý do mất lead không được ghi nhận</h2><p>Một lần gọi không thành công không đồng nghĩa lead không có nhu cầu. Hệ thống cần có chuỗi follow-up theo thời gian, kênh và nội dung. Đồng thời, mọi lead đóng phải có lý do chuẩn hóa: sai đối tượng, chưa đúng thời điểm, không đủ ngân sách, chọn đối thủ hoặc không liên hệ được.</p><blockquote>Không ghi lý do mất lead đồng nghĩa doanh nghiệp không biết cần sửa quảng cáo, offer hay kỹ năng bán hàng.</blockquote><h2>Rò rỉ 6–7: Đo vanity metrics và không có vòng phản hồi</h2><p>Impression, click và số form chỉ cho biết đầu funnel. Để quản trị doanh thu, cần nhìn thêm tỷ lệ liên hệ được, tỷ lệ đủ điều kiện, tỷ lệ báo giá, tỷ lệ chốt, thời gian chuyển đổi và doanh thu theo nguồn.</p><p>Cuối cùng, Sales phải phản hồi ngược cho Marketing về chất lượng lead. Nếu vòng phản hồi này không tồn tại, Marketing tiếp tục tối ưu theo lead rẻ thay vì lead có khả năng tạo doanh thu.</p><h2>Checklist hành động trong 7 ngày</h2><ol><li>Thống nhất một định nghĩa qualified lead.</li><li>Đặt owner và SLA cho từng nguồn lead.</li><li>Chuẩn hóa 6–10 trạng thái pipeline.</li><li>Thiết kế chuỗi follow-up tối thiểu 5 điểm chạm.</li><li>Chuẩn hóa lý do lost.</li><li>Nối nguồn lead với doanh thu.</li><li>Họp 30 phút mỗi tuần giữa Marketing và Sales để đọc dữ liệu.</li></ol>",
+        "takeaways": [
+          "Định nghĩa lead đủ điều kiện trước khi chạy thêm quảng cáo.",
+          "Mọi lead phải có owner, SLA phản hồi và bước tiếp theo.",
+          "Dashboard phải nối được nguồn lead với trạng thái bán hàng và doanh thu."
+        ],
+        "evidenceNote": "Framework vận hành do Dũng Nguyễn tổng hợp. Không sử dụng số liệu kết quả chưa được xác minh."
+      },
+      "en": {
+        "title": "7 revenue leaks between Marketing, Sales and CRM",
+        "summary": "A funnel rarely breaks in one place. Revenue usually leaks through small operational gaps in lead definition, response speed, handoff, follow-up and measurement.",
+        "body": "<h2>Leak 1: Marketing and Sales use different definitions</h2><p>Marketing may count any form submission as a lead, while Sales only considers a prospect with a real problem, budget and buying timeline to be qualified. When both teams use different definitions, the top of the funnel looks healthy while the bottom disappoints.</p><p>Create one shared definition covering fit, problem, intent, contactability and the next action. Each criterion should be observable rather than subjective.</p><h2>Leaks 2–3: Slow response and unclear handoff</h2><p>Leads arrive without an owner, response deadline or handoff status. They are called twice, forgotten or contacted only when a salesperson has spare time.</p><p>Assign an owner as soon as the lead enters the system. The SLA can vary by industry and channel, but it must be explicit and measurable.</p><h2>Leaks 4–5: No follow-up rhythm and no lost-reason data</h2><p>One failed call does not mean there is no demand. Build a follow-up sequence across time, channel and message. Every closed lead should also carry a standardized reason such as poor fit, wrong timing, no budget, competitor selected or unreachable.</p><blockquote>If lost reasons are not captured, the company cannot tell whether to fix targeting, the offer or sales execution.</blockquote><h2>Leaks 6–7: Vanity metrics and no feedback loop</h2><p>Impressions, clicks and form submissions only describe the top of the funnel. Revenue management requires contact rate, qualification rate, proposal rate, win rate, conversion time and revenue by source.</p><p>Sales must then return lead-quality feedback to Marketing. Without that loop, Marketing keeps optimizing for cheap leads instead of revenue-producing leads.</p><h2>Seven-day action checklist</h2><ol><li>Agree on one qualified-lead definition.</li><li>Assign owners and SLAs by source.</li><li>Standardize six to ten pipeline stages.</li><li>Build at least five follow-up touches.</li><li>Standardize lost reasons.</li><li>Connect lead source to revenue.</li><li>Run a weekly 30-minute Marketing–Sales data review.</li></ol>",
+        "takeaways": [
+          "Define a qualified lead before increasing ad spend.",
+          "Every lead needs an owner, a response SLA and a next action.",
+          "The dashboard must connect lead source, sales stage and revenue."
+        ],
+        "evidenceNote": "An operating framework synthesized by Dũng Nguyễn. No unverified performance claims are used."
+      },
+      "zh": {
+        "title": "营销、销售与 CRM 之间的 7 个收入流失点",
+        "summary": "漏斗通常不是在一个环节失效，而是在潜客定义、响应速度、交接、跟进与衡量等多个小环节持续流失收入。",
+        "body": "<h2>流失点 1：营销与销售使用不同定义</h2><p>营销团队可能把任何表单提交都称为潜客，而销售团队只认可具有明确问题、预算与购买时间的客户。当双方定义不同，漏斗前端看起来很好，后端却持续失望。</p><p>应建立共同定义，至少覆盖客户匹配度、问题、意向、可联系性与下一步行动，并让每个条件都可观察、可衡量。</p><h2>流失点 2–3：响应慢与交接不清</h2><p>潜客进入后没有负责人、响应时限与交接状态，最终出现重复联系、遗漏或仅在销售人员有空时才处理。</p><p>潜客进入系统时就应自动分配负责人。不同渠道与行业可以采用不同 SLA，但必须明确且可追踪。</p><h2>流失点 4–5：缺少跟进节奏与丢单原因</h2><p>一次未接通并不代表没有需求。企业需要按时间、渠道和内容设计跟进序列；每条关闭的潜客还应记录标准原因，例如不匹配、时机不对、预算不足、选择竞争对手或无法联系。</p><blockquote>不记录丢单原因，就无法判断应该修改投放、产品方案还是销售执行。</blockquote><h2>流失点 6–7：只看虚荣指标且没有反馈闭环</h2><p>曝光、点击和表单只能描述漏斗前端。收入管理还需要联系率、合格率、报价率、成交率、转化周期和来源收入。</p><p>销售必须把潜客质量反馈给营销，否则营销会继续优化“便宜的潜客”，而不是“能产生收入的潜客”。</p><h2>7 天行动清单</h2><ol><li>统一合格潜客定义。</li><li>按来源设置负责人和 SLA。</li><li>标准化 6–10 个销售阶段。</li><li>设计至少 5 次跟进触点。</li><li>标准化丢单原因。</li><li>连接潜客来源与收入。</li><li>每周进行 30 分钟营销与销售数据复盘。</li></ol>",
+        "takeaways": [
+          "在增加广告预算前先定义合格潜客。",
+          "每条潜客都必须有负责人、响应 SLA 和下一步行动。",
+          "看板必须连接潜客来源、销售阶段与收入。"
+        ],
+        "evidenceNote": "由 Dũng Nguyễn 总结的运营框架，不使用未经验证的业绩数据。"
+      }
+    }
+  },
+  {
+    "slug": "ai-search-b2b-customer-journey",
+    "type": "analysis",
+    "category": "ai-data",
+    "status": "published",
+    "featured": true,
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readMinutes": 8,
+    "cover": "/assets/images/covers/ai-search.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [
+      {
+        "title": "Google Search Central — Creating helpful, reliable, people-first content",
+        "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+      },
+      {
+        "title": "Google Search Central — Article structured data",
+        "url": "https://developers.google.com/search/docs/appearance/structured-data/article"
+      }
+    ],
+    "i18n": {
+      "vi": {
+        "title": "AI Search đang thay đổi hành trình mua B2B như thế nào?",
+        "summary": "Khách hàng không còn chỉ tìm một từ khóa rồi mở mười tab. Họ đặt câu hỏi dài, yêu cầu so sánh và mong nhận câu trả lời đã được tổng hợp.",
+        "body": "<h2>Từ tìm kiếm từ khóa sang tìm kiếm theo nhiệm vụ</h2><p>Người mua B2B thường không chỉ hỏi “CRM tốt nhất”. Họ hỏi một chuỗi câu cụ thể hơn: CRM nào phù hợp đội sales 10 người, tích hợp được form website, theo dõi nguồn lead và không cần đội IT riêng? Nội dung chỉ lặp lại định nghĩa chung sẽ khó tạo giá trị trong bối cảnh đó.</p><h2>Ba lớp nội dung doanh nghiệp cần xây</h2><h3>1. Nội dung giải thích vấn đề</h3><p>Giúp người đọc nhận diện nguyên nhân, chi phí của việc không hành động và tiêu chí cần đo. Nội dung này phải đủ rõ để người đọc tự chẩn đoán.</p><h3>2. Nội dung hỗ trợ so sánh</h3><p>So sánh phương án theo bối cảnh, không viết kiểu “A luôn tốt hơn B”. Ví dụ: Google Sheet phù hợp khi nào, CRM phù hợp khi nào, và chi phí chuyển đổi nằm ở đâu.</p><h3>3. Nội dung giúp triển khai</h3><p>Cung cấp checklist, template, quy trình và ví dụ. Đây là lớp biến một bài viết từ “đọc cho biết” thành tài sản có thể sử dụng.</p><h2>Tín hiệu tin cậy quan trọng hơn số lượng bài</h2><p>Mỗi bài nên thể hiện rõ ai viết, được cập nhật khi nào, nguồn nào được sử dụng và phần nào là quan điểm hoặc framework của tác giả. Nội dung tổng hợp từ nguồn khác phải bổ sung phân tích hoặc kinh nghiệm riêng, thay vì chỉ viết lại.</p><blockquote>Trong môi trường AI Search, bài viết có lợi thế không phải bài dài nhất mà là bài giúp người đọc hoàn thành một quyết định cụ thể.</blockquote><h2>Kế hoạch nội dung 30 ngày</h2><ol><li>Chọn một quyết định mua quan trọng của khách hàng.</li><li>Liệt kê 15 câu hỏi trước, trong và sau quyết định.</li><li>Nhóm câu hỏi thành 3–5 bài chủ lực.</li><li>Tạo một checklist hoặc công cụ đi kèm.</li><li>Liên kết các bài thành một hành trình hoàn chỉnh.</li><li>Đo lượt đọc sâu, tải tài liệu và cuộc hẹn, không chỉ đo pageview.</li></ol>",
+        "takeaways": [
+          "Tạo nội dung trả lời câu hỏi thực tế của người mua, không chỉ nhắm từ khóa.",
+          "Đưa bằng chứng, tác giả, ngày cập nhật và nguồn vào bài viết.",
+          "Xây cụm nội dung theo quyết định mua: hiểu vấn đề, so sánh, đánh giá và triển khai."
+        ],
+        "evidenceNote": "Bài viết kết hợp framework nội bộ với hướng dẫn chính thức của Google Search Central về nội dung hữu ích và Article structured data."
+      },
+      "en": {
+        "title": "How AI Search is changing the B2B buying journey",
+        "summary": "Buyers no longer search one keyword and open ten tabs. They ask longer questions, request comparisons and expect synthesized answers.",
+        "body": "<h2>From keyword search to task-based search</h2><p>A B2B buyer rarely asks only “best CRM”. They ask a chain of questions: which CRM fits a ten-person sales team, connects to website forms, tracks lead sources and does not require a dedicated IT team? Generic definitions create little value in that context.</p><h2>Three content layers to build</h2><h3>1. Problem-explanation content</h3><p>Help readers identify causes, the cost of inaction and the metrics to inspect. The content should be clear enough for self-diagnosis.</p><h3>2. Comparison content</h3><p>Compare options by context rather than claiming one choice is always superior. Explain when spreadsheets are enough, when CRM becomes necessary and where migration cost appears.</p><h3>3. Implementation content</h3><p>Provide checklists, templates, workflows and examples. This turns an article from passive reading into a usable asset.</p><h2>Trust signals matter more than publishing volume</h2><p>Each article should make authorship, update date, sources and the boundary between evidence and opinion clear. Content based on external sources should add original analysis instead of merely rewriting them.</p><blockquote>In an AI Search environment, the winning article is not the longest one. It is the one that helps a buyer complete a specific decision.</blockquote><h2>A 30-day content plan</h2><ol><li>Select one high-value buying decision.</li><li>List fifteen questions before, during and after that decision.</li><li>Group them into three to five pillar articles.</li><li>Create one checklist or tool for each cluster.</li><li>Link the articles into a complete journey.</li><li>Measure deep reading, downloads and meetings—not pageviews alone.</li></ol>",
+        "takeaways": [
+          "Answer real buyer questions instead of targeting keywords alone.",
+          "Show evidence, authorship, update dates and sources.",
+          "Build content clusters around buying decisions: understand, compare, evaluate and implement."
+        ],
+        "evidenceNote": "This article combines an internal framework with official Google Search Central guidance on helpful content and Article structured data."
+      },
+      "zh": {
+        "title": "AI 搜索如何改变 B2B 购买旅程",
+        "summary": "客户不再只搜索一个关键词并打开十个页面，而是提出更长的问题、要求比较并期待整合后的答案。",
+        "body": "<h2>从关键词搜索转向任务型搜索</h2><p>B2B 买家很少只问“最好的 CRM”。他们会连续提问：哪种 CRM 适合 10 人销售团队、能连接网站表单、追踪潜客来源，并且不需要独立 IT 团队？在这种情况下，泛泛而谈的内容很难产生价值。</p><h2>企业需要构建三层内容</h2><h3>1. 解释问题的内容</h3><p>帮助读者识别原因、不行动的成本以及需要观察的指标，使其能够进行基本自我诊断。</p><h3>2. 支持比较的内容</h3><p>基于场景比较，而不是宣称某个方案永远更好。例如说明何时电子表格足够、何时需要 CRM，以及迁移成本在哪里。</p><h3>3. 帮助实施的内容</h3><p>提供清单、模板、流程和示例，把文章从“了解信息”转化为可使用的资产。</p><h2>可信信号比文章数量更重要</h2><p>每篇文章应清楚展示作者、更新时间、来源，以及哪些内容属于证据、哪些属于作者框架。引用外部来源时，应增加原创分析，而不是简单改写。</p><blockquote>在 AI 搜索环境中，优势文章不是最长的，而是最能帮助买家完成一个具体决策的文章。</blockquote><h2>30 天内容计划</h2><ol><li>选择一个高价值购买决策。</li><li>列出决策前、中、后的 15 个问题。</li><li>将问题组织成 3–5 篇核心文章。</li><li>为每个主题制作一份清单或工具。</li><li>通过内部链接形成完整旅程。</li><li>衡量深度阅读、下载与会议，而不仅是浏览量。</li></ol>",
+        "takeaways": [
+          "回答真实购买问题，而不是只追逐关键词。",
+          "展示证据、作者、更新时间与来源。",
+          "围绕购买决策建立内容集群：理解、比较、评估与实施。"
+        ],
+        "evidenceNote": "本文结合内部框架与 Google Search Central 关于有用内容及 Article 结构化数据的官方指南。"
+      }
+    }
+  },
+  {
+    "slug": "crm-vs-spreadsheet-decision",
+    "type": "analysis",
+    "category": "sales-crm",
+    "status": "published",
+    "featured": true,
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readMinutes": 7,
+    "cover": "/assets/images/covers/sales-crm.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [],
+    "i18n": {
+      "vi": {
+        "title": "Google Sheet hay CRM: khi nào doanh nghiệp nên chuyển?",
+        "summary": "Không phải doanh nghiệp nào cũng cần CRM ngay. Nhưng khi dữ liệu, trách nhiệm và follow-up bắt đầu vỡ, tiếp tục dùng Sheet sẽ tạo chi phí ẩn.",
+        "body": "<h2>Khi Google Sheet vẫn là lựa chọn đúng</h2><p>Nếu doanh nghiệp chỉ có một hoặc hai người xử lý lead, số lượng lead thấp, quy trình ít trạng thái và không cần automation, một bảng tính được thiết kế tốt có thể đủ dùng. Sheet rẻ, linh hoạt và dễ thay đổi.</p><h2>Năm dấu hiệu hệ thống đã vượt quá giới hạn của Sheet</h2><ol><li>Nhiều người chỉnh cùng dữ liệu nhưng không rõ ai chịu trách nhiệm.</li><li>Lịch sử gọi, email và ghi chú nằm ở nhiều nơi.</li><li>Follow-up phụ thuộc vào trí nhớ cá nhân.</li><li>Báo cáo pipeline phải tổng hợp thủ công mỗi tuần.</li><li>Không thể nối lead source với kết quả bán hàng một cách tin cậy.</li></ol><h2>CRM không tự sửa quy trình xấu</h2><p>Nếu doanh nghiệp chưa có định nghĩa lead, pipeline, quy tắc gán owner và tiêu chuẩn đóng lead, CRM chỉ số hóa sự hỗn loạn. Trước khi triển khai, hãy vẽ quy trình hiện tại, loại bước thừa và thống nhất dữ liệu bắt buộc.</p><h2>Phương án chuyển đổi ít rủi ro</h2><p>Bắt đầu bằng một pipeline, một nhóm người dùng và một loại lead. Di chuyển dữ liệu tối thiểu cần thiết, không mang toàn bộ dữ liệu bẩn sang hệ thống mới. Sau 2–4 tuần, mới mở rộng automation và dashboard.</p><blockquote>Mục tiêu của CRM không phải lưu nhiều dữ liệu hơn; mục tiêu là giúp đội ngũ biết việc gì cần làm tiếp theo và quản lý biết doanh thu đang mắc ở đâu.</blockquote><h2>Ma trận quyết định</h2><ul><li><strong>Giữ Sheet:</strong> dưới 3 người dùng, ít lead, quy trình đơn giản, chưa cần automation.</li><li><strong>CRM nhẹ:</strong> cần owner, nhắc việc, pipeline và báo cáo cơ bản.</li><li><strong>CRM tích hợp:</strong> nhiều nguồn lead, nhiều team, automation, phân quyền và đo revenue attribution.</li></ul>",
+        "takeaways": [
+          "Giữ Sheet nếu quy trình còn đơn giản, ít người và ít trạng thái.",
+          "Chuyển sang CRM khi cần owner, lịch sử tương tác, automation và báo cáo theo pipeline.",
+          "Đừng mua CRM trước khi chuẩn hóa quy trình bán hàng."
+        ],
+        "evidenceNote": "Framework quyết định triển khai, không quảng bá một nền tảng CRM cụ thể."
+      },
+      "en": {
+        "title": "Spreadsheet or CRM: when should a business switch?",
+        "summary": "Not every business needs CRM immediately. But once data, ownership and follow-up begin to break, staying on spreadsheets creates hidden cost.",
+        "body": "<h2>When a spreadsheet is still the right choice</h2><p>If one or two people handle a low volume of leads, the process has few stages and no automation is required, a well-designed spreadsheet may be sufficient. It is inexpensive, flexible and easy to change.</p><h2>Five signs the process has outgrown spreadsheets</h2><ol><li>Several people edit the same data but ownership is unclear.</li><li>Call, email and note history is scattered.</li><li>Follow-up depends on individual memory.</li><li>Pipeline reports require manual assembly every week.</li><li>Lead source cannot be reliably connected to sales outcomes.</li></ol><h2>CRM does not repair a broken process</h2><p>If lead definitions, pipeline stages, assignment rules and closure standards are missing, CRM simply digitizes the chaos. Map and simplify the process before implementation.</p><h2>A lower-risk migration path</h2><p>Start with one pipeline, one user group and one lead type. Move only the data required for active work. After two to four weeks, expand automation and dashboards.</p><blockquote>The purpose of CRM is not to store more data. It is to tell the team what to do next and show management where revenue is stuck.</blockquote><h2>Decision matrix</h2><ul><li><strong>Keep spreadsheets:</strong> fewer than three users, low lead volume, simple process, no automation.</li><li><strong>Light CRM:</strong> ownership, reminders, pipeline and basic reporting are required.</li><li><strong>Integrated CRM:</strong> multiple sources and teams, automation, permissions and revenue attribution are required.</li></ul>",
+        "takeaways": [
+          "Keep spreadsheets while the process is simple, small and stable.",
+          "Move to CRM when you need ownership, interaction history, automation and pipeline reporting.",
+          "Do not buy CRM before standardizing the sales process."
+        ],
+        "evidenceNote": "A deployment decision framework; it does not promote a specific CRM platform."
+      },
+      "zh": {
+        "title": "电子表格还是 CRM：企业何时应该切换？",
+        "summary": "并非所有企业都需要立即使用 CRM，但当数据、责任和跟进开始失控时，继续使用表格会产生隐藏成本。",
+        "body": "<h2>何时电子表格仍然是正确选择</h2><p>如果只有一到两人处理少量潜客，流程阶段少且不需要自动化，一个设计良好的表格可能已经足够。它成本低、灵活且容易调整。</p><h2>流程已超出表格能力的五个信号</h2><ol><li>多人编辑同一数据，但责任不清。</li><li>电话、邮件与备注历史分散。</li><li>跟进依赖个人记忆。</li><li>每周需要手工汇总销售管道。</li><li>无法可靠地连接潜客来源与销售结果。</li></ol><h2>CRM 不会自动修复坏流程</h2><p>如果缺少潜客定义、销售阶段、分配规则与关闭标准，CRM 只会把混乱数字化。实施前应先绘制并简化现有流程。</p><h2>低风险迁移路径</h2><p>从一个管道、一个用户组和一种潜客类型开始，只迁移当前工作所需的数据。运行 2–4 周后，再逐步扩展自动化与看板。</p><blockquote>CRM 的目的不是存储更多数据，而是告诉团队下一步做什么，并让管理者看到收入卡在哪里。</blockquote><h2>决策矩阵</h2><ul><li><strong>继续用表格：</strong>少于 3 名用户、潜客量低、流程简单、不需要自动化。</li><li><strong>轻量 CRM：</strong>需要负责人、提醒、销售管道和基础报告。</li><li><strong>集成 CRM：</strong>多来源、多团队、自动化、权限与收入归因。</li></ul>",
+        "takeaways": [
+          "流程简单、人员少、阶段稳定时可以继续使用表格。",
+          "需要负责人、互动历史、自动化和销售管道报告时应切换 CRM。",
+          "在标准化销售流程之前不要先购买 CRM。"
+        ],
+        "evidenceNote": "这是部署决策框架，不推广任何特定 CRM 平台。"
+      }
+    }
+  },
+  {
+    "slug": "funnel-audit-60-minutes",
+    "type": "playbook",
+    "category": "playbook",
+    "status": "published",
+    "featured": false,
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readMinutes": 6,
+    "cover": "/assets/images/covers/playbook.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [],
+    "i18n": {
+      "vi": {
+        "title": "Funnel audit trong 60 phút: kiểm tra gì trước?",
+        "summary": "Một quy trình audit nhanh để tìm điểm nghẽn có khả năng làm mất doanh thu trước khi đề xuất thêm ngân sách hay công cụ.",
+        "body": "<h2>0–10 phút: xác định mục tiêu thương mại</h2><p>Ghi rõ sản phẩm, khách hàng, giá trị đơn hàng, chu kỳ mua và mục tiêu doanh thu. Nếu chưa rõ doanh nghiệp muốn tăng doanh thu từ sản phẩm nào và trong thời gian nào, mọi phân tích phía sau đều dễ lan man.</p><h2>10–25 phút: đọc pipeline</h2><p>Đếm số lượng và tỷ lệ chuyển đổi giữa các bước: lead, liên hệ được, qualified, meeting, proposal và won. Không cần dashboard phức tạp; một bảng dữ liệu đủ sạch đã có thể chỉ ra bước rơi mạnh nhất.</p><h2>25–40 phút: kiểm tra offer và thông điệp</h2><p>Xem landing page, quảng cáo, form và script sales có dùng cùng một lời hứa hay không. Kiểm tra CTA có rõ, bằng chứng có đủ và form có hỏi quá nhiều thông tin hay không.</p><h2>40–50 phút: kiểm tra tốc độ và ownership</h2><p>Chọn ngẫu nhiên 10 lead gần nhất, xem ai nhận, phản hồi sau bao lâu, có follow-up hay không và kết quả được ghi ở đâu. Đây thường là nơi lộ ra khoảng cách giữa quy trình được mô tả và quy trình thực tế.</p><h2>50–60 phút: chốt một giả thuyết ưu tiên</h2><p>Viết một câu: “Nếu sửa X, chỉ số Y có khả năng cải thiện vì Z.” Sau đó gán owner, deadline và ngưỡng thành công. Không kết thúc audit bằng danh sách 30 lỗi không có thứ tự.</p><blockquote>Một audit tốt không tạo ra nhiều slide; nó làm rõ một quyết định tiếp theo.</blockquote>",
+        "takeaways": [
+          "Bắt đầu từ doanh thu và pipeline, không bắt đầu từ số follower.",
+          "Tìm một điểm nghẽn lớn nhất thay vì sửa mọi thứ cùng lúc.",
+          "Mỗi phát hiện phải dẫn đến owner, deadline và chỉ số kiểm tra."
+        ],
+        "evidenceNote": "Playbook thực hành, không thay thế cho audit đầy đủ khi dữ liệu phức tạp."
+      },
+      "en": {
+        "title": "A 60-minute funnel audit: what to inspect first",
+        "summary": "A fast audit process for finding likely revenue bottlenecks before recommending more budget or tools.",
+        "body": "<h2>0–10 minutes: define the commercial objective</h2><p>Write down the product, customer, order value, buying cycle and revenue target. Without a clear product and timeframe, the analysis will drift.</p><h2>10–25 minutes: read the pipeline</h2><p>Count volume and conversion between lead, contacted, qualified, meeting, proposal and won. A clean table is enough to reveal the sharpest drop.</p><h2>25–40 minutes: inspect offer and message</h2><p>Check whether landing page, advertising, forms and sales scripts communicate the same promise. Review CTA clarity, proof and form friction.</p><h2>40–50 minutes: inspect speed and ownership</h2><p>Sample ten recent leads. Identify owner, response time, follow-up and where the outcome was recorded. This often reveals the gap between documented and actual process.</p><h2>50–60 minutes: choose one priority hypothesis</h2><p>Write: “If we fix X, metric Y is likely to improve because Z.” Assign an owner, deadline and success threshold. Do not end with thirty unordered problems.</p><blockquote>A good audit does not create more slides. It clarifies the next decision.</blockquote>",
+        "takeaways": [
+          "Start with revenue and pipeline, not follower count.",
+          "Find the largest constraint instead of fixing everything at once.",
+          "Every finding needs an owner, deadline and verification metric."
+        ],
+        "evidenceNote": "A practical playbook, not a substitute for a full audit in complex environments."
+      },
+      "zh": {
+        "title": "60 分钟漏斗审计：先检查什么？",
+        "summary": "在增加预算或工具之前，用快速审计流程定位最可能造成收入损失的瓶颈。",
+        "body": "<h2>0–10 分钟：明确商业目标</h2><p>写清产品、客户、订单价值、购买周期和收入目标。如果不知道要在什么时间内提升哪个产品的收入，后续分析就会失焦。</p><h2>10–25 分钟：读取销售管道</h2><p>统计潜客、已联系、合格、会议、报价和成交之间的数量与转化率。无需复杂看板，一张干净的表就能显示最大跌落点。</p><h2>25–40 分钟：检查方案与信息</h2><p>确认落地页、广告、表单和销售话术是否传达同一承诺，并检查 CTA、证据和表单阻力。</p><h2>40–50 分钟：检查速度与责任</h2><p>随机抽取最近 10 条潜客，查看负责人、响应时间、跟进与结果记录位置。这通常能揭示“书面流程”与“实际流程”的差距。</p><h2>50–60 分钟：确定一个优先假设</h2><p>写下：“如果修复 X，指标 Y 可能改善，因为 Z。”随后指定负责人、截止时间与成功标准，不要以 30 个无优先级的问题结束审计。</p><blockquote>好的审计不会制造更多幻灯片，而是明确下一项决策。</blockquote>",
+        "takeaways": [
+          "从收入和销售管道开始，而不是粉丝数。",
+          "先找到最大瓶颈，不要同时修复所有问题。",
+          "每个发现都必须对应负责人、截止时间与验证指标。"
+        ],
+        "evidenceNote": "这是实用操作手册，复杂环境下不能替代完整审计。"
+      }
+    }
+  },
+  {
+    "slug": "people-first-content-system",
+    "type": "analysis",
+    "category": "marketing-strategy",
+    "status": "published",
+    "featured": false,
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readMinutes": 7,
+    "cover": "/assets/images/covers/marketing-strategy.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [
+      {
+        "title": "Google Search Central — Creating helpful, reliable, people-first content",
+        "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+      }
+    ],
+    "i18n": {
+      "vi": {
+        "title": "Xây hệ thống nội dung đáng đọc, không phải kho bài SEO",
+        "summary": "Một website có nhiều bài chưa chắc có giá trị. Nội dung cần trả lời đúng vấn đề, có bằng chứng và dẫn người đọc đến một hành động hữu ích.",
+        "body": "<h2>Bắt đầu bằng câu hỏi người đọc cần giải quyết</h2><p>Đừng bắt đầu từ danh sách từ khóa. Hãy bắt đầu từ tình huống: người đọc đang cố quyết định điều gì, đang thiếu dữ liệu nào và rủi ro nếu quyết định sai là gì.</p><h2>Một bài có giá trị cần bốn lớp</h2><ol><li><strong>Chẩn đoán:</strong> giúp người đọc nhận diện vấn đề.</li><li><strong>Giải thích:</strong> làm rõ nguyên nhân và trade-off.</li><li><strong>Hành động:</strong> cung cấp checklist, template hoặc quy trình.</li><li><strong>Kiểm chứng:</strong> cho biết nguồn, giới hạn và cách đo kết quả.</li></ol><h2>Đừng sản xuất nội dung chỉ để giữ lịch đăng</h2><p>Nếu một bài chỉ tổng hợp lại những gì đã có ở nơi khác, nó nên được nâng cấp bằng phân tích riêng, ví dụ thực tế hoặc công cụ sử dụng ngay. Nếu không thể tạo thêm giá trị, không đăng còn tốt hơn.</p><h2>Hệ thống đo chất lượng</h2><p>Theo dõi tỷ lệ cuộn sâu, lượt tải template, click sang bài liên quan, số người quay lại và số cuộc hẹn có nhắc đến nội dung. Pageview cao nhưng không có hành vi sâu có thể chỉ là traffic không phù hợp.</p><blockquote>Nội dung tốt khiến người đọc ngừng tìm kiếm vì họ đã có đủ thông tin để hành động.</blockquote>",
+        "takeaways": [
+          "Mỗi bài phục vụ một quyết định cụ thể của người đọc.",
+          "Ưu tiên phân tích nguyên bản, nguồn rõ và công cụ áp dụng.",
+          "Đo chất lượng bằng hành vi sâu, không chỉ traffic."
+        ],
+        "evidenceNote": "Áp dụng nguyên tắc people-first content và minh bạch tác giả, nguồn, phương pháp."
+      },
+      "en": {
+        "title": "Build a content system worth reading—not an SEO archive",
+        "summary": "A website with many articles is not necessarily valuable. Content must solve the right problem, show evidence and lead to a useful action.",
+        "body": "<h2>Start with the decision the reader must make</h2><p>Do not begin with a keyword list. Begin with the situation: what is the reader trying to decide, what information is missing and what is the risk of a wrong choice?</p><h2>Four layers of useful content</h2><ol><li><strong>Diagnosis:</strong> help the reader recognize the problem.</li><li><strong>Explanation:</strong> clarify causes and trade-offs.</li><li><strong>Action:</strong> provide a checklist, template or workflow.</li><li><strong>Verification:</strong> show sources, limits and how results should be measured.</li></ol><h2>Do not publish only to maintain a calendar</h2><p>If an article merely repeats existing information, add original analysis, a practical example or a usable tool. If it adds no value, not publishing is better.</p><h2>Measure content quality</h2><p>Track deep scroll, template downloads, internal article clicks, returning readers and meetings that mention the content. High pageviews without deeper behavior may simply be irrelevant traffic.</p><blockquote>Good content makes the reader stop searching because they have enough information to act.</blockquote>",
+        "takeaways": [
+          "Each article should support one specific reader decision.",
+          "Prioritize original analysis, clear sourcing and usable tools.",
+          "Measure quality through deeper behavior, not traffic alone."
+        ],
+        "evidenceNote": "Applies people-first content principles and transparent authorship, sourcing and method."
+      },
+      "zh": {
+        "title": "建立值得阅读的内容系统，而不是 SEO 文章仓库",
+        "summary": "文章数量多并不代表有价值。内容必须解决正确问题、展示证据，并引导读者采取有用行动。",
+        "body": "<h2>从读者必须完成的决策开始</h2><p>不要从关键词清单开始，而要从场景开始：读者正在做什么决定、缺少什么信息、错误决定的风险是什么？</p><h2>有价值内容的四个层次</h2><ol><li><strong>诊断：</strong>帮助读者识别问题。</li><li><strong>解释：</strong>说明原因与取舍。</li><li><strong>行动：</strong>提供清单、模板或流程。</li><li><strong>验证：</strong>展示来源、限制与结果衡量方式。</li></ol><h2>不要只为了维持发布频率</h2><p>如果文章只是重复已有信息，应增加原创分析、真实示例或可立即使用的工具。如果无法增加价值，不发布更好。</p><h2>衡量内容质量</h2><p>追踪深度滚动、模板下载、相关文章点击、回访读者以及因内容产生的会议。只有高浏览量而没有深度行为，可能只是无效流量。</p><blockquote>好的内容会让读者停止继续搜索，因为他们已经获得足够信息采取行动。</blockquote>",
+        "takeaways": [
+          "每篇文章服务一个具体决策。",
+          "优先原创分析、清晰来源与可用工具。",
+          "通过深度行为衡量质量，而不只看流量。"
+        ],
+        "evidenceNote": "采用以人为本的内容原则，并透明展示作者、来源与方法。"
+      }
+    }
+  },
+  {
+    "slug": "lead-response-operating-system",
+    "type": "analysis",
+    "category": "sales-crm",
+    "status": "published",
+    "featured": false,
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readMinutes": 6,
+    "cover": "/assets/images/covers/lead-response.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [],
+    "i18n": {
+      "vi": {
+        "title": "Thiết kế hệ thống phản hồi lead không phụ thuộc trí nhớ",
+        "summary": "Tốc độ chỉ là một phần. Một hệ thống tốt phải gán đúng người, dùng đúng thông tin, theo dõi được và không để lead biến mất sau lần liên hệ đầu.",
+        "body": "<h2>Đầu vào phải đủ sạch để hành động</h2><p>Form không nên hỏi mọi thứ, nhưng cần đủ để định tuyến: tên, cách liên hệ, nhu cầu chính, khu vực hoặc sản phẩm quan tâm. Những thông tin còn lại có thể thu thập trong cuộc trao đổi đầu tiên.</p><h2>Quy tắc gán owner</h2><p>Chọn một logic rõ: theo khu vực, sản phẩm, phân khúc, ca làm việc hoặc vòng chia đều. Nếu lead bị chuyển người, hệ thống phải ghi lại thời điểm và lý do.</p><h2>Sequence phản hồi</h2><p>Thiết kế nhiều điểm chạm: cuộc gọi, tin nhắn xác nhận, email tóm tắt và lịch follow-up. Nội dung mỗi lần phải có mục đích khác nhau, không lặp cùng một câu “anh/chị còn nhu cầu không?”.</p><h2>Trạng thái bắt buộc</h2><p>Mỗi lead phải nằm ở một trạng thái hợp lệ và có next action. Lead không có next action là lead có nguy cơ biến mất. Dashboard nên hiển thị lead quá SLA, lead không có lịch tiếp theo và lead bị dừng quá lâu.</p><blockquote>Automation tốt không thay thế con người; nó đảm bảo con người không quên việc quan trọng.</blockquote>",
+        "takeaways": [
+          "Tự động gán owner theo nguồn, khu vực hoặc sản phẩm.",
+          "Chuẩn hóa thông tin tối thiểu trước khi gọi.",
+          "Follow-up là một sequence, không phải một lời nhắc rời rạc."
+        ],
+        "evidenceNote": "SOP mẫu cần được điều chỉnh theo ngành, giờ vận hành và chính sách liên hệ của doanh nghiệp."
+      },
+      "en": {
+        "title": "Design a lead-response system that does not depend on memory",
+        "summary": "Speed is only one part. A good system assigns the right owner, uses the right context, remains measurable and does not lose leads after the first attempt.",
+        "body": "<h2>The input must be clean enough to act</h2><p>A form should not ask everything, but it needs enough information for routing: name, contact method, primary need, territory or product interest. The rest can be collected in the first conversation.</p><h2>Owner assignment rules</h2><p>Choose a clear logic by territory, product, segment, shift or round-robin. If a lead is reassigned, record the time and reason.</p><h2>Response sequence</h2><p>Design several touches: call, confirmation message, summary email and scheduled follow-up. Each touch should have a different purpose instead of repeating “are you still interested?”.</p><h2>Mandatory states</h2><p>Every lead must have a valid stage and next action. A lead without a next action is at risk of disappearing. The dashboard should show overdue leads, leads without a next date and leads stalled too long.</p><blockquote>Good automation does not replace people. It prevents people from forgetting important work.</blockquote>",
+        "takeaways": [
+          "Assign owners automatically by source, territory or product.",
+          "Standardize the minimum context required before calling.",
+          "Follow-up is a sequence, not an isolated reminder."
+        ],
+        "evidenceNote": "This sample SOP should be adapted to the company's industry, operating hours and contact policy."
+      },
+      "zh": {
+        "title": "设计不依赖个人记忆的潜客响应系统",
+        "summary": "速度只是其中一部分。好的系统还要分配正确负责人、使用正确上下文、可衡量，并避免潜客在第一次联系后消失。",
+        "body": "<h2>输入信息必须足以采取行动</h2><p>表单不应询问所有信息，但需要足够用于分流：姓名、联系方式、主要需求、区域或关注产品。其他信息可以在首次沟通中收集。</p><h2>负责人分配规则</h2><p>选择清晰逻辑，例如区域、产品、客户分层、班次或轮询。如果潜客被重新分配，系统应记录时间与原因。</p><h2>响应序列</h2><p>设计多个触点：电话、确认消息、总结邮件和后续计划。每次联系应有不同目的，而不是重复询问“是否还有需求”。</p><h2>必需状态</h2><p>每条潜客都必须有有效阶段和下一步行动。没有下一步行动的潜客很容易消失。看板应显示超过 SLA、没有下一日期以及停滞过久的潜客。</p><blockquote>好的自动化不会替代人，而是防止人忘记重要工作。</blockquote>",
+        "takeaways": [
+          "按来源、区域或产品自动分配负责人。",
+          "联系前标准化最低所需信息。",
+          "跟进是一套序列，而不是单独提醒。"
+        ],
+        "evidenceNote": "该示例 SOP 应根据企业行业、运营时间与联系政策进行调整。"
+      }
+    }
+  },
+  {
+    "slug": "brand-trust-in-b2b",
+    "type": "briefing",
+    "category": "marketing-strategy",
+    "status": "published",
+    "featured": false,
+    "publishedAt": "2026-06-03",
+    "updatedAt": "2026-06-03",
+    "readMinutes": 4,
+    "cover": "/assets/images/covers/marketing-strategy.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [],
+    "i18n": {
+      "vi": {
+        "title": "B2B không chỉ bán giải pháp. B2B bán mức độ tin cậy.",
+        "summary": "Khách hàng doanh nghiệp đánh giá năng lực qua bằng chứng, tính nhất quán, quy trình và cảm giác rủi ro khi hợp tác.",
+        "body": "<p>Trong B2B, người mua hiếm khi quyết định chỉ vì một mẫu quảng cáo đẹp. Họ cần thấy bằng chứng triển khai, cách doanh nghiệp phản hồi, chất lượng tài liệu, mức độ rõ ràng của quy trình và khả năng chịu trách nhiệm.</p><h2>Biến niềm tin thành hệ thống</h2><p>Case study, tài liệu bán hàng, website, nội dung chuyên môn và quy trình chăm sóc phải cùng kể một câu chuyện nhất quán về năng lực.</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      },
+      "en": {
+        "title": "B2B does not only sell solutions. It sells confidence.",
+        "summary": "Business buyers assess capability through evidence, consistency, process and perceived collaboration risk.",
+        "body": "<p>In B2B, buyers rarely decide because of one attractive ad. They look for delivery evidence, responsiveness, document quality, process clarity and accountability.</p><h2>Turn trust into a system</h2><p>Case studies, sales materials, the website, expert content and follow-up processes must tell one consistent story about capability.</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      },
+      "zh": {
+        "title": "B2B 不只销售解决方案，更销售可信度。",
+        "summary": "企业买家通过证据、一致性、流程和合作风险来评估能力。",
+        "body": "<p>在 B2B 中，买家很少因为一则漂亮的广告就做出决定。他们需要看到执行证据、响应速度、文件质量、流程清晰度和责任感。</p><h2>把信任变成系统</h2><p>案例研究、销售材料、网站、专业内容和跟进流程必须共同讲述一个一致的能力故事。</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      }
+    }
+  },
+  {
+    "slug": "ai-workflow-for-marketing-team",
+    "type": "briefing",
+    "category": "marketing-strategy",
+    "status": "published",
+    "featured": false,
+    "publishedAt": "2026-06-02",
+    "updatedAt": "2026-06-02",
+    "readMinutes": 4,
+    "cover": "/assets/images/covers/ai-data.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [],
+    "i18n": {
+      "vi": {
+        "title": "AI nên đi vào quy trình marketing ở đâu trước?",
+        "summary": "Không bắt đầu bằng việc mua thật nhiều công cụ. Hãy bắt đầu ở những điểm lặp lại, tốn thời gian và có dữ liệu đầu vào rõ ràng.",
+        "body": "<p>AI có giá trị nhất khi nó giảm ma sát trong một quy trình đã được xác định rõ. Nghiên cứu sơ bộ, chuẩn hóa brief, phân loại lead, tổng hợp báo cáo và tái sử dụng nội dung là những điểm khởi đầu thực tế.</p><h2>Nguyên tắc triển khai</h2><p>Chọn một workflow, xác định đầu vào và đầu ra, đặt tiêu chuẩn kiểm tra chất lượng, sau đó mới tự động hóa. Không tự động hóa sự hỗn loạn.</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      },
+      "en": {
+        "title": "Where should AI enter a marketing workflow first?",
+        "summary": "Do not begin by buying many tools. Begin with repetitive, time-consuming tasks that have clear inputs.",
+        "body": "<p>AI is most valuable when it removes friction from a clearly defined process. Early research, brief standardisation, lead classification, reporting and content repurposing are practical starting points.</p><h2>Implementation rule</h2><p>Select one workflow, define inputs and outputs, set quality checks and only then automate. Do not automate chaos.</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      },
+      "zh": {
+        "title": "人工智能应该首先进入营销流程的哪个环节？",
+        "summary": "不要从购买大量工具开始，而要从重复、耗时且输入清晰的任务开始。",
+        "body": "<p>当流程已经被清晰定义时，AI 才最有价值。初步研究、简报标准化、线索分类、报告汇总和内容再利用都是实际的起点。</p><h2>实施原则</h2><p>选择一个流程，定义输入和输出，建立质量检查，然后再自动化。不要自动化混乱。</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      }
+    }
+  },
+  {
+    "slug": "marketing-system-before-ad-spend",
+    "type": "briefing",
+    "category": "marketing-strategy",
+    "status": "published",
+    "featured": false,
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-06-01",
+    "readMinutes": 4,
+    "cover": "/assets/images/covers/growth-system.svg",
+    "coverCredit": "Đồ hoạ biên tập DNGWORKS",
+    "author": "Dũng Nguyễn",
+    "sources": [],
+    "i18n": {
+      "vi": {
+        "title": "Vì sao tăng ngân sách quảng cáo không giải quyết được một hệ thống marketing yếu?",
+        "summary": "Quảng cáo có thể khuếch đại một hệ thống tốt, nhưng cũng khuếch đại rất nhanh những điểm yếu trong định vị, nội dung, landing page và đo lường.",
+        "body": "<p>Doanh nghiệp thường nhìn thấy doanh số giảm và phản ứng bằng cách tăng ngân sách. Vấn đề là ngân sách chỉ là một đòn bẩy phân phối. Nó không tự sửa được định vị mơ hồ, thông điệp thiếu sức thuyết phục, trang đích yếu hay quy trình bán hàng chậm.</p><h2>Bắt đầu bằng chẩn đoán</h2><p>Hãy kiểm tra bốn tầng: nhu cầu thị trường, đề xuất giá trị, trải nghiệm chuyển đổi và hệ thống đo lường. Khi bốn tầng này đủ chắc, quảng cáo mới trở thành động cơ tăng trưởng thay vì khoản chi khó kiểm soát.</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      },
+      "en": {
+        "title": "Why more ad spend cannot fix a weak marketing system",
+        "summary": "Advertising amplifies a strong system, but it also amplifies weak positioning, content, landing pages and measurement.",
+        "body": "<p>Businesses often react to declining sales by increasing media spend. Budget is only a distribution lever. It cannot repair unclear positioning, weak messaging, a poor landing page or a slow sales process.</p><h2>Start with diagnosis</h2><p>Review four layers: market demand, value proposition, conversion experience and measurement. Once these layers are strong, advertising becomes a growth engine rather than an uncontrolled cost.</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      },
+      "zh": {
+        "title": "为什么增加广告预算无法修复薄弱的营销系统",
+        "summary": "广告会放大强大的系统，也会放大定位、内容、落地页和衡量体系中的弱点。",
+        "body": "<p>当销售下降时，企业常常直接增加广告预算。但预算只是分发杠杆，无法修复模糊的定位、缺乏说服力的信息、糟糕的落地页或缓慢的销售流程。</p><h2>从诊断开始</h2><p>检查四个层面：市场需求、价值主张、转化体验和衡量体系。只有这些层面足够稳固，广告才会成为增长引擎。</p>",
+        "takeaways": [],
+        "evidenceNote": ""
+      }
+    }
+  }
+]

@@ -1,28 +1,199 @@
 {
-  "schema": "dng-newsroom/1",
+  "schema": "dng-newsroom-archive/1",
+  "language": "en",
   "snapshotUpdatedAt": "2026-10-10T04:02:38.955Z",
-  "lastSuccessfulFetch": "2026-10-10T04:02:38.955Z",
-  "lastAttemptAt": "2026-10-10T04:02:38.955Z",
-  "lastAttemptResult": "ok",
   "stale": false,
-  "sourceCount": 3,
-  "total": 12,
-  "counts": {
-    "business-market": 3,
-    "ai-platforms": 11,
-    "ecommerce": 1,
-    "search-seo": 1
-  },
-  "log": {
-    "ok": [
-      {
-        "source": "news.json",
-        "entries": 58
-      }
-    ],
-    "failed": []
-  },
+  "total": 21,
   "items": [
+    {
+      "id": "revenue-leakage-marketing-sales-crm",
+      "type": "analysis",
+      "title": "7 revenue leaks between Marketing, Sales and CRM",
+      "summary": "A funnel rarely breaks in one place. Revenue usually leaks through small operational gaps in lead definition, response speed, handoff, follow-up and measurement.",
+      "localPath": "/intelligence/analysis/revenue-leakage-marketing-sales-crm/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "revenue-system"
+      ],
+      "imageUrl": "/assets/images/covers/revenue-system.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/revenue-system.svg",
+      "featured": true,
+      "readMinutes": 9,
+      "status": "published"
+    },
+    {
+      "id": "ai-search-b2b-customer-journey",
+      "type": "analysis",
+      "title": "How AI Search is changing the B2B buying journey",
+      "summary": "Buyers no longer search one keyword and open ten tabs. They ask longer questions, request comparisons and expect synthesized answers.",
+      "localPath": "/intelligence/analysis/ai-search-b2b-customer-journey/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "ai-data"
+      ],
+      "imageUrl": "/assets/images/covers/ai-search.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/ai-search.svg",
+      "featured": true,
+      "readMinutes": 8,
+      "status": "published"
+    },
+    {
+      "id": "crm-vs-spreadsheet-decision",
+      "type": "analysis",
+      "title": "Spreadsheet or CRM: when should a business switch?",
+      "summary": "Not every business needs CRM immediately. But once data, ownership and follow-up begin to break, staying on spreadsheets creates hidden cost.",
+      "localPath": "/intelligence/analysis/crm-vs-spreadsheet-decision/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "sales-crm"
+      ],
+      "imageUrl": "/assets/images/covers/sales-crm.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/sales-crm.svg",
+      "featured": true,
+      "readMinutes": 7,
+      "status": "published"
+    },
+    {
+      "id": "funnel-audit-60-minutes",
+      "type": "playbook",
+      "title": "A 60-minute funnel audit: what to inspect first",
+      "summary": "A fast audit process for finding likely revenue bottlenecks before recommending more budget or tools.",
+      "localPath": "/intelligence/playbooks/funnel-audit-60-minutes/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "playbook"
+      ],
+      "imageUrl": "/assets/images/covers/playbook.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/playbook.svg",
+      "featured": false,
+      "readMinutes": 6,
+      "status": "published"
+    },
+    {
+      "id": "people-first-content-system",
+      "type": "analysis",
+      "title": "Build a content system worth reading—not an SEO archive",
+      "summary": "A website with many articles is not necessarily valuable. Content must solve the right problem, show evidence and lead to a useful action.",
+      "localPath": "/intelligence/analysis/people-first-content-system/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/marketing-strategy.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/marketing-strategy.svg",
+      "featured": false,
+      "readMinutes": 7,
+      "status": "published"
+    },
+    {
+      "id": "lead-response-operating-system",
+      "type": "analysis",
+      "title": "Design a lead-response system that does not depend on memory",
+      "summary": "Speed is only one part. A good system assigns the right owner, uses the right context, remains measurable and does not lose leads after the first attempt.",
+      "localPath": "/intelligence/analysis/lead-response-operating-system/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "sales-crm"
+      ],
+      "imageUrl": "/assets/images/covers/lead-response.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/lead-response.svg",
+      "featured": false,
+      "readMinutes": 6,
+      "status": "published"
+    },
+    {
+      "id": "brand-trust-in-b2b",
+      "type": "briefing",
+      "title": "B2B does not only sell solutions. It sells confidence.",
+      "summary": "Business buyers assess capability through evidence, consistency, process and perceived collaboration risk.",
+      "localPath": "/intelligence/briefings/brand-trust-in-b2b/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-03",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/marketing-strategy.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/marketing-strategy.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
+    {
+      "id": "ai-workflow-for-marketing-team",
+      "type": "briefing",
+      "title": "Where should AI enter a marketing workflow first?",
+      "summary": "Do not begin by buying many tools. Begin with repetitive, time-consuming tasks that have clear inputs.",
+      "localPath": "/intelligence/briefings/ai-workflow-for-marketing-team/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-02",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/ai-data.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/ai-data.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
+    {
+      "id": "marketing-system-before-ad-spend",
+      "type": "briefing",
+      "title": "Why more ad spend cannot fix a weak marketing system",
+      "summary": "Advertising amplifies a strong system, but it also amplifies weak positioning, content, landing pages and measurement.",
+      "localPath": "/intelligence/briefings/marketing-system-before-ad-spend/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-01",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/growth-system.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/growth-system.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
     {
       "id": "148d33ec138b24a5",
       "type": "external_news",

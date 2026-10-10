@@ -1,0 +1,152 @@
+{
+  "/assets/images/hero/growth-architecture-poster-mobile": {
+    "src": "/assets/images/hero/growth-architecture-poster-mobile-768.webp",
+    "width": 768,
+    "aspect": 1.7689,
+    "srcset": "/assets/images/hero/growth-architecture-poster-mobile-768.webp 768w"
+  },
+  "/assets/images/hero/growth-architecture-poster": {
+    "src": "/assets/images/hero/growth-architecture-poster-1800.webp",
+    "width": 1800,
+    "aspect": 1.1123,
+    "srcset": "/assets/images/hero/growth-architecture-poster-768.webp 768w, /assets/images/hero/growth-architecture-poster-1200.webp 1200w, /assets/images/hero/growth-architecture-poster-1800.webp 1800w"
+  },
+  "/assets/images/portfolio/adeva-01": {
+    "src": "/assets/images/portfolio/adeva-01-768.webp",
+    "width": 768,
+    "aspect": 1.3371,
+    "srcset": "/assets/images/portfolio/adeva-01-480.webp 480w, /assets/images/portfolio/adeva-01-768.webp 768w"
+  },
+  "/assets/images/portfolio/adeva-04": {
+    "src": "/assets/images/portfolio/adeva-04-480.webp",
+    "width": 480,
+    "aspect": 1.4246,
+    "srcset": "/assets/images/portfolio/adeva-04-480.webp 480w"
+  },
+  "/assets/images/portfolio/adeva-05": {
+    "src": "/assets/images/portfolio/adeva-05-768.webp",
+    "width": 768,
+    "aspect": 1.3312,
+    "srcset": "/assets/images/portfolio/adeva-05-480.webp 480w, /assets/images/portfolio/adeva-05-768.webp 768w"
+  },
+  "/assets/images/portfolio/koi-service-01": {
+    "src": "/assets/images/portfolio/koi-service-01-1200.webp",
+    "width": 1200,
+    "aspect": 1.2035,
+    "srcset": "/assets/images/portfolio/koi-service-01-480.webp 480w, /assets/images/portfolio/koi-service-01-768.webp 768w, /assets/images/portfolio/koi-service-01-1200.webp 1200w"
+  },
+  "/assets/images/portfolio/koi-service-03": {
+    "src": "/assets/images/portfolio/koi-service-03-480.webp",
+    "width": 480,
+    "aspect": 1.4502,
+    "srcset": "/assets/images/portfolio/koi-service-03-480.webp 480w"
+  },
+  "/assets/images/portfolio/koi-service-04": {
+    "src": "/assets/images/portfolio/koi-service-04-480.webp",
+    "width": 480,
+    "aspect": 1.4398,
+    "srcset": "/assets/images/portfolio/koi-service-04-480.webp 480w"
+  },
+  "/assets/images/portfolio/koi-service-05": {
+    "src": "/assets/images/portfolio/koi-service-05-768.webp",
+    "width": 768,
+    "aspect": 1.7741,
+    "srcset": "/assets/images/portfolio/koi-service-05-480.webp 480w, /assets/images/portfolio/koi-service-05-768.webp 768w"
+  },
+  "/assets/images/portfolio/phe-ly-01": {
+    "src": "/assets/images/portfolio/phe-ly-01-768.webp",
+    "width": 768,
+    "aspect": 1.1637,
+    "srcset": "/assets/images/portfolio/phe-ly-01-480.webp 480w, /assets/images/portfolio/phe-ly-01-768.webp 768w"
+  },
+  "/assets/images/portfolio/phe-ly-02": {
+    "src": "/assets/images/portfolio/phe-ly-02-480.webp",
+    "width": 480,
+    "aspect": 1.1688,
+    "srcset": "/assets/images/portfolio/phe-ly-02-480.webp 480w"
+  },
+  "/assets/images/portfolio/phe-ly-03": {
+    "src": "/assets/images/portfolio/phe-ly-03-1200.webp",
+    "width": 1200,
+    "aspect": 1.0,
+    "srcset": "/assets/images/portfolio/phe-ly-03-480.webp 480w, /assets/images/portfolio/phe-ly-03-768.webp 768w, /assets/images/portfolio/phe-ly-03-1200.webp 1200w"
+  },
+  "/assets/images/portfolio/phe-ly-04": {
+    "src": "/assets/images/portfolio/phe-ly-04-768.webp",
+    "width": 768,
+    "aspect": 0.9404,
+    "srcset": "/assets/images/portfolio/phe-ly-04-480.webp 480w, /assets/images/portfolio/phe-ly-04-768.webp 768w"
+  },
+  "/assets/images/portfolio/phe-ly-05": {
+    "src": "/assets/images/portfolio/phe-ly-05-768.webp",
+    "width": 768,
+    "aspect": 1.1415,
+    "srcset": "/assets/images/portfolio/phe-ly-05-480.webp 480w, /assets/images/portfolio/phe-ly-05-768.webp 768w"
+  },
+  "/assets/images/portfolio/phong-cach-moc-01": {
+    "src": "/assets/images/portfolio/phong-cach-moc-01-768.webp",
+    "width": 768,
+    "aspect": 1.1408,
+    "srcset": "/assets/images/portfolio/phong-cach-moc-01-480.webp 480w, /assets/images/portfolio/phong-cach-moc-01-768.webp 768w"
+  },
+  "/assets/images/portfolio/phong-cach-moc-02": {
+    "src": "/assets/images/portfolio/phong-cach-moc-02-768.webp",
+    "width": 768,
+    "aspect": 1.2721,
+    "srcset": "/assets/images/portfolio/phong-cach-moc-02-480.webp 480w, /assets/images/portfolio/phong-cach-moc-02-768.webp 768w"
+  },
+  "/assets/images/portfolio/phong-cach-moc-03": {
+    "src": "/assets/images/portfolio/phong-cach-moc-03-1200.webp",
+    "width": 1200,
+    "aspect": 1.4098,
+    "srcset": "/assets/images/portfolio/phong-cach-moc-03-480.webp 480w, /assets/images/portfolio/phong-cach-moc-03-768.webp 768w, /assets/images/portfolio/phong-cach-moc-03-1200.webp 1200w"
+  },
+  "/assets/images/portfolio/phong-cach-moc-04": {
+    "src": "/assets/images/portfolio/phong-cach-moc-04-768.webp",
+    "width": 768,
+    "aspect": 1.6483,
+    "srcset": "/assets/images/portfolio/phong-cach-moc-04-480.webp 480w, /assets/images/portfolio/phong-cach-moc-04-768.webp 768w"
+  },
+  "/assets/images/portfolio/phong-cach-moc-05": {
+    "src": "/assets/images/portfolio/phong-cach-moc-05-768.webp",
+    "width": 768,
+    "aspect": 1.8619,
+    "srcset": "/assets/images/portfolio/phong-cach-moc-05-480.webp 480w, /assets/images/portfolio/phong-cach-moc-05-768.webp 768w"
+  },
+  "/assets/images/portfolio/phong-cach-moc-06": {
+    "src": "/assets/images/portfolio/phong-cach-moc-06-1200.webp",
+    "width": 1200,
+    "aspect": 1.3598,
+    "srcset": "/assets/images/portfolio/phong-cach-moc-06-480.webp 480w, /assets/images/portfolio/phong-cach-moc-06-768.webp 768w, /assets/images/portfolio/phong-cach-moc-06-1200.webp 1200w"
+  },
+  "/assets/images/portfolio/phuc-dai-nam-01": {
+    "src": "/assets/images/portfolio/phuc-dai-nam-01-1200.webp",
+    "width": 1200,
+    "aspect": 1.5988,
+    "srcset": "/assets/images/portfolio/phuc-dai-nam-01-480.webp 480w, /assets/images/portfolio/phuc-dai-nam-01-768.webp 768w, /assets/images/portfolio/phuc-dai-nam-01-1200.webp 1200w"
+  },
+  "/assets/images/portfolio/phuc-dai-nam-03": {
+    "src": "/assets/images/portfolio/phuc-dai-nam-03-768.webp",
+    "width": 768,
+    "aspect": 1.7412,
+    "srcset": "/assets/images/portfolio/phuc-dai-nam-03-480.webp 480w, /assets/images/portfolio/phuc-dai-nam-03-768.webp 768w"
+  },
+  "/assets/images/portfolio/phuc-dai-nam-04": {
+    "src": "/assets/images/portfolio/phuc-dai-nam-04-1200.webp",
+    "width": 1200,
+    "aspect": 1.702,
+    "srcset": "/assets/images/portfolio/phuc-dai-nam-04-480.webp 480w, /assets/images/portfolio/phuc-dai-nam-04-768.webp 768w, /assets/images/portfolio/phuc-dai-nam-04-1200.webp 1200w"
+  },
+  "/assets/images/portfolio/phuc-dai-nam-05": {
+    "src": "/assets/images/portfolio/phuc-dai-nam-05-1200.webp",
+    "width": 1200,
+    "aspect": 1.5502,
+    "srcset": "/assets/images/portfolio/phuc-dai-nam-05-480.webp 480w, /assets/images/portfolio/phuc-dai-nam-05-768.webp 768w, /assets/images/portfolio/phuc-dai-nam-05-1200.webp 1200w"
+  },
+  "/assets/images/ui/zalo-qr": {
+    "src": "/assets/images/ui/zalo-qr-480.webp",
+    "width": 480,
+    "aspect": 1.0,
+    "srcset": "/assets/images/ui/zalo-qr-480.webp 480w"
+  }
+}

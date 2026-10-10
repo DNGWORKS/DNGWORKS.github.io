@@ -1,28 +1,199 @@
 {
-  "schema": "dng-newsroom/1",
+  "schema": "dng-newsroom-archive/1",
+  "language": "zh",
   "snapshotUpdatedAt": "2026-10-10T04:02:38.955Z",
-  "lastSuccessfulFetch": "2026-10-10T04:02:38.955Z",
-  "lastAttemptAt": "2026-10-10T04:02:38.955Z",
-  "lastAttemptResult": "ok",
   "stale": false,
-  "sourceCount": 3,
-  "total": 12,
-  "counts": {
-    "business-market": 3,
-    "ai-platforms": 11,
-    "ecommerce": 1,
-    "search-seo": 1
-  },
-  "log": {
-    "ok": [
-      {
-        "source": "news.json",
-        "entries": 58
-      }
-    ],
-    "failed": []
-  },
+  "total": 21,
   "items": [
+    {
+      "id": "revenue-leakage-marketing-sales-crm",
+      "type": "analysis",
+      "title": "营销、销售与 CRM 之间的 7 个收入流失点",
+      "summary": "漏斗通常不是在一个环节失效，而是在潜客定义、响应速度、交接、跟进与衡量等多个小环节持续流失收入。",
+      "localPath": "/intelligence/analysis/revenue-leakage-marketing-sales-crm/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "revenue-system"
+      ],
+      "imageUrl": "/assets/images/covers/revenue-system.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/revenue-system.svg",
+      "featured": true,
+      "readMinutes": 9,
+      "status": "published"
+    },
+    {
+      "id": "ai-search-b2b-customer-journey",
+      "type": "analysis",
+      "title": "AI 搜索如何改变 B2B 购买旅程",
+      "summary": "客户不再只搜索一个关键词并打开十个页面，而是提出更长的问题、要求比较并期待整合后的答案。",
+      "localPath": "/intelligence/analysis/ai-search-b2b-customer-journey/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "ai-data"
+      ],
+      "imageUrl": "/assets/images/covers/ai-search.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/ai-search.svg",
+      "featured": true,
+      "readMinutes": 8,
+      "status": "published"
+    },
+    {
+      "id": "crm-vs-spreadsheet-decision",
+      "type": "analysis",
+      "title": "电子表格还是 CRM：企业何时应该切换？",
+      "summary": "并非所有企业都需要立即使用 CRM，但当数据、责任和跟进开始失控时，继续使用表格会产生隐藏成本。",
+      "localPath": "/intelligence/analysis/crm-vs-spreadsheet-decision/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "sales-crm"
+      ],
+      "imageUrl": "/assets/images/covers/sales-crm.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/sales-crm.svg",
+      "featured": true,
+      "readMinutes": 7,
+      "status": "published"
+    },
+    {
+      "id": "funnel-audit-60-minutes",
+      "type": "playbook",
+      "title": "60 分钟漏斗审计：先检查什么？",
+      "summary": "在增加预算或工具之前，用快速审计流程定位最可能造成收入损失的瓶颈。",
+      "localPath": "/intelligence/playbooks/funnel-audit-60-minutes/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "playbook"
+      ],
+      "imageUrl": "/assets/images/covers/playbook.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/playbook.svg",
+      "featured": false,
+      "readMinutes": 6,
+      "status": "published"
+    },
+    {
+      "id": "people-first-content-system",
+      "type": "analysis",
+      "title": "建立值得阅读的内容系统，而不是 SEO 文章仓库",
+      "summary": "文章数量多并不代表有价值。内容必须解决正确问题、展示证据，并引导读者采取有用行动。",
+      "localPath": "/intelligence/analysis/people-first-content-system/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/marketing-strategy.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/marketing-strategy.svg",
+      "featured": false,
+      "readMinutes": 7,
+      "status": "published"
+    },
+    {
+      "id": "lead-response-operating-system",
+      "type": "analysis",
+      "title": "设计不依赖个人记忆的潜客响应系统",
+      "summary": "速度只是其中一部分。好的系统还要分配正确负责人、使用正确上下文、可衡量，并避免潜客在第一次联系后消失。",
+      "localPath": "/intelligence/analysis/lead-response-operating-system/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-07-31",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "sales-crm"
+      ],
+      "imageUrl": "/assets/images/covers/lead-response.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/lead-response.svg",
+      "featured": false,
+      "readMinutes": 6,
+      "status": "published"
+    },
+    {
+      "id": "brand-trust-in-b2b",
+      "type": "briefing",
+      "title": "B2B 不只销售解决方案，更销售可信度。",
+      "summary": "企业买家通过证据、一致性、流程和合作风险来评估能力。",
+      "localPath": "/intelligence/briefings/brand-trust-in-b2b/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-03",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/marketing-strategy.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/marketing-strategy.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
+    {
+      "id": "ai-workflow-for-marketing-team",
+      "type": "briefing",
+      "title": "人工智能应该首先进入营销流程的哪个环节？",
+      "summary": "不要从购买大量工具开始，而要从重复、耗时且输入清晰的任务开始。",
+      "localPath": "/intelligence/briefings/ai-workflow-for-marketing-team/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-02",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/ai-data.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/ai-data.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
+    {
+      "id": "marketing-system-before-ad-spend",
+      "type": "briefing",
+      "title": "为什么增加广告预算无法修复薄弱的营销系统",
+      "summary": "广告会放大强大的系统，也会放大定位、内容、落地页和衡量体系中的弱点。",
+      "localPath": "/intelligence/briefings/marketing-system-before-ad-spend/",
+      "canonicalUrl": null,
+      "sourceName": "DNGWORKS",
+      "publishedAt": "2026-06-01",
+      "fetchedAt": null,
+      "categorySlugs": [
+        "marketing-strategy"
+      ],
+      "imageUrl": "/assets/images/covers/growth-system.svg",
+      "imageRightsStatus": "approved",
+      "imageCredit": "Đồ hoạ biên tập DNGWORKS",
+      "cover": "/assets/images/covers/growth-system.svg",
+      "featured": false,
+      "readMinutes": 4,
+      "status": "published"
+    },
     {
       "id": "148d33ec138b24a5",
       "type": "external_news",

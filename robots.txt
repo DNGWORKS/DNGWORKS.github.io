@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /portfolio/
-Disallow: /en/portfolio/
-Disallow: /zh/portfolio/
 
 Sitemap: https://dngworks.github.io/sitemap.xml
